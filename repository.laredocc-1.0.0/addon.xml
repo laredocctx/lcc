@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.laredocc" name="LaredoCC Repository" version="1.0.0" provider-name="Laredo Cord Cutters">
+	<extension point="xbmc.addon.repository" name="LaredoCC Repository">
+		<info compressed="false">http://laredocordcutters.com/addons/addons.xml</info>
+		<checksum>http://laredocordcutters.com/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://laredocordcutters.com/files/repo/repository.laredocc-1.0.0/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
