@@ -4,7 +4,7 @@ http://192.99.149.14:25461/live/tim1/1980/7215.ts
 #EXTINF:-1,US: A&E HD
 http://192.99.149.14:25461/live/tim1/1980/7150.ts
 #EXTINF:-1,US: A&E TV HD
-http://192.99.149.14:25461/live/tim1/1980/7151.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.149.14:25461/live/tim1/1980/7151.ts
 #EXTINF:-1,ABC Dallas
 http://192.99.149.14:25461/live/tim1/1980/7469.ts
 #EXTINF:-1,ABC Lancaster PA
