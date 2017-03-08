@@ -1,451 +1,657 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CBS WCAX Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12191689_10156182147625442_3308013298243182846_n.jpg?oh=d38b31830df8488f3c2e227de90a60c5&oe=5917BF48" group-title="LOCALS",CBS WCAX Network HD
-http://149.56.240.30:25461/live/roku/Demo/1451.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC HD Network" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11209521_10153328326375956_7217353411616735971_n.jpg?oh=6aece397a7e26764fa5de1bdcb937698&oe=59172AAE" group-title="LOCALS",NBC HD Network
-http://149.56.240.30:25461/live/roku/Demo/1420.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX 43  Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11261924_10153323587388331_2689768029825793209_n.jpg?oh=4b1ef0d315b40b73576c4e0b6e47afb7&oe=5902D416" group-title="LOCALS",FOX 43  Network HD
-http://149.56.240.30:25461/live/roku/Demo/1404.ts
-#EXTINF:-1 tvg-id="" tvg-name="KTLA" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/15590560_10154948053679614_3586066434552147242_n.png?oh=233badd792821b9b47620b9bb6c15988&oe=58DC75E8" group-title="LOCALS",KTLA
-http://149.56.240.30:25461/live/roku/Demo/74.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY9 TV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12376539_908535709243485_4940738445215229668_n.jpg?oh=bcd4b3510aa123d35b150c7fbcf35b05&oe=591436C0" group-title="LOCALS",MY9 TV HD
-http://149.56.240.30:25461/live/roku/Demo/1419.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO (US) TV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14102250_10154061008626865_4112905586023260519_n.jpg?oh=2558c728ad430c939a566c6e92e70182&oe=590CECF1" group-title="LOCALS",TELEMUNDO (US) TV
-http://149.56.240.30:25461/live/roku/Demo/1171.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: CH4 News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RDt75Gg_HGFn5_pw-GcACD55jEr2kP8ISJwKf_3HKzNj-w4b" group-title="LOCALS",USA: CH4 News
-http://149.56.240.30:25461/live/roku/Demo/163.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Carolina" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10401963_286415194815920_7027908474880279119_n.png?oh=cdf44d30f175f4ea0b1c6fe5a124e261&oe=5911B860" group-title="LOCALS",USA: Fox Carolina
-http://149.56.240.30:25461/live/roku/Demo/168.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox 29" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/14632864_10154310296228855_65018107907799099_n.jpg?oh=aad1e8702bd954d826624c564b61be5c&oe=591C553F" group-title="LOCALS",USA: Fox 29
-http://149.56.240.30:25461/live/roku/Demo/167.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox 13 News Tamp" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/1510363_10152139591595586_1604477507_n.png?oh=11dee96125e05625fe38ef05b0f15df3&oe=590C7C8F" group-title="LOCALS",USA: Fox 13 News Tamp
-http://149.56.240.30:25461/live/roku/Demo/164.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox 11 Angeles" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/542271_10151467131795553_1044039932_n.jpg?oh=6d72930c9411f0fe998325e16691e6cd&oe=590C732A" group-title="LOCALS",USA: Fox 11 Angeles
-http://149.56.240.30:25461/live/roku/Demo/147.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_zsTAZCaVffpRhckpTaGxdDh4zlV31TwTeiW7T5LS8dpVbVR" group-title="LOCALS",USA: ABC 7
-http://149.56.240.30:25461/live/roku/Demo/170.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 5 News" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaMoEyWmedYFiS85tW1UyJxTOkmWcN5GUFH99CiNinRFx6k3h8GA" group-title="LOCALS",USA: ABC 5 News
-http://149.56.240.30:25461/live/roku/Demo/169.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA : ABC HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/942494_10151689619560420_436919851_n.jpg?oh=514fc80e88a7d084bb24a71e8425e161&oe=58FED25E" group-title="LOCALS",USA : ABC HD
-http://149.56.240.30:25461/live/roku/Demo/1379.ts
-#EXTINF:-1 tvg-id="" tvg-name="CW HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14485150_10154540932342436_5672082680099289854_n.png?oh=fe31a187cbc9b3f94f62a70ce504fea0&oe=59160651" group-title="LOCALS",CW HD
-http://149.56.240.30:25461/live/roku/Demo/1399.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/522933_370825226338922_1905215549_n.jpg?oh=95ec3c154c379a6f6d8e657ddfe0afbe&oe=591D89A1" group-title="SPORTS",ESPN HD
-http://149.56.240.30:25461/live/roku/Demo/1401.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c60.0.300.300/1012291_280816678734200_1596869205_n.png?oh=75ccd4154d9294a7357d777c677c7938&oe=5906CFF8" group-title="SPORTS",ESPN 2 HD
-http://149.56.240.30:25461/live/roku/Demo/1403.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN News HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/522933_370825226338922_1905215549_n.jpg?oh=95ec3c154c379a6f6d8e657ddfe0afbe&oe=591D89A1" group-title="SPORTS",ESPN News HD
-http://149.56.240.30:25461/live/roku/Demo/1402.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c12.0.720.720/p720x720/11988690_1048511578514748_3162780639692186422_n.jpg?oh=0bfd3c80e99b628d2f9cd7dace87c2a4&oe=590D01A5" group-title="SPORTS",NBA TV HD
-http://149.56.240.30:25461/live/roku/Demo/1470.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12274221_10154036163004171_6892010803070327645_n.png?oh=d9ac19a845f504c88051e9ff1f2559f1&oe=58D7C0E9" group-title="SPORTS",NFL Network HD
-http://149.56.240.30:25461/live/roku/Demo/1422.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL Now HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t31.0-1/c266.50.621.621/p720x720/1049266_273220756150559_1035128437_o.png?oh=923d351a25f89ec9071a0ec82f92eea3&oe=5906CEF8" group-title="SPORTS",NFL Now HD
-http://149.56.240.30:25461/live/roku/Demo/1423.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="SPORTS",NHL Network HD
-http://149.56.240.30:25461/live/roku/Demo/1424.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12961453_10153364261926695_3393572556358289910_n.jpg?oh=4c1ff3a48b28c21d3095a47b91b3aac6&oe=591F0D4B" group-title="SPORTS",MLB Network HD
-http://149.56.240.30:25461/live/roku/Demo/1416.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sec Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p320x320/15727336_508190162685063_3550285285902045832_n.jpg?oh=2e3bdc4e94c544f4ef21aea4b6e42a3a&oe=5907EDF3" group-title="SPORTS",Sec Network HD
-http://149.56.240.30:25461/live/roku/Demo/1472.ts
-#EXTINF:-1 tvg-id="" tvg-name="Big Ten Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/423255_10150585029119022_584152423_n.jpg?oh=204dcf649d6d4f9901d19227554c9050&oe=5906FF5A" group-title="SPORTS",Big Ten Network HD
-http://149.56.240.30:25461/live/roku/Demo/1388.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c18.18.221.221/942976_457503524331318_432288110_n.jpg?oh=bb201d410378651cd597701ce3f345ae&oe=591159CB" group-title="SPORTS",Fox Sports 1 HD
-http://149.56.240.30:25461/live/roku/Demo/1460.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c97.0.684.684/1469795_1438519656360256_2128187146_n.png?oh=7e416f4d7c6105f7ceac2016c6d3c6a5&oe=58D8F4CA" group-title="SPORTS",Fox Sports 2 HD
-http://149.56.240.30:25461/live/roku/Demo/1461.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spike HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14731112_10154546772812159_3245588957089119405_n.jpg?oh=5fd415067618ec110bf6a970b88dda80&oe=5904D532" group-title="ENTERTAINMENT",Spike HD
-http://149.56.240.30:25461/live/roku/Demo/1432.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD USA" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15823118_1415295985176886_5829051215166113399_n.jpg?oh=a7fdfbae900fbbc35b550cac071a96ff&oe=5909378F" group-title="SPORTS",BEIN SPORTS HD USA
-http://149.56.240.30:25461/live/roku/Demo/1450.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT FHD 1 (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="SPORTS",BT FHD 1 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1315.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT FHD 2 (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="SPORTS",BT FHD 2 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1316.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT FHD 3 (UK)" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="SPORTS",BT FHD 3 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1317.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT HD1 (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="SPORTS",BT HD1 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1318.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT HD2 (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="SPORTS",BT HD2 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1319.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT HD3 (UK)" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="SPORTS",BT HD3 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1320.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT ESPN HD (UK)" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQDXWsCa7W-8e3-f&w=264&h=264&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fe%2Fe4%2FBT_Sport_ESPN_logo.png%2F720px-BT_Sport_ESPN_logo.png&colorbox&f&_nc_hash=AQDI531eFH4QyH3e" group-title="SPORTS",BT ESPN HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1314.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports  5 HD (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="SPORTS",Sky Sports  5 HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1364.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports  F1 HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12289559_992503957472935_6761120998085629748_n.jpg?oh=eb9b479d2b2a27cbab29898c6e7a3601&oe=58D84826" group-title="SPORTS",Sky Sports  F1 HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1365.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 HD (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="SPORTS",Sky Sports 1 HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1360.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 HD (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="SPORTS",Sky Sports 2 HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1361.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 HD (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="SPORTS",Sky Sports 3 HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1362.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4 HD (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="SPORTS",Sky Sports 4 HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1363.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports FHD 1 (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12289559_992503957472935_6761120998085629748_n.jpg?oh=eb9b479d2b2a27cbab29898c6e7a3601&oe=58D84826" group-title="SPORTS",Sky Sports FHD 1 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1366.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports FHD 3 (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="SPORTS",Sky Sports FHD 3 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1367.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FHD 4 (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="SPORTS",SKY SPORTS FHD 4 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1303.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FHD 5 (UK)" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="SPORTS",SKY SPORTS FHD 5 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1304.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports FHD F1 (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12289559_992503957472935_6761120998085629748_n.jpg?oh=eb9b479d2b2a27cbab29898c6e7a3601&oe=58D84826" group-title="SPORTS",Sky Sports FHD F1 (UK)
-http://149.56.240.30:25461/live/roku/Demo/1368.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MIX HD (UK)" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/05/Sky-Sports-Mix.png" group-title="SPORTS",SKY SPORTS MIX HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1305.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1454594_1445858425695052_7498280703314960708_n.png?oh=07747a455571198011f6837da3424406&oe=591C01FA" group-title="SPORTS",Sky Sports News HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1369.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet 360 HD (CA)" tvg-logo="http://www.canadasoccertv.ca/img/channel_sn360.jpg" group-title="SPORTS",Sportsnet 360 HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1269.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Central HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/l/t1.0-1/p720x720/10404215_523320147840588_7658758346295668557_n.jpg?oh=2a5cefccd5741a522718a9aa8523f3d9&oe=5904E2AA" group-title="SPORTS",Sportsnet Central HD
-http://149.56.240.30:25461/live/roku/Demo/1431.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East HD (CA)" tvg-logo="http://www.cablecable.net/files/2514/0354/0155/Sportsnet_East_Primary.jpg" group-title="SPORTS",Sportsnet East HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1270.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet One HD (CA)" tvg-logo="http://tgo-tv.com/images/tv/sn-one.png" group-title="SPORTS",Sportsnet One HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1271.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario HD (CA)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Sportsnet_ontario.png" group-title="SPORTS",Sportsnet Ontario HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1272.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Pacific HD (CA)" tvg-logo="http://www.cablecable.net/files/4414/0354/0157/Sportsnet_Pacific_Primary.jpg" group-title="SPORTS",Sportsnet Pacific HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1273.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West HD (CA)" tvg-logo="http://www.cablecable.net/files/7814/0354/0158/Sportsnet_West_Primary.jpg" group-title="SPORTS",Sportsnet West HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1274.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet World HD (CA)" tvg-logo="https://lh4.ggpht.com/5_w-sBZYmw6sA7FX042CkXySvb3FW3ex681Jg679Mi5_GCoKnHaJYIwNayea2sjf7g=w300" group-title="SPORTS",Sportsnet World HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1275.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15780739_10154971657834175_4287277781990279402_n.jpg?oh=6458f3858bc17211f9b3121807674d39&oe=591685AD" group-title="SPORTS",Tennis Channel HD
-http://149.56.240.30:25461/live/roku/Demo/1438.ts
-#EXTINF:-1 tvg-id="" tvg-name="TSN HD 1 (CA)" tvg-logo="http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN1_CMYK.jpg" group-title="SPORTS",TSN HD 1 (CA)
-http://149.56.240.30:25461/live/roku/Demo/1279.ts
-#EXTINF:-1 tvg-id="" tvg-name="TSN HD 2 (CA)" tvg-logo="http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN2_CMYK.jpg" group-title="SPORTS",TSN HD 2 (CA)
-http://149.56.240.30:25461/live/roku/Demo/1280.ts
-#EXTINF:-1 tvg-id="" tvg-name="TSN HD 3 (CA)" tvg-logo="http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN3_CMYK.jpg" group-title="SPORTS",TSN HD 3 (CA)
-http://149.56.240.30:25461/live/roku/Demo/1281.ts
-#EXTINF:-1 tvg-id="" tvg-name="TSN HD 4 (CA)" tvg-logo="http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN4_CMYK.jpg" group-title="SPORTS",TSN HD 4 (CA)
-http://149.56.240.30:25461/live/roku/Demo/1282.ts
-#EXTINF:-1 tvg-id="" tvg-name="TSN HD 5 (CA)" tvg-logo="http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN5_CMYK.jpg" group-title="SPORTS",TSN HD 5 (CA)
-http://149.56.240.30:25461/live/roku/Demo/1283.ts
-#EXTINF:-1 tvg-id="" tvg-name="VELOCITY HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15871479_1403979922970286_6454080743250461916_n.jpg?oh=43fa642e41989c761670cba759fb45a2&oe=5905CB25" group-title="SPORTS",VELOCITY HD
-http://149.56.240.30:25461/live/roku/Demo/1475.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13529057_10154318460560746_5755916012599518164_n.jpg?oh=61092cd28a7435a4ee0b1f5024a983da&oe=58DC0391" group-title="SPORTS",NBCSN HD
-http://149.56.240.30:25461/live/roku/Demo/1421.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12227209_990180371004841_9143985061435387495_n.jpg?oh=11972c9ae588cf94bd090ffb7d6c43c0&oe=58DB2F41" group-title="SPORTS",Premier Sports HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1341.ts
-#EXTINF:-1 tvg-id="" tvg-name="Racing UK HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c2.0.197.197/577410_10150672278771736_1443526785_n.jpg?oh=4eccff06b0e7bb7603917a456fddeda0&oe=591BFB84" group-title="SPORTS",Racing UK HD
-http://149.56.240.30:25461/live/roku/Demo/1342.ts
-#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12795515_765221486956249_3475128170440817552_n.jpg?oh=341c52e5f9d65c7467943c2001d9d4b0&oe=5906A4D9" group-title="SPORTS",Willow Cricket HD
-http://149.56.240.30:25461/live/roku/Demo/1445.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFN Sports HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWmMoLXAC19ZzsWzMr3MA2T38owszW9JdNF9Ad24Nv-yliKYYp" group-title="SPORTS",AFN Sports HD
-http://149.56.240.30:25461/live/roku/Demo/1386.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFN Sports 2 HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWmMoLXAC19ZzsWzMr3MA2T38owszW9JdNF9Ad24Nv-yliKYYp" group-title="SPORTS",AFN Sports 2 HD
-http://149.56.240.30:25461/live/roku/Demo/1387.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15420809_1474806585880743_5248973368918674581_n.png?oh=4293cb7964585e7adcccde1307243729&oe=59164157" group-title="SPORTS",Eleven Sports HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1329.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1004950_579102532184291_2120714522_n.jpg?oh=72ca9449ae353a554b4823c650c51c6f&oe=58D6AB80" group-title="SPORTS",WWE Network HD
-http://149.56.240.30:25461/live/roku/Demo/1446.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/7510_10151706236618933_1256631440_n.jpg?oh=1a4dad6767ab85ca0edc8a69fff2bc34&oe=58D7887B" group-title="MOVIES PREMIUM",HBO HD
-http://149.56.240.30:25461/live/roku/Demo/1464.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11666149_951767074869360_7997318389322158572_n.jpg?oh=b2c2af1bcddd5d86c899144c080cb659&oe=58DA7DED" group-title="MOVIES PREMIUM",HBO HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1261.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c271.21.259.259/603937_10151077872282443_1233503454_n.png?oh=f09a05400a47e327b46c22f5a4762cc3&oe=59107291" group-title="MOVIES PREMIUM",HBO 2 HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1260.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO East (US)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/7510_10151706236618933_1256631440_n.jpg?oh=1a4dad6767ab85ca0edc8a69fff2bc34&oe=58D7887B" group-title="MOVIES PREMIUM",HBO East (US)
-http://go.teamexpat.ninja/live/touchtone123/farting2016times/45170.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO FamilyHD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c141.41.517.517/555696_492085294154148_480136420_n.jpg?oh=993b034fbb1537b8c2c056fa6974e92b&oe=590C61F1" group-title="KIDS",HBO FamilyHD
-http://149.56.240.30:25461/live/roku/Demo/1411.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Zone HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c144.0.480.480/p480x480/1928916_182511502138089_1278944693360358220_n.jpg?oh=dba5da395d99640cb1421d52cb84f166&oe=590B56D6" group-title="MOVIES PREMIUM",HBO Zone HD
-http://149.56.240.30:25461/live/roku/Demo/1412.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12439093_10153770587329219_6181312887041844884_n.jpg?oh=2d00c20946805ab705041a3e0c19a975&oe=59151D8A" group-title="MOVIES PREMIUM",Starz HD
-http://149.56.240.30:25461/live/roku/Demo/1434.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p320x320/12439093_10153770587329219_6181312887041844884_n.jpg?oh=36a82dfc3d18e24165b9fe5a7f3f39e1&oe=5921BE68" group-title="MOVIES PREMIUM",Starz Edge HD
-http://149.56.240.30:25461/live/roku/Demo/1433.ts
-#EXTINF:-1 tvg-id="" tvg-name="Showtime HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11403179_10155784577100486_1637207033524889893_n.jpg?oh=4932c49aa513ab191e4d9f8a365faf69&oe=5921AED2" group-title="MOVIES PREMIUM",Showtime HD
-http://149.56.240.30:25461/live/roku/Demo/1430.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/13332794_10154864811374256_4461765196857029211_n.png?oh=5855da31a865385bc51f3039a4a9ec88&oe=58D98990" group-title="MOVIES PREMIUM",Cinemax HD
-http://149.56.240.30:25461/live/roku/Demo/1394.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax MoreMax HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/13332794_10154864811374256_4461765196857029211_n.png?oh=5855da31a865385bc51f3039a4a9ec88&oe=58D98990" group-title="MOVIES PREMIUM",Cinemax MoreMax HD
-http://149.56.240.30:25461/live/roku/Demo/1395.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax ThrillerMax HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/13332794_10154864811374256_4461765196857029211_n.png?oh=5855da31a865385bc51f3039a4a9ec88&oe=58D98990" group-title="MOVIES PREMIUM",Cinemax ThrillerMax HD
-http://149.56.240.30:25461/live/roku/Demo/1396.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Hits HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png" group-title="MOVIES PREMIUM",Sky Movies Hits HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1354.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Sci-Fi Horror HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/typywu1433965191.png" group-title="MOVIES PREMIUM",Sky Movies Sci-Fi Horror HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1356.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Select HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png" group-title="MOVIES PREMIUM",Sky Movies Select HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1357.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Thriller HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/xwxtvs1433841062.png" group-title="MOVIES PREMIUM",Sky Movies Thriller HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1358.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Action HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/srvusx1466367859.png" group-title="MOVIES PREMIUM",Sky Movies Action HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1348.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Comedy HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png" group-title="MOVIES PREMIUM",Sky Movies Comedy HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1349.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Family HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/qsyrrq1433965141.png" group-title="KIDS",Sky Movies Family HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1352.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Greats HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png" group-title="MOVIES PREMIUM",Sky Movies Greats HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1353.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/wrxwtw1433965123.png" group-title="MOVIES PREMIUM",Sky Movies HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1350.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Drama,Romance & Christmas HD (UK)" tvg-logo="http://www.thelogodb.com/images/media/logo/vqxspw1433965132.png" group-title="MOVIES PREMIUM",Sky Movies Drama,Romance & Christmas HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1351.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14671268_10157597005970173_2850323839291428797_n.png?oh=6ad37aa109b6a2bd69868db4c41f0c43&oe=5923DF3D" group-title="CANADA",TLC HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1276.ts
-#EXTINF:-1 tvg-id="" tvg-name="Slice HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15192571_10154631843071101_1773311186757038298_n.jpg?oh=2716219c49fff63a2e56b1101d5b162e&oe=590E6804" group-title="CANADA",Slice HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1268.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1005364_10151732406307169_465748968_n.png?oh=00c39d20efc237c4931af214d421a0bf&oe=58D9109D" group-title="CANADA",PBS HD (CA)
-http://globeiptv.ddns.net:9999/live/ALEXG/64tXHbMaSn/226.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS Vermont  HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/554455_10150703447332042_1408148968_n.jpg?oh=a680b2c7876ed15be72361a75a1cf8f1&oe=59236B05" group-title="KIDS",PBS Vermont  HD
-http://149.56.240.30:25461/live/roku/Demo/1286.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/16105592_10154515633173375_8875477781698189885_n.png?oh=aa9da21a55f5495b73ef5f408c97fdfe&oe=591B5310" group-title="CANADA",Animal Planet HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1267.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC FHD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13529057_10154318460560746_5755916012599518164_n.jpg?oh=61092cd28a7435a4ee0b1f5024a983da&oe=58DC0391" group-title="CANADA",NBC FHD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1265.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14292354_1394921897188207_3878577192535789429_n.png?oh=397238f458e0df13ab8c58a0dd6cb0bf&oe=58D7BD6C" group-title="CANADA",MOVIES HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1264.ts
-#EXTINF:-1 tvg-id="" tvg-name="ME TV HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14183758_10154971049441686_2720979800482078809_n.jpg?oh=49b328f96618c0a2fdc6df2c922883b7&oe=5905E5C0" group-title="CANADA",ME TV HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1263.ts
-#EXTINF:-1 tvg-id="" tvg-name="HLN HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11666149_951767074869360_7997318389322158572_n.jpg?oh=b2c2af1bcddd5d86c899144c080cb659&oe=58DA7DED" group-title="CANADA",HLN HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1262.ts
-#EXTINF:-1 tvg-id="" tvg-name="GSN HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/14292454_10157695844985227_2468889263416092674_n.jpg?oh=7df2f359626082e6f672c3d5b3ed347d&oe=58D8D84D" group-title="CANADA",GSN HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1259.ts
-#EXTINF:-1 tvg-id="" tvg-name="Global UHD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13669133_10153954424584472_1266350091324830716_n.jpg?oh=9d664b192aa66ed430144db29510c03b&oe=591EEB7D" group-title="CANADA",Global UHD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1258.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13697029_502966869899264_7725052318914046195_n.jpg?oh=3e16678f4e3b8504b8cf8b68ac798360&oe=58D8B52D" group-title="CANADA",FOX HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1257.ts
-#EXTINF:-1 tvg-id="" tvg-name="Documentary HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/428712_10150573282771053_1873131397_n.jpg?oh=c95c792d52e6060c34b3f01b0ed2a2d2&oe=5906796E" group-title="CANADA",Documentary HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1255.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12733512_769021589899476_845075393429665405_n.jpg?oh=9cda159746036e39c1747dbc3518544c&oe=591782D2" group-title="KIDS",Disney XD HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1254.ts
-#EXTINF:-1 tvg-id="" tvg-name="CW HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14485150_10154540932342436_5672082680099289854_n.png?oh=fe31a187cbc9b3f94f62a70ce504fea0&oe=59160651" group-title="CANADA",CW HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1253.ts
-#EXTINF:-1 tvg-id="" tvg-name="CTV UHD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1377126_597397990302131_2026246299_n.jpg?oh=adcdfb83ca040581e19c55e68678a446&oe=58D7F0D9" group-title="CANADA",CTV UHD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1252.ts
-#EXTINF:-1 tvg-id="" tvg-name="Create HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12744035_10156542722630158_4286986909931907258_n.png?oh=cacfc8cbff8b92aa1474b197d262e030&oe=59213D4E" group-title="CANADA",Create HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1251.ts
-#EXTINF:-1 tvg-id="" tvg-name="CP 24 HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c12.12.155.155/184419_283780938392129_832038758_n.jpg?oh=8810f8966d2b174da61ff7dbff3e1391&oe=591FE6FA" group-title="CANADA",CP 24 HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1250.ts
-#EXTINF:-1 tvg-id="" tvg-name="CITY UHD (CA)" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQA0AxPuQpzgCUF5&w=160&h=160&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd1%2FCity_logo_2012.svg%2F720px-City_logo_2012.svg.png&cfs=1&f&_nc_hash=AQAbLvOfNhLMQ_Vx&fallback=hub_place" group-title="CANADA",CITY UHD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1249.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS UHD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12191689_10156182147625442_3308013298243182846_n.jpg?oh=d38b31830df8488f3c2e227de90a60c5&oe=5917BF48" group-title="CANADA",CBS UHD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1248.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC News HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c10.0.270.270/11052868_10153128917450950_7657871426571821819_n.jpg?oh=4f4e30dcb3f9499c87429b5655f334ae&oe=590ED248" group-title="NEWS",CBC News HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1247.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bravo HD (CA)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13537799_10154300028022748_6817584099371073803_n.png?oh=7ee854145dba6917d9aafde248b2516c&oe=591E83F2" group-title="CANADA",Bravo HD (CA)
-http://149.56.240.30:25461/live/roku/Demo/1245.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canada 4 TV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15826288_677263589111917_5956417289033330873_n.png?oh=5bb5d160dfe95f0b59c94111d6a86045&oe=58DB7FE8" group-title="CANADA",Canada 4 TV
-http://go.teamexpat.ninja/live/touchtone123/farting2016times/35270.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10464009_10152914460003372_6897322716463136441_n.png?oh=9b8d57580a122b6af0461dfd9dafa606&oe=5918BC63" group-title="KIDS",Cartoon Network HD
-http://149.56.240.30:25461/live/roku/Demo/1391.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10464009_10152914460003372_6897322716463136441_n.png?oh=9b8d57580a122b6af0461dfd9dafa606&oe=5918BC63" group-title="KIDS",Cartoon Network HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1321.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15823563_1527973307231130_8901535609870966107_n.jpg?oh=f6576f8b52f1fe7ec6662506096d0812&oe=5922C228" group-title="KIDS",Disney HD
-http://149.56.240.30:25461/live/roku/Demo/1456.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies  HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c8.0.165.165/296147_246598528708790_1315420382_n.jpg?oh=ac1e56f049d627feb8161742d57a935d&oe=591C4EAB" group-title="KIDS",CBeebies  HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1312.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12240091_10153793289881318_5313000881743557048_n.png?oh=6b214da83d378e24dcdeb7284d7a5c24&oe=5914F35D" group-title="KIDS",Nick HD
-http://149.56.240.30:25461/live/roku/Demo/1425.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12240091_10153793289881318_5313000881743557048_n.png?oh=6b214da83d378e24dcdeb7284d7a5c24&oe=5914F35D" group-title="KIDS",Nick HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1340.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/14332979_1374787389201388_5979309135602050147_n.png?oh=fd4d43aeec2da8dc0100ea4db6f69b10&oe=59146FB5" group-title="KIDS",Nick Jr. HD
-http://149.56.240.30:25461/live/roku/Demo/1426.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15590610_1557884014240165_6334338335514086730_n.jpg?oh=8f7a2381fcdde3ab68ba612e8ca4c1a2&oe=59161AF3" group-title="KIDS",Nicktoons HD
-http://149.56.240.30:25461/live/roku/Demo/1427.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1005364_10151732406307169_465748968_n.png?oh=00c39d20efc237c4931af214d421a0bf&oe=58D9109D" group-title="KIDS",PBS HD
-http://149.56.240.30:25461/live/roku/Demo/1428.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 1 HD
-http://149.56.240.30:25461/live/roku/Demo/1289.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 2 HD
-http://149.56.240.30:25461/live/roku/Demo/1290.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 3 HD
-http://149.56.240.30:25461/live/roku/Demo/1291.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 4 HD
-http://149.56.240.30:25461/live/roku/Demo/1292.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 5 HD
-http://149.56.240.30:25461/live/roku/Demo/1293.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 6 HD
-http://149.56.240.30:25461/live/roku/Demo/1294.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 7 HD
-http://149.56.240.30:25461/live/roku/Demo/1295.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 8 HD
-http://149.56.240.30:25461/live/roku/Demo/1296.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 9 HD
-http://149.56.240.30:25461/live/roku/Demo/1297.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c175.0.450.450/14568218_333122213716132_922471275321110384_n.jpg?oh=c3182b7f01524ac814d35c4d719e2797&oe=59144725" group-title="NBA PASS",NBA PASS 10 HD
-http://149.56.240.30:25461/live/roku/Demo/1298.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13244724_10153823736487087_8071328673613889028_n.jpg?oh=7ceae8d6b858fdd0959d6f39ed406f70&oe=58DB570E" group-title="ENTERTAINMENT",AMC HD
-http://149.56.240.30:25461/live/roku/Demo/1448.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/16105592_10154515633173375_8875477781698189885_n.png?oh=aa9da21a55f5495b73ef5f408c97fdfe&oe=591B5310" group-title="ENTERTAINMENT",Animal Planet HD
-http://149.56.240.30:25461/live/roku/Demo/1449.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bravo HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13537799_10154300028022748_6817584099371073803_n.png?oh=7ee854145dba6917d9aafde248b2516c&oe=591E83F2" group-title="ENTERTAINMENT",Bravo HD
-http://149.56.240.30:25461/live/roku/Demo/1390.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t31.0-1/c280.0.720.720/p720x720/15111021_120209181796660_9188798998525980005_o.jpg?oh=53c62f7b74dcd232723e8290b5d81ac1&oe=58DA3CD7" group-title="ENTERTAINMENT",Crime & Investigation HD
-http://149.56.240.30:25461/live/roku/Demo/1393.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15940895_10155040626373586_4432313190786412932_n.jpg?oh=8736ac81199946702d02cc00419c8062&oe=5919EE02" group-title="ENTERTAINMENT",Discovery HD
-http://149.56.240.30:25461/live/roku/Demo/1454.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15977311_1203078399768039_7357916930352876382_n.jpg?oh=2e5f4fefe0b5d06c950e237712c4b225&oe=59117DD5" group-title="ENTERTAINMENT",Discovery Science HD
-http://149.56.240.30:25461/live/roku/Demo/1455.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/240px-Space_logo_2013.svg.png" group-title="ENTERTAINMENT",Space HD
-http://149.56.240.30:25461/live/roku/Demo/1256.ts
-#EXTINF:-1 tvg-id="" tvg-name="FreeForm HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12509708_10153488030350674_7209995346860113798_n.jpg?oh=aea2e78f1a538a94241a007c0ef026de&oe=58D81F73" group-title="ENTERTAINMENT",FreeForm HD
-http://149.56.240.30:25461/live/roku/Demo/1407.ts
-#EXTINF:-1 tvg-id="" tvg-name="FXX HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10411784_249464008579908_9028763435805660888_n.png?oh=e504de46ab2be0b4480889540ca678e6&oe=5904A4A1" group-title="ENTERTAINMENT",FXX HD
-http://149.56.240.30:25461/live/roku/Demo/1463.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12809701_10153460399316080_3599709212156198103_n.jpg?oh=641065b5a18998868f30e057e73e4cb7&oe=58DA3A43" group-title="ENTERTAINMENT",FX HD
-http://149.56.240.30:25461/live/roku/Demo/1462.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c50.0.500.500/10931074_928960817114446_5598867484859079295_n.png?oh=cbdc9ffe0ddd3fd448765e5d14ca45a5&oe=591D3C15" group-title="ENTERTAINMENT",H2 HD
-http://149.56.240.30:25461/live/roku/Demo/1409.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15894690_10154034041896050_915097563715998075_n.jpg?oh=12e9d495b2e37b7e9c1076a1b0314713&oe=5914456E" group-title="ENTERTAINMENT",Hallmark HD
-http://149.56.240.30:25461/live/roku/Demo/1410.ts
-#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12107863_10152986686341184_4779517947348944161_n.jpg?oh=dd27dbbee1401109cab3ae82c05820ce&oe=590783A6" group-title="ENTERTAINMENT",History Channel HD
-http://149.56.240.30:25461/live/roku/Demo/1466.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c41.41.517.517/542145_241036289362347_1416278089_n.jpg?oh=97e141e70a3dfd0dda4b9fcd942159c9&oe=592121F8" group-title="ENTERTAINMENT",ID HD
-http://149.56.240.30:25461/live/roku/Demo/1414.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV ENCORE HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c0.0.239.239/11009144_810749362335735_1850324006904170891_n.jpg?oh=8591c8809c9a49d5bf01298f0bd993ae&oe=590D5D46" group-title="ENTERTAINMENT",ITV ENCORE HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1299.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15826333_10154445538014087_7885038096489434370_n.png?oh=efbcabdd44375e77e43a8a436404d645&oe=591A9278" group-title="ENTERTAINMENT",Lifetime HD
-http://149.56.240.30:25461/live/roku/Demo/1467.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15826333_10154445538014087_7885038096489434370_n.png?oh=efbcabdd44375e77e43a8a436404d645&oe=591A9278" group-title="ENTERTAINMENT",LIFETIME HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1300.ts
-#EXTINF:-1 tvg-id="" tvg-name="LMN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15442310_10150806983454980_5631727187025930345_n.png?oh=c8dc582aaf65449d5f7f86eb76956a8b&oe=59084E2C" group-title="ENTERTAINMENT",LMN HD
-http://149.56.240.30:25461/live/roku/Demo/1415.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13726852_10153891479501701_4956128125292368558_n.jpg?oh=5597cf215e4cd27db32daa803f7d46d2&oe=59112863" group-title="ENTERTAINMENT",MTV Live HD
-http://149.56.240.30:25461/live/roku/Demo/1417.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1554481_628113323891269_2021257424_n.jpg?oh=8d2651e4f8197ee33e3e2d64701ce466&oe=591F91A6" group-title="ENTERTAINMENT",Nat Geo HD
-http://149.56.240.30:25461/live/roku/Demo/1377.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11250206_10153421033270930_1535662665655865332_n.jpg?oh=5da5f5994fdb1a7b1a2ec8b0f98ae809&oe=591351A6" group-title="ENTERTAINMENT",NAT GEO WILD HD
-http://149.56.240.30:25461/live/roku/Demo/1469.ts
-#EXTINF:-1 tvg-id="" tvg-name="OutDoor Living Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15747873_10154888160762884_3994171101313125037_n.jpg?oh=84879ab521b48108339d2dde527a2c58&oe=58DB9288" group-title="ENTERTAINMENT",OutDoor Living Network HD
-http://149.56.240.30:25461/live/roku/Demo/1447.ts
-#EXTINF:-1 tvg-id="" tvg-name="OWN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12096390_942212025833707_4994815295422468829_n.jpg?oh=e8accccd8865ea5f2c5359935088aa6a&oe=59232B5A" group-title="ENTERTAINMENT",OWN HD
-http://149.56.240.30:25461/live/roku/Demo/1471.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14671268_10157597005970173_2850323839291428797_n.png?oh=6ad37aa109b6a2bd69868db4c41f0c43&oe=5923DF3D" group-title="ENTERTAINMENT",TLC HD
-http://149.56.240.30:25461/live/roku/Demo/1473.ts
-#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/13495330_10154221073714757_7906047485017305284_n.jpg?oh=fc5efa2737b18f25c1f8ae948f9ca37c&oe=590F5D39" group-title="ENTERTAINMENT",TruTV HD
-http://149.56.240.30:25461/live/roku/Demo/1440.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15747569_10154463318228375_8935847284550495825_n.jpg?oh=e19279c128ef1f4fe67abb54f2f94427&oe=591DEB72" group-title="ENTERTAINMENT",VH1 HD
-http://149.56.240.30:25461/live/roku/Demo/1476.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFN Prime Atlantic HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/AFN-Prime-Atlantic_o.jpg" group-title="ENTERTAINMENT",AFN Prime Atlantic HD
-http://149.56.240.30:25461/live/roku/Demo/1382.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFN Prime Pacific" tvg-logo="http://www.sat-address.com/f/pics/Stations/AFN-Prime-Pacific_o.jpg" group-title="ENTERTAINMENT",AFN Prime Pacific
-http://149.56.240.30:25461/live/roku/Demo/1383.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFN Pulse HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWmMoLXAC19ZzsWzMr3MA2T38owszW9JdNF9Ad24Nv-yliKYYp" group-title="ENTERTAINMENT",AFN Pulse HD
-http://149.56.240.30:25461/live/roku/Demo/1384.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFN Spectrum HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/AFN-Spectrum_o.jpg" group-title="ENTERTAINMENT",AFN Spectrum HD
-http://149.56.240.30:25461/live/roku/Demo/1385.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : ANIMAL PLANET HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/16105592_10154515633173375_8875477781698189885_n.png?oh=aa9da21a55f5495b73ef5f408c97fdfe&oe=591B5310" group-title="ENTERTAINMENT",UK HD : ANIMAL PLANET HD
-http://149.56.240.30:25461/live/roku/Demo/1308.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : BBC CBBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/300px-CBBC_2016_logo.svg.png" group-title="Test Channels",UK HD : BBC CBBC HD
-http://149.56.240.30:25461/live/roku/Demo/1309.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : BBC HD 1" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/21284_938502566170162_3034859196271362351_n.png?oh=e150c5e7786b97db5cad3668e3127f13&oe=590B9057" group-title="Test Channels",UK HD : BBC HD 1
-http://149.56.240.30:25461/live/roku/Demo/1310.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : BBC HD 2" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c29.29.663.663/p720x720/13876567_938226116286557_4919198357202208630_n.png?oh=01f296b9424767e340974bf859189724&oe=5916123E" group-title="Test Channels",UK HD : BBC HD 2
-http://149.56.240.30:25461/live/roku/Demo/1311.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : DISCOVERY HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15400397_1206040856110920_1944313440453807847_n.jpg?oh=e57ad306d0a6a277df05577f48fc65cf&oe=59140D5A" group-title="ENTERTAINMENT",UK HD : DISCOVERY HD
-http://149.56.240.30:25461/live/roku/Demo/1325.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : COMEDY CENTRAL HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10492221_10152615324239030_4647273499140376988_n.jpg?oh=f7d418fdf0cc44b01dbb8e7d976a1402&oe=58DAB7E2" group-title="ENTERTAINMENT",UK HD : COMEDY CENTRAL HD
-http://149.56.240.30:25461/live/roku/Demo/1323.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : DAVE HD" tvg-logo="http://digitalspyuk.cdnds.net/13/06/768x576/gallery_media-dave-logo.jpg" group-title="ENTERTAINMENT",UK HD : DAVE HD
-http://149.56.240.30:25461/live/roku/Demo/1324.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : E4 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10409529_10152804888518953_6075120705939332902_n.jpg?oh=bdb0f7884a040cc45ad6ac9ab9c84829&oe=5919DBBB" group-title="ENTERTAINMENT",UK HD : E4 HD
-http://149.56.240.30:25461/live/roku/Demo/1326.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : EDEN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c2.0.495.495/530695_448416605182406_271511585_n.jpg?oh=704b6ed604a67720232c41c6dee8786a&oe=5912ABAF" group-title="ENTERTAINMENT",UK HD : EDEN HD
-http://149.56.240.30:25461/live/roku/Demo/1327.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : FILM 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/260px-Film4.svg.png" group-title="ENTERTAINMENT",UK HD : FILM 4 HD
-http://149.56.240.30:25461/live/roku/Demo/1330.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : GOOD FOOD HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10532989_10152487700408547_3287720268483088220_n.jpg?oh=9f72dce12f1c3a8753d86950a5ac2a11&oe=591F4A92" group-title="ENTERTAINMENT",UK HD : GOOD FOOD HD
-http://149.56.240.30:25461/live/roku/Demo/1332.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : HISTORY 2 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c50.0.500.500/10931074_928960817114446_5598867484859079295_n.png?oh=cbdc9ffe0ddd3fd448765e5d14ca45a5&oe=591D3C15" group-title="ENTERTAINMENT",UK HD : HISTORY 2 HD
-http://149.56.240.30:25461/live/roku/Demo/1333.ts
-#EXTINF:-1 tvg-id="" tvg-name="STV HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12400573_10153798107718670_197137530353264956_n.jpg?oh=b9d6293152d62ff8f75aa92aecf641e7&oe=5909E5FC" group-title="ENTERTAINMENT",STV HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1370.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY ARTS HD (UK)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1140.1433844471.png" group-title="Test Channels",SKY ARTS HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1302.ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15823590_575015786033116_5315569849905112386_n.png?oh=ec599841078778fb274b8c5921496a2c&oe=59207DEE" group-title="ENTERTAINMENT",SYFY HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1371.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13879435_10154567845425396_4242930336102712336_n.jpg?oh=42a3b1b2cbe86624c61cabb09f932e22&oe=592143A4" group-title="ENTERTAINMENT",TCM HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1372.ts
-#EXTINF:-1 tvg-id="" tvg-name="True Entertainment  HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t31.0-1/c156.0.720.720/p720x720/456842_237229606394947_47631764_o.jpg?oh=12a02880c2ab7ea71b070f0a16822ed8&oe=5908CBCA" group-title="ENTERTAINMENT",True Entertainment  HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1376.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : INSIGHT UHD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12049695_719016268231861_1103271170661224724_n.png?oh=64df9bd0de244a573f8318c8bc39c3b1&oe=59114F37" group-title="ENTERTAINMENT",UK HD : INSIGHT UHD
-http://149.56.240.30:25461/live/roku/Demo/1334.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : MTV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13726852_10153891479501701_4956128125292368558_n.jpg?oh=5597cf215e4cd27db32daa803f7d46d2&oe=59112863" group-title="ENTERTAINMENT",UK HD : MTV HD
-http://149.56.240.30:25461/live/roku/Demo/1335.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : MTV LIVE HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12647302_10156489868355626_622035456033973636_n.jpg?oh=c9158405144e3a05d638b76016a92ce9&oe=5920AB60" group-title="ENTERTAINMENT",UK HD : MTV LIVE HD
-http://149.56.240.30:25461/live/roku/Demo/1336.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : MUTV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15672998_1775236079462235_7530293511792267636_n.jpg?oh=e9bad272d9816976f88abd215b06b35b&oe=58DB0982" group-title="ENTERTAINMENT",UK HD : MUTV HD
-http://149.56.240.30:25461/live/roku/Demo/1337.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : NAT GEO HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1554481_628113323891269_2021257424_n.jpg?oh=8d2651e4f8197ee33e3e2d64701ce466&oe=591F91A6" group-title="ENTERTAINMENT",UK HD : NAT GEO HD
-http://149.56.240.30:25461/live/roku/Demo/1338.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : NAT GEO WILD HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c19.0.180.180/12565462_823103601166598_1092861088565300871_n.jpg?oh=0fcb5798e2c0eeda8fcfb1f4c38aed90&oe=591ABDFC" group-title="ENTERTAINMENT",UK HD : NAT GEO WILD HD
-http://149.56.240.30:25461/live/roku/Demo/1339.ts
-#EXTINF:-1 tvg-id="" tvg-name="RT Documentary HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/13528928_1118280738228534_2587905971626939311_n.png?oh=bbde08534acf11c3d3c094f01c610fb9&oe=590518ED" group-title="Test Channels",RT Documentary HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1344.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : SKY 1 HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15894628_1348603925192593_8979845905680730148_n.png?oh=634713c69c018d8caa311f82bc566670&oe=590834EC" group-title="ENTERTAINMENT",UK HD : SKY 1 HD
-http://149.56.240.30:25461/live/roku/Demo/1346.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : SKY LIVING HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/1501711_10152082117287324_1661058163_n.jpg?oh=dfd0e326b3e090dc9268ee98685a0f5b&oe=591A9695" group-title="ENTERTAINMENT",UK HD : SKY LIVING HD
-http://149.56.240.30:25461/live/roku/Demo/1347.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11138592_905128346195371_7307517933539677738_n.png?oh=61f53de2e8fa3b84521c689ab7db202d&oe=59182AA9" group-title="ENTERTAINMENT",UNIVERSAL HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1373.ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14666135_1102077023208368_6650818954795119439_n.jpg?oh=eba96b390b5ed4bb5d64b6961683d3ad&oe=58D81F71" group-title="ENTERTAINMENT",UTV HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1374.ts
-#EXTINF:-1 tvg-id="" tvg-name="W HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15349776_10154749694073328_8594165954533918535_n.jpg?oh=4d60761453f15212768df68e2d2ba728&oe=591C6FBD" group-title="ENTERTAINMENT",W HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1375.ts
-#EXTINF:-1 tvg-id="" tvg-name="& TV HD (UK)" tvg-logo="" group-title="ENTERTAINMENT",& TV HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1306.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15727152_10154884391443909_2973259297896996631_n.png?oh=f58ed0434d76c404cc604c1381c046bb&oe=59138C4B" group-title="ENTERTAINMENT",A&E HD
-http://149.56.240.30:25461/live/roku/Demo/1378.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS HD" tvg-logo="https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/p50x50/419441_10151617599643812_438296246_n.png?efg=eyJkdHciOiIifQ%3D%3D&_nc_ad=z-m&oh=3724aed4031327400fee5fd098586a36&oe=590898C8" group-title="LOCALS",ABC NEWS HD
-http://149.56.240.30:25461/live/roku/Demo/1380.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFN News HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWmMoLXAC19ZzsWzMr3MA2T38owszW9JdNF9Ad24Nv-yliKYYp" group-title="NEWS",AFN News HD
-http://149.56.240.30:25461/live/roku/Demo/1381.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC News HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/1926656_10151955586072217_265500303_n.png?oh=0d19f8d8040d8a557f3c3e33ff5de765&oe=59165422" group-title="NEWS",BBC News HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1313.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12289622_10154246192721509_1897912583584847639_n.png?oh=fee43767fe3fdf9d70f7983dd0560239&oe=590DDF7A" group-title="NEWS",CNN HD
-http://149.56.240.30:25461/live/roku/Demo/1452.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN HD (UK)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12289622_10154246192721509_1897912583584847639_n.png?oh=fee43767fe3fdf9d70f7983dd0560239&oe=590DDF7A" group-title="NEWS",CNN HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1322.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/417751_10150581617531336_1949382366_n.jpg?oh=84a602ba9a43cc7af1049ac405d9925c&oe=58DA3F16" group-title="NEWS",Fox News HD
-http://149.56.240.30:25461/live/roku/Demo/1406.ts
-#EXTINF:-1 tvg-id="" tvg-name="HLN (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/HLN_logo.svg/2000px-HLN_logo.svg.png" group-title="NEWS",HLN (US)
-http://149.56.240.30:25461/live/roku/Demo/1074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky News HD (UK)" tvg-logo="https://pbs.twimg.com/profile_images/502491052243038208/gKEvCXwg.png" group-title="NEWS",Sky News HD (UK)
-http://149.56.240.30:25461/live/roku/Demo/1359.ts
-#EXTINF:-1 tvg-id="" tvg-name="MSNBC HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15741035_1414682885294626_1846918595507309997_n.jpg?oh=c356144a2045be40bd0024ac23195167&oe=590D1CDC" group-title="NEWS",MSNBC HD
-http://149.56.240.30:25461/live/roku/Demo/1468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brazil 1" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/12193393_1032026933526262_8477130189051857475_n.png?oh=db188f2301b115e79d7913f49ecace4f&oe=59050176" group-title="PORTUGUESE",Brazil 1
-http://149.56.240.30:25461/live/roku/Demo/1044.ts
-#EXTINF:-1 tvg-id="" tvg-name="Portugal 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvi_24.jpg" group-title="PORTUGUESE",Portugal 4
-http://149.56.240.30:25461/live/roku/Demo/1040.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP1 (PT)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/148230_506229209398074_1698661709_n.jpg?oh=cb782d5b4791d976ee91faab5efb58a1&oe=5916C99A" group-title="PORTUGUESE",RTP1 (PT)
-http://149.56.240.30:25461/live/roku/Demo/1035.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP2 (PT)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1480658_10153981780006187_5590104451067518466_n.jpg?oh=c9c354c05857d6a390b9a45bad38e79b&oe=590A8888" group-title="PORTUGUESE",RTP2 (PT)
-http://149.56.240.30:25461/live/roku/Demo/1034.ts
-#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL (PT)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/15871760_10154345274633877_8916651069847619261_n.jpg?oh=47e46d3318b5963f2d9bb438b4a89d37&oe=58D6DCA5" group-title="PORTUGUESE",AGRO CANAL (PT)
-http://149.56.240.30:25461/live/roku/Demo/1036.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC TV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/563281_10151436485734732_2075040270_n.jpg?oh=05e28b1e41f9706cb71e3b88b22ac1c4&oe=590A070D" group-title="PORTUGUESE",SIC TV
-http://go.teamexpat.ninja/live/touchtone123/farting2016times/45306.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 1" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 1
-http://149.56.240.30:25461/live/roku/Demo/1477.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 2" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 2
-http://149.56.240.30:25461/live/roku/Demo/1482.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 3" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 3
-http://149.56.240.30:25461/live/roku/Demo/1483.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 4" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 4
-http://149.56.240.30:25461/live/roku/Demo/1484.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 5" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 5
-http://149.56.240.30:25461/live/roku/Demo/1485.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 6" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 6
-http://149.56.240.30:25461/live/roku/Demo/1486.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 7" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 7
-http://149.56.240.30:25461/live/roku/Demo/1487.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 8" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 8
-http://149.56.240.30:25461/live/roku/Demo/1488.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 9" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 9
-http://149.56.240.30:25461/live/roku/Demo/1489.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 10" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 10
-http://149.56.240.30:25461/live/roku/Demo/1478.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 11" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 11
-http://149.56.240.30:25461/live/roku/Demo/1479.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 12" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 12
-http://149.56.240.30:25461/live/roku/Demo/1480.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD 13" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10628096_277596945773091_9146439179919422654_n.jpg?oh=0ad154728c42b4c1fd6f376fd0fc3c38&oe=591E38A0" group-title="NHL",NHL HD 13
-http://149.56.240.30:25461/live/roku/Demo/1481.ts
+#EXTINF:-1,3e
+http://192.99.149.14:25461/live/tim1/1980/7215.ts
+#EXTINF:-1,US: A&E HD
+http://192.99.149.14:25461/live/tim1/1980/7150.ts
+#EXTINF:-1,US: A&E TV HD
+http://192.99.149.14:25461/live/tim1/1980/7151.ts
+#EXTINF:-1,ABC Dallas
+http://192.99.149.14:25461/live/tim1/1980/7469.ts
+#EXTINF:-1,ABC Lancaster PA
+http://192.99.149.14:25461/live/tim1/1980/9155.ts
+#EXTINF:-1,ABC NY
+http://192.99.149.14:25461/live/tim1/1980/7587.ts
+#EXTINF:-1,ABC News
+http://192.99.149.14:25461/live/tim1/1980/7225.ts
+#EXTINF:-1,ABC Canada
+http://192.99.149.14:25461/live/tim1/1980/7442.ts
+#EXTINF:-1,US: ABC LA
+http://192.99.149.14:25461/live/tim1/1980/7153.ts
+#EXTINF:-1,US: AFN MOVIE
+http://192.99.149.14:25461/live/tim1/1980/7154.ts
+#EXTINF:-1,US: AFN NEWS
+http://192.99.149.14:25461/live/tim1/1980/7155.ts
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+http://192.99.149.14:25461/live/tim1/1980/7156.ts
+#EXTINF:-1,SEC NETWORK
+http://192.99.149.14:25461/live/tim1/1980/7157.ts
+#EXTINF:-1,US: AFN PULSE
+http://192.99.149.14:25461/live/tim1/1980/7158.ts
+#EXTINF:-1,US: AFN SPECTRUM
+http://192.99.149.14:25461/live/tim1/1980/7159.ts
+#EXTINF:-1,US: AFN SPORTS
+http://192.99.149.14:25461/live/tim1/1980/7160.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://192.99.149.14:25461/live/tim1/1980/7161.ts
+#EXTINF:-1,US: AMC HD
+http://192.99.149.14:25461/live/tim1/1980/7162.ts
+#EXTINF:-1,AMC 2
+http://192.99.149.14:25461/live/tim1/1980/7468.ts
+#EXTINF:-1,AMC TEST
+http://192.99.149.14:25461/live/tim1/1980/7424.ts
+#EXTINF:-1,AMGTV
+http://192.99.149.14:25461/live/tim1/1980/7550.ts
+#EXTINF:-1,At The Races
+http://192.99.149.14:25461/live/tim1/1980/7228.ts
+#EXTINF:-1,AT THE RACES UK
+http://192.99.149.14:25461/live/tim1/1980/9052.ts
+#EXTINF:-1,Animal Planet
+http://192.99.149.14:25461/live/tim1/1980/7227.ts
+#EXTINF:-1,Alibi
+http://192.99.149.14:25461/live/tim1/1980/7226.ts
+#EXTINF:-1,Baby TV
+http://192.99.149.14:25461/live/tim1/1980/7229.ts
+#EXTINF:-1,BBC News UK
+http://192.99.149.14:25461/live/tim1/1980/7231.ts
+#EXTINF:-1,BBC One HD
+http://192.99.149.14:25461/live/tim1/1980/7232.ts
+#EXTINF:-1,BBC Two HD
+http://192.99.149.14:25461/live/tim1/1980/7235.ts
+#EXTINF:-1,BBC Two
+http://192.99.149.14:25461/live/tim1/1980/7236.ts
+#EXTINF:-1,BBC Three HD
+http://192.99.149.14:25461/live/tim1/1980/7234.ts
+#EXTINF:-1,BBC Four UK
+http://192.99.149.14:25461/live/tim1/1980/7230.ts
+#EXTINF:-1,BBC World News
+http://192.99.149.14:25461/live/tim1/1980/7237.ts
+#EXTINF:-1,BBC One London
+http://192.99.149.14:25461/live/tim1/1980/7233.ts
+#EXTINF:-1,CNBC
+http://192.99.149.14:25461/live/tim1/1980/7443.ts
+#EXTINF:-1,CBS Action
+http://192.99.149.14:25461/live/tim1/1980/7261.ts
+#EXTINF:-1,CBS Drama
+http://192.99.149.14:25461/live/tim1/1980/7262.ts
+#EXTINF:-1,CBS
+http://192.99.149.14:25461/live/tim1/1980/7470.ts
+#EXTINF:-1,CBeebies
+http://192.99.149.14:25461/live/tim1/1980/7260.ts
+#EXTINF:-1,CBBC
+http://192.99.149.14:25461/live/tim1/1980/7259.ts
+#EXTINF:-1,US CINEMAX action max
+http://192.99.149.14:25461/live/tim1/1980/7168.ts
+#EXTINF:-1,US: Cinemax East
+http://192.99.149.14:25461/live/tim1/1980/7169.ts
+#EXTINF:-1,US: CNN HD
+http://192.99.149.14:25461/live/tim1/1980/7170.ts
+#EXTINF:-1,Comedy Central
+http://192.99.149.14:25461/live/tim1/1980/7272.ts
+#EXTINF:-1,Comedy Central Extra
+http://192.99.149.14:25461/live/tim1/1980/7273.ts
+#EXTINF:-1,Crime Investigation
+http://192.99.149.14:25461/live/tim1/1980/7274.ts
+#EXTINF:-1,CTV/ FOX 25
+http://192.99.149.14:25461/live/tim1/1980/7213.ts
+#EXTINF:-1,Challenge
+http://192.99.149.14:25461/live/tim1/1980/7265.ts
+#EXTINF:-1,Channel 4 UK
+http://192.99.149.14:25461/live/tim1/1980/7267.ts
+#EXTINF:-1,Channel 5 UK
+http://192.99.149.14:25461/live/tim1/1980/7269.ts
+#EXTINF:-1,CMT
+http://192.99.149.14:25461/live/tim1/1980/7315.ts
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://192.99.149.14:25461/live/tim1/1980/7171.ts
+#EXTINF:-1,PIX 11/ CW test
+http://192.99.149.14:25461/live/tim1/1980/7429.ts
+#EXTINF:-1,US: CW HD
+http://192.99.149.14:25461/live/tim1/1980/7172.ts
+#EXTINF:-1,Dave
+http://192.99.149.14:25461/live/tim1/1980/7281.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://192.99.149.14:25461/live/tim1/1980/7173.ts
+#EXTINF:-1,US Discovery
+http://192.99.149.14:25461/live/tim1/1980/7282.ts
+#EXTINF:-1,Discovery History
+http://192.99.149.14:25461/live/tim1/1980/7283.ts
+#EXTINF:-1,MY13 LA
+http://192.99.149.14:25461/live/tim1/1980/7284.ts
+#EXTINF:-1,Discovery Science
+http://192.99.149.14:25461/live/tim1/1980/7285.ts
+#EXTINF:-1,Uk: Discovery Science HD
+http://192.99.149.14:25461/live/tim1/1980/7174.ts
+#EXTINF:-1,Discovery Shed UK
+http://192.99.149.14:25461/live/tim1/1980/7286.ts
+#EXTINF:-1,Discovery Turbo
+http://192.99.149.14:25461/live/tim1/1980/7287.ts
+#EXTINF:-1,DIY Network
+http://192.99.149.14:25461/live/tim1/1980/7264.ts
+#EXTINF:-1,DMAX
+http://192.99.149.14:25461/live/tim1/1980/7291.ts
+#EXTINF:-1,Drama UK
+http://192.99.149.14:25461/live/tim1/1980/7292.ts
+#EXTINF:-1,E! Entertainment
+http://192.99.149.14:25461/live/tim1/1980/7293.ts
+#EXTINF:-1,E4
+http://192.99.149.14:25461/live/tim1/1980/7294.ts
+#EXTINF:-1,Eden
+http://192.99.149.14:25461/live/tim1/1980/7295.ts
+#EXTINF:-1,Encore Action East
+http://192.99.149.14:25461/live/tim1/1980/7263.ts
+#EXTINF:-1,eurosport 1 hd
+http://192.99.149.14:25461/live/tim1/1980/7383.ts
+#EXTINF:-1,eir sports 1
+http://192.99.149.14:25461/live/tim1/1980/7296.ts
+#EXTINF:-1,US: ESPN
+http://192.99.149.14:25461/live/tim1/1980/7175.ts
+#EXTINF:-1,UFC PPV 1
+http://192.99.149.14:25461/live/tim1/1980/7177.ts
+#EXTINF:-1,US: ESPN 2
+http://192.99.149.14:25461/live/tim1/1980/7176.ts
+#EXTINF:-1,ESPN 2
+http://192.99.149.14:25461/live/tim1/1980/7572.ts
+#EXTINF:-1,Eir sports 2
+http://192.99.149.14:25461/live/tim1/1980/7297.ts
+#EXTINF:-1,Eleven
+http://192.99.149.14:25461/live/tim1/1980/7298.ts
+#EXTINF:-1,Eleven Sports
+http://192.99.149.14:25461/live/tim1/1980/7300.ts
+#EXTINF:-1,Euronews
+http://192.99.149.14:25461/live/tim1/1980/7301.ts
+#EXTINF:-1,FOX 1
+http://192.99.149.14:25461/live/tim1/1980/7621.ts
+#EXTINF:-1,FOX 25
+http://192.99.149.14:25461/live/tim1/1980/7492.ts
+#EXTINF:-1,Fox News
+http://192.99.149.14:25461/live/tim1/1980/7303.ts
+#EXTINF:-1,FOX Sports
+http://192.99.149.14:25461/live/tim1/1980/7405.ts
+#EXTINF:-1,FOX Sports 2
+http://192.99.149.14:25461/live/tim1/1980/7447.ts
+#EXTINF:-1,FOX Sports 1
+http://192.99.149.14:25461/live/tim1/1980/7446.ts
+#EXTINF:-1,FOX Sports South
+http://192.99.149.14:25461/live/tim1/1980/7309.ts
+#EXTINF:-1,FIGHT SPORT
+http://192.99.149.14:25461/live/tim1/1980/7477.ts
+#EXTINF:-1,FIGHT NETWORK
+http://192.99.149.14:25461/live/tim1/1980/7503.ts
+#EXTINF:-1,FIGHT BOX
+http://192.99.149.14:25461/live/tim1/1980/7502.ts
+#EXTINF:-1,US: Food Network HD
+http://192.99.149.14:25461/live/tim1/1980/7178.ts
+#EXTINF:-1,FREEFORM
+http://192.99.149.14:25461/live/tim1/1980/7179.ts
+#EXTINF:-1,US: FX HD
+http://192.99.149.14:25461/live/tim1/1980/7181.ts
+#EXTINF:-1,GSN
+http://192.99.149.14:25461/live/tim1/1980/7471.ts
+#EXTINF:-1,Gold
+http://192.99.149.14:25461/live/tim1/1980/7304.ts
+#EXTINF:-1,US: GRIT TV
+http://192.99.149.14:25461/live/tim1/1980/7167.ts
+#EXTINF:-1,US: H2
+http://192.99.149.14:25461/live/tim1/1980/7182.ts
+#EXTINF:-1,H2 UK
+http://192.99.149.14:25461/live/tim1/1980/7305.ts
+#EXTINF:-1,US: HALLMARK
+http://192.99.149.14:25461/live/tim1/1980/7183.ts
+#EXTINF:-1,US: HBO
+http://192.99.149.14:25461/live/tim1/1980/7184.ts
+#EXTINF:-1,US: HBO Family HD
+http://192.99.149.14:25461/live/tim1/1980/7185.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://192.99.149.14:25461/live/tim1/1980/7186.ts
+#EXTINF:-1,US: HBO Zone HD
+http://192.99.149.14:25461/live/tim1/1980/7148.ts
+#EXTINF:-1,Heart TV UK
+http://192.99.149.14:25461/live/tim1/1980/7306.ts
+#EXTINF:-1,HGTV test
+http://192.99.149.14:25461/live/tim1/1980/7426.ts
+#EXTINF:-1,US: HISTORY
+http://192.99.149.14:25461/live/tim1/1980/7187.ts
+#EXTINF:-1,History UK
+http://192.99.149.14:25461/live/tim1/1980/7307.ts
+#EXTINF:-1,ION TEST
+http://192.99.149.14:25461/live/tim1/1980/8675.ts
+#EXTINF:-1,Investigation Discovery
+http://192.99.149.14:25461/live/tim1/1980/7473.ts
+#EXTINF:-1,ITV Encore
+http://192.99.149.14:25461/live/tim1/1980/7314.ts
+#EXTINF:-1,ITV 2
+http://192.99.149.14:25461/live/tim1/1980/7310.ts
+#EXTINF:-1,ITV 3
+http://192.99.149.14:25461/live/tim1/1980/7311.ts
+#EXTINF:-1,ITV 4
+http://192.99.149.14:25461/live/tim1/1980/7312.ts
+#EXTINF:-1,ITV 1 LONDON
+http://192.99.149.14:25461/live/tim1/1980/7308.ts
+#EXTINF:-1,ITV Be
+http://192.99.149.14:25461/live/tim1/1980/7313.ts
+#EXTINF:-1,Jazmin Channel HD
+http://192.99.149.14:25461/live/tim1/1980/7622.ts
+#EXTINF:-1,KTLA test
+http://192.99.149.14:25461/live/tim1/1980/7427.ts
+#EXTINF:-1,US: LIFE TIME
+http://192.99.149.14:25461/live/tim1/1980/7189.ts
+#EXTINF:-1,LFC TV
+http://192.99.149.14:25461/live/tim1/1980/7317.ts
+#EXTINF:-1,LMN test
+http://192.99.149.14:25461/live/tim1/1980/7428.ts
+#EXTINF:-1,LMN
+http://192.99.149.14:25461/live/tim1/1980/7475.ts
+#EXTINF:-1,London Live UK
+http://192.99.149.14:25461/live/tim1/1980/7319.ts
+#EXTINF:-1,MIAMI TV SPAIN
+http://192.99.149.14:25461/live/tim1/1980/7549.ts
+#EXTINF:-1,MIO 105
+http://192.99.149.14:25461/live/tim1/1980/7365.ts
+#EXTINF:-1,UK: Mio Sports 2
+http://192.99.149.14:25461/live/tim1/1980/7390.ts
+#EXTINF:-1,UK: Mio Sports 3
+http://192.99.149.14:25461/live/tim1/1980/7391.ts
+#EXTINF:-1,UK: Mio Sports 4
+http://192.99.149.14:25461/live/tim1/1980/7392.ts
+#EXTINF:-1,UK: Mio Sports 5
+http://192.99.149.14:25461/live/tim1/1980/7393.ts
+#EXTINF:-1,MLB LIVE
+http://192.99.149.14:25461/live/tim1/1980/7445.ts
+#EXTINF:-1,MLB Network
+http://192.99.149.14:25461/live/tim1/1980/7583.ts
+#EXTINF:-1,Motors UK
+http://192.99.149.14:25461/live/tim1/1980/7323.ts
+#EXTINF:-1,Movies 24
+http://192.99.149.14:25461/live/tim1/1980/7324.ts
+#EXTINF:-1,MSG
+http://192.99.149.14:25461/live/tim1/1980/7518.ts
+#EXTINF:-1,MSNBC
+http://192.99.149.14:25461/live/tim1/1980/8681.ts
+#EXTINF:-1,Mtv !
+http://192.99.149.14:25461/live/tim1/1980/7116.ts
+#EXTINF:-1,Us MTV test
+http://192.99.149.14:25461/live/tim1/1980/8677.ts
+#EXTINF:-1,MTV USA
+http://192.99.149.14:25461/live/tim1/1980/7466.ts
+#EXTINF:-1,MTV Base UK
+http://192.99.149.14:25461/live/tim1/1980/7326.ts
+#EXTINF:-1,MTV Classic
+http://192.99.149.14:25461/live/tim1/1980/7327.ts
+#EXTINF:-1,MTV Plus 1
+http://192.99.149.14:25461/live/tim1/1980/7328.ts
+#EXTINF:-1,MTV Dance HD
+http://192.99.149.14:25461/live/tim1/1980/7329.ts
+#EXTINF:-1,MTV Hits UK
+http://192.99.149.14:25461/live/tim1/1980/7330.ts
+#EXTINF:-1,UK MTV Hits! 2
+http://192.99.149.14:25461/live/tim1/1980/7331.ts
+#EXTINF:-1,MTV Canada
+http://192.99.149.14:25461/live/tim1/1980/7334.ts
+#EXTINF:-1,MUTV
+http://192.99.149.14:25461/live/tim1/1980/7335.ts
+#EXTINF:-1,Nat Geo Wild UK
+http://192.99.149.14:25461/live/tim1/1980/7336.ts
+#EXTINF:-1,National Geographic UK
+http://192.99.149.14:25461/live/tim1/1980/7337.ts
+#EXTINF:-1,US: National Geographic Wild
+http://192.99.149.14:25461/live/tim1/1980/7191.ts
+#EXTINF:-1,US: NAT GEO WILD HD
+http://192.99.149.14:25461/live/tim1/1980/7190.ts
+#EXTINF:-1,US: NBA TV
+http://192.99.149.14:25461/live/tim1/1980/7192.ts
+#EXTINF:-1,NBA LEAGUE PASS 1
+http://192.99.149.14:25461/live/tim1/1980/7462.ts
+#EXTINF:-1,NBA LEAGUE PASS 2
+http://192.99.149.14:25461/live/tim1/1980/7463.ts
+#EXTINF:-1,NBA LEAGUE PASS 3
+http://192.99.149.14:25461/live/tim1/1980/7464.ts
+#EXTINF:-1,NBA LEAGUE PASS 4
+http://192.99.149.14:25461/live/tim1/1980/7465.ts
+#EXTINF:-1,NBA LEAGUE PASS 5
+http://192.99.149.14:25461/live/tim1/1980/7490.ts
+#EXTINF:-1,NBA LEAGUE PASS 6
+http://192.99.149.14:25461/live/tim1/1980/7491.ts
+#EXTINF:-1,NBA 10
+http://192.99.149.14:25461/live/tim1/1980/7080.ts
+#EXTINF:-1,NBA 9
+http://192.99.149.14:25461/live/tim1/1980/7414.ts
+#EXTINF:-1,NBA 8
+http://192.99.149.14:25461/live/tim1/1980/7413.ts
+#EXTINF:-1,NBA 7
+http://192.99.149.14:25461/live/tim1/1980/7412.ts
+#EXTINF:-1,NBA 6
+http://192.99.149.14:25461/live/tim1/1980/7411.ts
+#EXTINF:-1,NBA 5
+http://192.99.149.14:25461/live/tim1/1980/7410.ts
+#EXTINF:-1,NBA 4
+http://192.99.149.14:25461/live/tim1/1980/7409.ts
+#EXTINF:-1,NBA 3
+http://192.99.149.14:25461/live/tim1/1980/7408.ts
+#EXTINF:-1,NBA 2
+http://192.99.149.14:25461/live/tim1/1980/7407.ts
+#EXTINF:-1,NBA 1
+http://192.99.149.14:25461/live/tim1/1980/7406.ts
+#EXTINF:-1,NBC DALLAS
+http://192.99.149.14:25461/live/tim1/1980/7472.ts
+#EXTINF:-1,NBC NY
+http://192.99.149.14:25461/live/tim1/1980/7436.ts
+#EXTINF:-1,NBCSN HD
+http://192.99.149.14:25461/live/tim1/1980/7366.ts
+#EXTINF:-1,US: SNY
+http://192.99.149.14:25461/live/tim1/1980/7193.ts
+#EXTINF:-1,NBC sports net
+http://192.99.149.14:25461/live/tim1/1980/7504.ts
+#EXTINF:-1,NBC test
+http://192.99.149.14:25461/live/tim1/1980/7435.ts
+#EXTINF:-1,News 12 New Jersey
+http://192.99.149.14:25461/live/tim1/1980/7402.ts
+#EXTINF:-1,News 12 Bronx
+http://192.99.149.14:25461/live/tim1/1980/7395.ts
+#EXTINF:-1,News 12 West Chester
+http://192.99.149.14:25461/live/tim1/1980/7404.ts
+#EXTINF:-1,News 12 NJ Traffic & Weather
+http://192.99.149.14:25461/live/tim1/1980/7403.ts
+#EXTINF:-1,News 12 Bronx Weather
+http://192.99.149.14:25461/live/tim1/1980/7396.ts
+#EXTINF:-1,News 12 Brooklyn
+http://192.99.149.14:25461/live/tim1/1980/7397.ts
+#EXTINF:-1,News 12 Connecticut
+http://192.99.149.14:25461/live/tim1/1980/7398.ts
+#EXTINF:-1,News 12 Hudson Valley Weather
+http://192.99.149.14:25461/live/tim1/1980/7401.ts
+#EXTINF:-1,News 12 Hudson Valley
+http://192.99.149.14:25461/live/tim1/1980/7400.ts
+#EXTINF:-1,NEWS 12 Long Island
+http://192.99.149.14:25461/live/tim1/1980/7394.ts
+#EXTINF:-1,News 12 Weather Connecticut
+http://192.99.149.14:25461/live/tim1/1980/7399.ts
+#EXTINF:-1,NFL NETWORK
+http://192.99.149.14:25461/live/tim1/1980/7062.ts
+#EXTINF:-1,NFL Network HD
+http://192.99.149.14:25461/live/tim1/1980/7415.ts
+#EXTINF:-1,US: NFL Network HD
+http://192.99.149.14:25461/live/tim1/1980/7194.ts
+#EXTINF:-1,NFL NOW
+http://192.99.149.14:25461/live/tim1/1980/7416.ts
+#EXTINF:-1,NHL 1
+http://192.99.149.14:25461/live/tim1/1980/7419.ts
+#EXTINF:-1,NHL 2
+http://192.99.149.14:25461/live/tim1/1980/7420.ts
+#EXTINF:-1,NHL 3
+http://192.99.149.14:25461/live/tim1/1980/7421.ts
+#EXTINF:-1,NHL 4
+http://192.99.149.14:25461/live/tim1/1980/7422.ts
+#EXTINF:-1,NHL 5
+http://192.99.149.14:25461/live/tim1/1980/7527.ts
+#EXTINF:-1,NHL 6
+http://192.99.149.14:25461/live/tim1/1980/7528.ts
+#EXTINF:-1,NHL 7
+http://192.99.149.14:25461/live/tim1/1980/7627.ts
+#EXTINF:-1,NHL 8
+http://192.99.149.14:25461/live/tim1/1980/7210.ts
+#EXTINF:-1,NHL NETWORK
+http://192.99.149.14:25461/live/tim1/1980/7333.ts
+#EXTINF:-1,NICK
+http://192.99.149.14:25461/live/tim1/1980/7121.ts
+#EXTINF:-1,NICK USA
+http://192.99.149.14:25461/live/tim1/1980/7211.ts
+#EXTINF:-1,NICK jr
+http://192.99.149.14:25461/live/tim1/1980/7467.ts
+#EXTINF:-1,Nick Junior plus 1
+http://192.99.149.14:25461/live/tim1/1980/7339.ts
+#EXTINF:-1,NickToons
+http://192.99.149.14:25461/live/tim1/1980/7341.ts
+#EXTINF:-1,NICK Toons usa
+http://192.99.149.14:25461/live/tim1/1980/7149.ts
+#EXTINF:-1,Nick UK
+http://192.99.149.14:25461/live/tim1/1980/7340.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://192.99.149.14:25461/live/tim1/1980/7195.ts
+#EXTINF:-1,OLN test
+http://192.99.149.14:25461/live/tim1/1980/7434.ts
+#EXTINF:-1,OSN Sports 1
+http://192.99.149.14:25461/live/tim1/1980/7505.ts
+#EXTINF:-1,OSN Sport 2
+http://192.99.149.14:25461/live/tim1/1980/7506.ts
+#EXTINF:-1,OSN Sport 3
+http://192.99.149.14:25461/live/tim1/1980/7507.ts
+#EXTINF:-1,OSN 4 Sport / FN
+http://192.99.149.14:25461/live/tim1/1980/7508.ts
+#EXTINF:-1,OSN Sport Cricket
+http://192.99.149.14:25461/live/tim1/1980/7509.ts
+#EXTINF:-1,THE OUTDOOR CHANNEL
+http://192.99.149.14:25461/live/tim1/1980/9024.ts
+#EXTINF:-1,US: OWN HD
+http://192.99.149.14:25461/live/tim1/1980/7196.ts
+#EXTINF:-1,PAC 12 Arizona
+http://192.99.149.14:25461/live/tim1/1980/7511.ts
+#EXTINF:-1,PAC 12 Los Angeles
+http://192.99.149.14:25461/live/tim1/1980/7512.ts
+#EXTINF:-1,Pac 12 Bay Area
+http://192.99.149.14:25461/live/tim1/1980/7510.ts
+#EXTINF:-1,Pac 12 Mountain
+http://192.99.149.14:25461/live/tim1/1980/7513.ts
+#EXTINF:-1,Pac 12 Network
+http://192.99.149.14:25461/live/tim1/1980/7514.ts
+#EXTINF:-1,Pac 12 Oregon
+http://192.99.149.14:25461/live/tim1/1980/7515.ts
+#EXTINF:-1,Pac 12 Washington
+http://192.99.149.14:25461/live/tim1/1980/7516.ts
+#EXTINF:-1,Pick
+http://192.99.149.14:25461/live/tim1/1980/7347.ts
+#EXTINF:-1,Quest
+http://192.99.149.14:25461/live/tim1/1980/7348.ts
+#EXTINF:-1,Racing UK
+http://192.99.149.14:25461/live/tim1/1980/7349.ts
+#EXTINF:-1,Real Lives
+http://192.99.149.14:25461/live/tim1/1980/7351.ts
+#EXTINF:-1,RTE One
+http://192.99.149.14:25461/live/tim1/1980/7352.ts
+#EXTINF:-1,RTE Two
+http://192.99.149.14:25461/live/tim1/1980/7353.ts
+#EXTINF:-1,Russia Today HD
+http://192.99.149.14:25461/live/tim1/1980/7355.ts
+#EXTINF:-1,Setanta
+http://192.99.149.14:25461/live/tim1/1980/7357.ts
+#EXTINF:-1,Setanta Sports 1 / Premier Sports
+http://192.99.149.14:25461/live/tim1/1980/7358.ts
+#EXTINF:-1,SFR Sport 1 FR
+http://192.99.149.14:25461/live/tim1/1980/7497.ts
+#EXTINF:-1,SFR Sport 2 FR
+http://192.99.149.14:25461/live/tim1/1980/7498.ts
+#EXTINF:-1,SFR Sport 3 FR
+http://192.99.149.14:25461/live/tim1/1980/7499.ts
+#EXTINF:-1,US: ShowTime
+http://192.99.149.14:25461/live/tim1/1980/7197.ts
+#EXTINF:-1,US: ShowTime 2 HD
+http://192.99.149.14:25461/live/tim1/1980/7198.ts
+#EXTINF:-1,US: Showtime Showcase
+http://192.99.149.14:25461/live/tim1/1980/7200.ts
+#EXTINF:-1,Sky 1
+http://192.99.149.14:25461/live/tim1/1980/7359.ts
+#EXTINF:-1,Sky 2
+http://192.99.149.14:25461/live/tim1/1980/7360.ts
+#EXTINF:-1,Sky Action Movies
+http://192.99.149.14:25461/live/tim1/1980/7361.ts
+#EXTINF:-1,Sky Arts
+http://192.99.149.14:25461/live/tim1/1980/7362.ts
+#EXTINF:-1,Sky Atlantic
+http://192.99.149.14:25461/live/tim1/1980/7363.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD
+http://192.99.149.14:25461/live/tim1/1980/7064.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://192.99.149.14:25461/live/tim1/1980/7065.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://192.99.149.14:25461/live/tim1/1980/7066.ts
+#EXTINF:-1,Sky Cinema Disney HD
+http://192.99.149.14:25461/live/tim1/1980/7067.ts
+#EXTINF:-1,Sky Cinema Drama n Romance HD
+http://192.99.149.14:25461/live/tim1/1980/7068.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://192.99.149.14:25461/live/tim1/1980/7069.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://192.99.149.14:25461/live/tim1/1980/7070.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+http://192.99.149.14:25461/live/tim1/1980/7071.ts
+#EXTINF:-1,Sky Cinema SciFi & Horror HD
+http://192.99.149.14:25461/live/tim1/1980/7072.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://192.99.149.14:25461/live/tim1/1980/7073.ts
+#EXTINF:-1,Sky DramaRom Movies
+http://192.99.149.14:25461/live/tim1/1980/7075.ts
+#EXTINF:-1,Sky News HD
+http://192.99.149.14:25461/live/tim1/1980/7081.ts
+#EXTINF:-1,Sky News UK
+http://192.99.149.14:25461/live/tim1/1980/7082.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+http://192.99.149.14:25461/live/tim1/1980/7088.ts
+#EXTINF:-1,SKY SPORTS 1 IRE
+http://192.99.149.14:25461/live/tim1/1980/7090.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+http://192.99.149.14:25461/live/tim1/1980/7092.ts
+#EXTINF:-1,SKY SPORTS 2 IRE
+http://192.99.149.14:25461/live/tim1/1980/7094.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+http://192.99.149.14:25461/live/tim1/1980/7096.ts
+#EXTINF:-1,SKY SPORTS 3 IRE
+http://192.99.149.14:25461/live/tim1/1980/7098.ts
+#EXTINF:-1,SKY SPORTS 4 HD
+http://192.99.149.14:25461/live/tim1/1980/7100.ts
+#EXTINF:-1,SKY SPORTS 4 IRE
+http://192.99.149.14:25461/live/tim1/1980/7102.ts
+#EXTINF:-1,SKY SPORTS 5 HD
+http://192.99.149.14:25461/live/tim1/1980/7104.ts
+#EXTINF:-1,SKY SPORTS 5 IRE
+http://192.99.149.14:25461/live/tim1/1980/7106.ts
+#EXTINF:-1,Sky Sports Box Office boxing
+http://192.99.149.14:25461/live/tim1/1980/7107.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://192.99.149.14:25461/live/tim1/1980/7109.ts
+#EXTINF:-1,Sky Sp News HQ
+http://192.99.149.14:25461/live/tim1/1980/7086.ts
+#EXTINF:-1,Sky Thriller Movies
+http://192.99.149.14:25461/live/tim1/1980/7113.ts
+#EXTINF:-1,Sony Channel
+http://192.99.149.14:25461/live/tim1/1980/7114.ts
+#EXTINF:-1,CA Sportnet One
+http://192.99.149.14:25461/live/tim1/1980/7449.ts
+#EXTINF:-1,CA Sportsnet World
+http://192.99.149.14:25461/live/tim1/1980/7451.ts
+#EXTINF:-1,CA Sportsnet West
+http://192.99.149.14:25461/live/tim1/1980/7450.ts
+#EXTINF:-1,CA Sportsnet 360
+http://192.99.149.14:25461/live/tim1/1980/7448.ts
+#EXTINF:-1,US: SPIKE HD
+http://192.99.149.14:25461/live/tim1/1980/7201.ts
+#EXTINF:-1,US: Starz Comedy
+http://192.99.149.14:25461/live/tim1/1980/7202.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://192.99.149.14:25461/live/tim1/1980/7203.ts
+#EXTINF:-1,SyFy
+http://192.99.149.14:25461/live/tim1/1980/7134.ts
+#EXTINF:-1,US: SYFY HD
+http://192.99.149.14:25461/live/tim1/1980/7204.ts
+#EXTINF:-1,SPORTS : Arena Sport 1 HD
+http://192.99.149.14:25461/live/tim1/1980/7117.ts
+#EXTINF:-1,SPORTS : Arena Sport 2 HD
+http://192.99.149.14:25461/live/tim1/1980/7118.ts
+#EXTINF:-1,SPORTS : Arena Sport 3 HD
+http://192.99.149.14:25461/live/tim1/1980/7119.ts
+#EXTINF:-1,SPORTS : Arena Sport 4 HD
+http://192.99.149.14:25461/live/tim1/1980/7120.ts
+#EXTINF:-1,SPORTS : SPORT KLUB HD 1
+http://192.99.149.14:25461/live/tim1/1980/7122.ts
+#EXTINF:-1,SPORTS : SPORT KLUB HD 2
+http://192.99.149.14:25461/live/tim1/1980/7123.ts
+#EXTINF:-1,SPORTS : SPORT KLUB HD 3
+http://192.99.149.14:25461/live/tim1/1980/7124.ts
+#EXTINF:-1,SPORTS : SuperSport 1 HD
+http://192.99.149.14:25461/live/tim1/1980/7128.ts
+#EXTINF:-1,SUPER SPORT 1 HD alb
+http://192.99.149.14:25461/live/tim1/1980/7129.ts
+#EXTINF:-1,SPORTS : Super Sport 2 HD
+http://192.99.149.14:25461/live/tim1/1980/7125.ts
+#EXTINF:-1,SUPER SPORT 2 HD alb
+http://192.99.149.14:25461/live/tim1/1980/7130.ts
+#EXTINF:-1,SUPER SPORT 3 HD alb
+http://192.99.149.14:25461/live/tim1/1980/7131.ts
+#EXTINF:-1,SUPER SPORT 4 HD alb
+http://192.99.149.14:25461/live/tim1/1980/7132.ts
+#EXTINF:-1,SPORTS : Super Sport 4 HD
+http://192.99.149.14:25461/live/tim1/1980/7127.ts
+#EXTINF:-1,SUPER SPORT 5 HD
+http://192.99.149.14:25461/live/tim1/1980/7133.ts
+#EXTINF:-1,US: TBS HD
+http://192.99.149.14:25461/live/tim1/1980/7205.ts
+#EXTINF:-1,T&E channel
+http://192.99.149.14:25461/live/tim1/1980/7135.ts
+#EXTINF:-1,TCM movies
+http://192.99.149.14:25461/live/tim1/1980/7136.ts
+#EXTINF:-1,TLC
+http://192.99.149.14:25461/live/tim1/1980/7474.ts
+#EXTINF:-1,TNT USA
+http://192.99.149.14:25461/live/tim1/1980/7430.ts
+#EXTINF:-1,TR:LIGTV 1
+http://192.99.149.14:25461/live/tim1/1980/7138.ts
+#EXTINF:-1,TR:LIGTV 2
+http://192.99.149.14:25461/live/tim1/1980/7139.ts
+#EXTINF:-1,TR:LIGTV 3
+http://192.99.149.14:25461/live/tim1/1980/7140.ts
+#EXTINF:-1,Travel Channel
+http://192.99.149.14:25461/live/tim1/1980/7141.ts
+#EXTINF:-1,Treehouse
+http://192.99.149.14:25461/live/tim1/1980/7520.ts
+#EXTINF:-1,USA TRU TV
+http://192.99.149.14:25461/live/tim1/1980/7364.ts
+#EXTINF:-1,Tru TV
+http://192.99.149.14:25461/live/tim1/1980/7142.ts
+#EXTINF:-1,True Movies 1
+http://192.99.149.14:25461/live/tim1/1980/7143.ts
+#EXTINF:-1,True Movies 2
+http://192.99.149.14:25461/live/tim1/1980/7144.ts
+#EXTINF:-1,TSN 1 test
+http://192.99.149.14:25461/live/tim1/1980/7437.ts
+#EXTINF:-1,TSN 2 test
+http://192.99.149.14:25461/live/tim1/1980/7438.ts
+#EXTINF:-1,TSN 3 test
+http://192.99.149.14:25461/live/tim1/1980/7439.ts
+#EXTINF:-1,TSN 4 test
+http://192.99.149.14:25461/live/tim1/1980/7440.ts
+#EXTINF:-1,TSN 5 test
+http://192.99.149.14:25461/live/tim1/1980/7441.ts
+#EXTINF:-1,TV3
+http://192.99.149.14:25461/live/tim1/1980/7146.ts
+#EXTINF:-1,TV Land Classic
+http://192.99.149.14:25461/live/tim1/1980/7489.ts
+#EXTINF:-1,TV LAND test
+http://192.99.149.14:25461/live/tim1/1980/7431.ts
+#EXTINF:-1,UFC Fight pass
+http://192.99.149.14:25461/live/tim1/1980/7147.ts
+#EXTINF:-1,US: USA Network HD
+http://192.99.149.14:25461/live/tim1/1980/7206.ts
+#EXTINF:-1,UTV
+http://192.99.149.14:25461/live/tim1/1980/7208.ts
+#EXTINF:-1,VH1
+http://192.99.149.14:25461/live/tim1/1980/7209.ts
+#EXTINF:-1,VH1 USA
+http://192.99.149.14:25461/live/tim1/1980/7432.ts
+#EXTINF:-1,VICELAND Test
+http://192.99.149.14:25461/live/tim1/1980/7126.ts
+#EXTINF:-1,USA WEATHER CHANNEL
+http://192.99.149.14:25461/live/tim1/1980/7488.ts
+#EXTINF:-1,WEATHER NATION
+http://192.99.149.14:25461/live/tim1/1980/7548.ts
+#EXTINF:-1,WORLD FISHING
+http://192.99.149.14:25461/live/tim1/1980/7476.ts
+#EXTINF:-1,WWE 24hrs
+http://192.99.149.14:25461/live/tim1/1980/9023.ts
+#EXTINF:-1,WWE 24
+http://192.99.149.14:25461/live/tim1/1980/9019.ts
+#EXTINF:-1,WE TV
+http://192.99.149.14:25461/live/tim1/1980/8680.ts
+#EXTINF:-1,US: WWE HD
+http://192.99.149.14:25461/live/tim1/1980/7207.ts
+#EXTINF:-1,YTV
+http://192.99.149.14:25461/live/tim1/1980/7519.ts
+#EXTINF:-1,Yesterday 1
+http://192.99.149.14:25461/live/tim1/1980/7214.ts
