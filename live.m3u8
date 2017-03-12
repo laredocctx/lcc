@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,3e
-http://192.99.149.14:25461/live/tim1/1980/7215.ts
+http://dns.theplayersklub.us:2095/get.php?username=beta&amp;password=beta&amp;type=m3u_plus&amp;output=ts
 #EXTINF:-1,US: A&E HD
 http://192.99.149.14:25461/live/tim1/1980/7150.ts
 #EXTINF:-1,US: A&E TV HD
