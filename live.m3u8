@@ -2,7 +2,7 @@
 #EXTINF:-1,3e
 http://dns.theplayersklub.us:2095/get.php?username=beta&amp;password=beta&amp;type=m3u_plus&amp;output=ts
 #EXTINF:-1,US: A&E HD
-http://192.99.149.14:25461/live/tim1/1980/7150.ts
+https://drive.google.com/file/d/0B67lOU7bm4dGemlZZGNQU01vNWc/view?usp=drivesdk
 #EXTINF:-1,US: A&E TV HD
 plugin://plugin.video.f4mTester/?url=http://192.99.149.14:25461/live/tim1/1980/7151.ts
 #EXTINF:-1,ABC Dallas
