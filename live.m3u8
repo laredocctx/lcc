@@ -1,657 +1,3659 @@
 #EXTM3U
-#EXTINF:-1,3e
-http://dns.theplayersklub.us:2095/get.php?username=beta&amp;password=beta&amp;type=m3u_plus&amp;output=ts
-#EXTINF:-1,US: A&E HD
-https://drive.google.com/file/d/0B67lOU7bm4dGemlZZGNQU01vNWc/view?usp=drivesdk
-#EXTINF:-1,US: A&E TV HD
-plugin://plugin.video.f4mTester/?url=http://192.99.149.14:25461/live/tim1/1980/7151.ts
-#EXTINF:-1,ABC Dallas
-http://192.99.149.14:25461/live/tim1/1980/7469.ts
-#EXTINF:-1,ABC Lancaster PA
-http://192.99.149.14:25461/live/tim1/1980/9155.ts
-#EXTINF:-1,ABC NY
-http://192.99.149.14:25461/live/tim1/1980/7587.ts
-#EXTINF:-1,ABC News
-http://192.99.149.14:25461/live/tim1/1980/7225.ts
-#EXTINF:-1,ABC Canada
-http://192.99.149.14:25461/live/tim1/1980/7442.ts
-#EXTINF:-1,US: ABC LA
-http://192.99.149.14:25461/live/tim1/1980/7153.ts
-#EXTINF:-1,US: AFN MOVIE
-http://192.99.149.14:25461/live/tim1/1980/7154.ts
-#EXTINF:-1,US: AFN NEWS
-http://192.99.149.14:25461/live/tim1/1980/7155.ts
-#EXTINF:-1,US: AFN PRIME ATLANTIC
-http://192.99.149.14:25461/live/tim1/1980/7156.ts
-#EXTINF:-1,SEC NETWORK
-http://192.99.149.14:25461/live/tim1/1980/7157.ts
-#EXTINF:-1,US: AFN PULSE
-http://192.99.149.14:25461/live/tim1/1980/7158.ts
-#EXTINF:-1,US: AFN SPECTRUM
-http://192.99.149.14:25461/live/tim1/1980/7159.ts
-#EXTINF:-1,US: AFN SPORTS
-http://192.99.149.14:25461/live/tim1/1980/7160.ts
-#EXTINF:-1,US: AFN SPORTS 2
-http://192.99.149.14:25461/live/tim1/1980/7161.ts
-#EXTINF:-1,US: AMC HD
-http://192.99.149.14:25461/live/tim1/1980/7162.ts
-#EXTINF:-1,AMC 2
-http://192.99.149.14:25461/live/tim1/1980/7468.ts
-#EXTINF:-1,AMC TEST
-http://192.99.149.14:25461/live/tim1/1980/7424.ts
-#EXTINF:-1,AMGTV
-http://192.99.149.14:25461/live/tim1/1980/7550.ts
-#EXTINF:-1,At The Races
-http://192.99.149.14:25461/live/tim1/1980/7228.ts
-#EXTINF:-1,AT THE RACES UK
-http://192.99.149.14:25461/live/tim1/1980/9052.ts
-#EXTINF:-1,Animal Planet
-http://192.99.149.14:25461/live/tim1/1980/7227.ts
-#EXTINF:-1,Alibi
-http://192.99.149.14:25461/live/tim1/1980/7226.ts
-#EXTINF:-1,Baby TV
-http://192.99.149.14:25461/live/tim1/1980/7229.ts
-#EXTINF:-1,BBC News UK
-http://192.99.149.14:25461/live/tim1/1980/7231.ts
-#EXTINF:-1,BBC One HD
-http://192.99.149.14:25461/live/tim1/1980/7232.ts
-#EXTINF:-1,BBC Two HD
-http://192.99.149.14:25461/live/tim1/1980/7235.ts
-#EXTINF:-1,BBC Two
-http://192.99.149.14:25461/live/tim1/1980/7236.ts
-#EXTINF:-1,BBC Three HD
-http://192.99.149.14:25461/live/tim1/1980/7234.ts
-#EXTINF:-1,BBC Four UK
-http://192.99.149.14:25461/live/tim1/1980/7230.ts
-#EXTINF:-1,BBC World News
-http://192.99.149.14:25461/live/tim1/1980/7237.ts
-#EXTINF:-1,BBC One London
-http://192.99.149.14:25461/live/tim1/1980/7233.ts
-#EXTINF:-1,CNBC
-http://192.99.149.14:25461/live/tim1/1980/7443.ts
-#EXTINF:-1,CBS Action
-http://192.99.149.14:25461/live/tim1/1980/7261.ts
-#EXTINF:-1,CBS Drama
-http://192.99.149.14:25461/live/tim1/1980/7262.ts
-#EXTINF:-1,CBS
-http://192.99.149.14:25461/live/tim1/1980/7470.ts
-#EXTINF:-1,CBeebies
-http://192.99.149.14:25461/live/tim1/1980/7260.ts
-#EXTINF:-1,CBBC
-http://192.99.149.14:25461/live/tim1/1980/7259.ts
-#EXTINF:-1,US CINEMAX action max
-http://192.99.149.14:25461/live/tim1/1980/7168.ts
-#EXTINF:-1,US: Cinemax East
-http://192.99.149.14:25461/live/tim1/1980/7169.ts
-#EXTINF:-1,US: CNN HD
-http://192.99.149.14:25461/live/tim1/1980/7170.ts
-#EXTINF:-1,Comedy Central
-http://192.99.149.14:25461/live/tim1/1980/7272.ts
-#EXTINF:-1,Comedy Central Extra
-http://192.99.149.14:25461/live/tim1/1980/7273.ts
-#EXTINF:-1,Crime Investigation
-http://192.99.149.14:25461/live/tim1/1980/7274.ts
-#EXTINF:-1,CTV/ FOX 25
-http://192.99.149.14:25461/live/tim1/1980/7213.ts
-#EXTINF:-1,Challenge
-http://192.99.149.14:25461/live/tim1/1980/7265.ts
-#EXTINF:-1,Channel 4 UK
-http://192.99.149.14:25461/live/tim1/1980/7267.ts
-#EXTINF:-1,Channel 5 UK
-http://192.99.149.14:25461/live/tim1/1980/7269.ts
-#EXTINF:-1,CMT
-http://192.99.149.14:25461/live/tim1/1980/7315.ts
-#EXTINF:-1,US: COMEDY CENTRAL HD
-http://192.99.149.14:25461/live/tim1/1980/7171.ts
-#EXTINF:-1,PIX 11/ CW test
-http://192.99.149.14:25461/live/tim1/1980/7429.ts
-#EXTINF:-1,US: CW HD
-http://192.99.149.14:25461/live/tim1/1980/7172.ts
-#EXTINF:-1,Dave
-http://192.99.149.14:25461/live/tim1/1980/7281.ts
-#EXTINF:-1,US: Discovery Channel HD
-http://192.99.149.14:25461/live/tim1/1980/7173.ts
-#EXTINF:-1,US Discovery
-http://192.99.149.14:25461/live/tim1/1980/7282.ts
-#EXTINF:-1,Discovery History
-http://192.99.149.14:25461/live/tim1/1980/7283.ts
-#EXTINF:-1,MY13 LA
-http://192.99.149.14:25461/live/tim1/1980/7284.ts
-#EXTINF:-1,Discovery Science
-http://192.99.149.14:25461/live/tim1/1980/7285.ts
-#EXTINF:-1,Uk: Discovery Science HD
-http://192.99.149.14:25461/live/tim1/1980/7174.ts
-#EXTINF:-1,Discovery Shed UK
-http://192.99.149.14:25461/live/tim1/1980/7286.ts
-#EXTINF:-1,Discovery Turbo
-http://192.99.149.14:25461/live/tim1/1980/7287.ts
-#EXTINF:-1,DIY Network
-http://192.99.149.14:25461/live/tim1/1980/7264.ts
-#EXTINF:-1,DMAX
-http://192.99.149.14:25461/live/tim1/1980/7291.ts
-#EXTINF:-1,Drama UK
-http://192.99.149.14:25461/live/tim1/1980/7292.ts
-#EXTINF:-1,E! Entertainment
-http://192.99.149.14:25461/live/tim1/1980/7293.ts
-#EXTINF:-1,E4
-http://192.99.149.14:25461/live/tim1/1980/7294.ts
-#EXTINF:-1,Eden
-http://192.99.149.14:25461/live/tim1/1980/7295.ts
-#EXTINF:-1,Encore Action East
-http://192.99.149.14:25461/live/tim1/1980/7263.ts
-#EXTINF:-1,eurosport 1 hd
-http://192.99.149.14:25461/live/tim1/1980/7383.ts
-#EXTINF:-1,eir sports 1
-http://192.99.149.14:25461/live/tim1/1980/7296.ts
-#EXTINF:-1,US: ESPN
-http://192.99.149.14:25461/live/tim1/1980/7175.ts
-#EXTINF:-1,UFC PPV 1
-http://192.99.149.14:25461/live/tim1/1980/7177.ts
-#EXTINF:-1,US: ESPN 2
-http://192.99.149.14:25461/live/tim1/1980/7176.ts
-#EXTINF:-1,ESPN 2
-http://192.99.149.14:25461/live/tim1/1980/7572.ts
-#EXTINF:-1,Eir sports 2
-http://192.99.149.14:25461/live/tim1/1980/7297.ts
-#EXTINF:-1,Eleven
-http://192.99.149.14:25461/live/tim1/1980/7298.ts
-#EXTINF:-1,Eleven Sports
-http://192.99.149.14:25461/live/tim1/1980/7300.ts
-#EXTINF:-1,Euronews
-http://192.99.149.14:25461/live/tim1/1980/7301.ts
-#EXTINF:-1,FOX 1
-http://192.99.149.14:25461/live/tim1/1980/7621.ts
-#EXTINF:-1,FOX 25
-http://192.99.149.14:25461/live/tim1/1980/7492.ts
-#EXTINF:-1,Fox News
-http://192.99.149.14:25461/live/tim1/1980/7303.ts
-#EXTINF:-1,FOX Sports
-http://192.99.149.14:25461/live/tim1/1980/7405.ts
-#EXTINF:-1,FOX Sports 2
-http://192.99.149.14:25461/live/tim1/1980/7447.ts
-#EXTINF:-1,FOX Sports 1
-http://192.99.149.14:25461/live/tim1/1980/7446.ts
-#EXTINF:-1,FOX Sports South
-http://192.99.149.14:25461/live/tim1/1980/7309.ts
-#EXTINF:-1,FIGHT SPORT
-http://192.99.149.14:25461/live/tim1/1980/7477.ts
-#EXTINF:-1,FIGHT NETWORK
-http://192.99.149.14:25461/live/tim1/1980/7503.ts
-#EXTINF:-1,FIGHT BOX
-http://192.99.149.14:25461/live/tim1/1980/7502.ts
-#EXTINF:-1,US: Food Network HD
-http://192.99.149.14:25461/live/tim1/1980/7178.ts
-#EXTINF:-1,FREEFORM
-http://192.99.149.14:25461/live/tim1/1980/7179.ts
-#EXTINF:-1,US: FX HD
-http://192.99.149.14:25461/live/tim1/1980/7181.ts
-#EXTINF:-1,GSN
-http://192.99.149.14:25461/live/tim1/1980/7471.ts
-#EXTINF:-1,Gold
-http://192.99.149.14:25461/live/tim1/1980/7304.ts
-#EXTINF:-1,US: GRIT TV
-http://192.99.149.14:25461/live/tim1/1980/7167.ts
-#EXTINF:-1,US: H2
-http://192.99.149.14:25461/live/tim1/1980/7182.ts
-#EXTINF:-1,H2 UK
-http://192.99.149.14:25461/live/tim1/1980/7305.ts
-#EXTINF:-1,US: HALLMARK
-http://192.99.149.14:25461/live/tim1/1980/7183.ts
-#EXTINF:-1,US: HBO
-http://192.99.149.14:25461/live/tim1/1980/7184.ts
-#EXTINF:-1,US: HBO Family HD
-http://192.99.149.14:25461/live/tim1/1980/7185.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://192.99.149.14:25461/live/tim1/1980/7186.ts
-#EXTINF:-1,US: HBO Zone HD
-http://192.99.149.14:25461/live/tim1/1980/7148.ts
-#EXTINF:-1,Heart TV UK
-http://192.99.149.14:25461/live/tim1/1980/7306.ts
-#EXTINF:-1,HGTV test
-http://192.99.149.14:25461/live/tim1/1980/7426.ts
-#EXTINF:-1,US: HISTORY
-http://192.99.149.14:25461/live/tim1/1980/7187.ts
-#EXTINF:-1,History UK
-http://192.99.149.14:25461/live/tim1/1980/7307.ts
-#EXTINF:-1,ION TEST
-http://192.99.149.14:25461/live/tim1/1980/8675.ts
-#EXTINF:-1,Investigation Discovery
-http://192.99.149.14:25461/live/tim1/1980/7473.ts
-#EXTINF:-1,ITV Encore
-http://192.99.149.14:25461/live/tim1/1980/7314.ts
-#EXTINF:-1,ITV 2
-http://192.99.149.14:25461/live/tim1/1980/7310.ts
-#EXTINF:-1,ITV 3
-http://192.99.149.14:25461/live/tim1/1980/7311.ts
-#EXTINF:-1,ITV 4
-http://192.99.149.14:25461/live/tim1/1980/7312.ts
-#EXTINF:-1,ITV 1 LONDON
-http://192.99.149.14:25461/live/tim1/1980/7308.ts
-#EXTINF:-1,ITV Be
-http://192.99.149.14:25461/live/tim1/1980/7313.ts
-#EXTINF:-1,Jazmin Channel HD
-http://192.99.149.14:25461/live/tim1/1980/7622.ts
-#EXTINF:-1,KTLA test
-http://192.99.149.14:25461/live/tim1/1980/7427.ts
-#EXTINF:-1,US: LIFE TIME
-http://192.99.149.14:25461/live/tim1/1980/7189.ts
-#EXTINF:-1,LFC TV
-http://192.99.149.14:25461/live/tim1/1980/7317.ts
-#EXTINF:-1,LMN test
-http://192.99.149.14:25461/live/tim1/1980/7428.ts
-#EXTINF:-1,LMN
-http://192.99.149.14:25461/live/tim1/1980/7475.ts
-#EXTINF:-1,London Live UK
-http://192.99.149.14:25461/live/tim1/1980/7319.ts
-#EXTINF:-1,MIAMI TV SPAIN
-http://192.99.149.14:25461/live/tim1/1980/7549.ts
-#EXTINF:-1,MIO 105
-http://192.99.149.14:25461/live/tim1/1980/7365.ts
-#EXTINF:-1,UK: Mio Sports 2
-http://192.99.149.14:25461/live/tim1/1980/7390.ts
-#EXTINF:-1,UK: Mio Sports 3
-http://192.99.149.14:25461/live/tim1/1980/7391.ts
-#EXTINF:-1,UK: Mio Sports 4
-http://192.99.149.14:25461/live/tim1/1980/7392.ts
-#EXTINF:-1,UK: Mio Sports 5
-http://192.99.149.14:25461/live/tim1/1980/7393.ts
-#EXTINF:-1,MLB LIVE
-http://192.99.149.14:25461/live/tim1/1980/7445.ts
-#EXTINF:-1,MLB Network
-http://192.99.149.14:25461/live/tim1/1980/7583.ts
-#EXTINF:-1,Motors UK
-http://192.99.149.14:25461/live/tim1/1980/7323.ts
-#EXTINF:-1,Movies 24
-http://192.99.149.14:25461/live/tim1/1980/7324.ts
-#EXTINF:-1,MSG
-http://192.99.149.14:25461/live/tim1/1980/7518.ts
-#EXTINF:-1,MSNBC
-http://192.99.149.14:25461/live/tim1/1980/8681.ts
-#EXTINF:-1,Mtv !
-http://192.99.149.14:25461/live/tim1/1980/7116.ts
-#EXTINF:-1,Us MTV test
-http://192.99.149.14:25461/live/tim1/1980/8677.ts
-#EXTINF:-1,MTV USA
-http://192.99.149.14:25461/live/tim1/1980/7466.ts
-#EXTINF:-1,MTV Base UK
-http://192.99.149.14:25461/live/tim1/1980/7326.ts
-#EXTINF:-1,MTV Classic
-http://192.99.149.14:25461/live/tim1/1980/7327.ts
-#EXTINF:-1,MTV Plus 1
-http://192.99.149.14:25461/live/tim1/1980/7328.ts
-#EXTINF:-1,MTV Dance HD
-http://192.99.149.14:25461/live/tim1/1980/7329.ts
-#EXTINF:-1,MTV Hits UK
-http://192.99.149.14:25461/live/tim1/1980/7330.ts
-#EXTINF:-1,UK MTV Hits! 2
-http://192.99.149.14:25461/live/tim1/1980/7331.ts
-#EXTINF:-1,MTV Canada
-http://192.99.149.14:25461/live/tim1/1980/7334.ts
-#EXTINF:-1,MUTV
-http://192.99.149.14:25461/live/tim1/1980/7335.ts
-#EXTINF:-1,Nat Geo Wild UK
-http://192.99.149.14:25461/live/tim1/1980/7336.ts
-#EXTINF:-1,National Geographic UK
-http://192.99.149.14:25461/live/tim1/1980/7337.ts
-#EXTINF:-1,US: National Geographic Wild
-http://192.99.149.14:25461/live/tim1/1980/7191.ts
-#EXTINF:-1,US: NAT GEO WILD HD
-http://192.99.149.14:25461/live/tim1/1980/7190.ts
-#EXTINF:-1,US: NBA TV
-http://192.99.149.14:25461/live/tim1/1980/7192.ts
-#EXTINF:-1,NBA LEAGUE PASS 1
-http://192.99.149.14:25461/live/tim1/1980/7462.ts
-#EXTINF:-1,NBA LEAGUE PASS 2
-http://192.99.149.14:25461/live/tim1/1980/7463.ts
-#EXTINF:-1,NBA LEAGUE PASS 3
-http://192.99.149.14:25461/live/tim1/1980/7464.ts
-#EXTINF:-1,NBA LEAGUE PASS 4
-http://192.99.149.14:25461/live/tim1/1980/7465.ts
-#EXTINF:-1,NBA LEAGUE PASS 5
-http://192.99.149.14:25461/live/tim1/1980/7490.ts
-#EXTINF:-1,NBA LEAGUE PASS 6
-http://192.99.149.14:25461/live/tim1/1980/7491.ts
-#EXTINF:-1,NBA 10
-http://192.99.149.14:25461/live/tim1/1980/7080.ts
-#EXTINF:-1,NBA 9
-http://192.99.149.14:25461/live/tim1/1980/7414.ts
-#EXTINF:-1,NBA 8
-http://192.99.149.14:25461/live/tim1/1980/7413.ts
-#EXTINF:-1,NBA 7
-http://192.99.149.14:25461/live/tim1/1980/7412.ts
-#EXTINF:-1,NBA 6
-http://192.99.149.14:25461/live/tim1/1980/7411.ts
-#EXTINF:-1,NBA 5
-http://192.99.149.14:25461/live/tim1/1980/7410.ts
-#EXTINF:-1,NBA 4
-http://192.99.149.14:25461/live/tim1/1980/7409.ts
-#EXTINF:-1,NBA 3
-http://192.99.149.14:25461/live/tim1/1980/7408.ts
-#EXTINF:-1,NBA 2
-http://192.99.149.14:25461/live/tim1/1980/7407.ts
-#EXTINF:-1,NBA 1
-http://192.99.149.14:25461/live/tim1/1980/7406.ts
-#EXTINF:-1,NBC DALLAS
-http://192.99.149.14:25461/live/tim1/1980/7472.ts
-#EXTINF:-1,NBC NY
-http://192.99.149.14:25461/live/tim1/1980/7436.ts
-#EXTINF:-1,NBCSN HD
-http://192.99.149.14:25461/live/tim1/1980/7366.ts
-#EXTINF:-1,US: SNY
-http://192.99.149.14:25461/live/tim1/1980/7193.ts
-#EXTINF:-1,NBC sports net
-http://192.99.149.14:25461/live/tim1/1980/7504.ts
-#EXTINF:-1,NBC test
-http://192.99.149.14:25461/live/tim1/1980/7435.ts
-#EXTINF:-1,News 12 New Jersey
-http://192.99.149.14:25461/live/tim1/1980/7402.ts
-#EXTINF:-1,News 12 Bronx
-http://192.99.149.14:25461/live/tim1/1980/7395.ts
-#EXTINF:-1,News 12 West Chester
-http://192.99.149.14:25461/live/tim1/1980/7404.ts
-#EXTINF:-1,News 12 NJ Traffic & Weather
-http://192.99.149.14:25461/live/tim1/1980/7403.ts
-#EXTINF:-1,News 12 Bronx Weather
-http://192.99.149.14:25461/live/tim1/1980/7396.ts
-#EXTINF:-1,News 12 Brooklyn
-http://192.99.149.14:25461/live/tim1/1980/7397.ts
-#EXTINF:-1,News 12 Connecticut
-http://192.99.149.14:25461/live/tim1/1980/7398.ts
-#EXTINF:-1,News 12 Hudson Valley Weather
-http://192.99.149.14:25461/live/tim1/1980/7401.ts
-#EXTINF:-1,News 12 Hudson Valley
-http://192.99.149.14:25461/live/tim1/1980/7400.ts
-#EXTINF:-1,NEWS 12 Long Island
-http://192.99.149.14:25461/live/tim1/1980/7394.ts
-#EXTINF:-1,News 12 Weather Connecticut
-http://192.99.149.14:25461/live/tim1/1980/7399.ts
-#EXTINF:-1,NFL NETWORK
-http://192.99.149.14:25461/live/tim1/1980/7062.ts
-#EXTINF:-1,NFL Network HD
-http://192.99.149.14:25461/live/tim1/1980/7415.ts
-#EXTINF:-1,US: NFL Network HD
-http://192.99.149.14:25461/live/tim1/1980/7194.ts
-#EXTINF:-1,NFL NOW
-http://192.99.149.14:25461/live/tim1/1980/7416.ts
-#EXTINF:-1,NHL 1
-http://192.99.149.14:25461/live/tim1/1980/7419.ts
-#EXTINF:-1,NHL 2
-http://192.99.149.14:25461/live/tim1/1980/7420.ts
-#EXTINF:-1,NHL 3
-http://192.99.149.14:25461/live/tim1/1980/7421.ts
-#EXTINF:-1,NHL 4
-http://192.99.149.14:25461/live/tim1/1980/7422.ts
-#EXTINF:-1,NHL 5
-http://192.99.149.14:25461/live/tim1/1980/7527.ts
-#EXTINF:-1,NHL 6
-http://192.99.149.14:25461/live/tim1/1980/7528.ts
-#EXTINF:-1,NHL 7
-http://192.99.149.14:25461/live/tim1/1980/7627.ts
-#EXTINF:-1,NHL 8
-http://192.99.149.14:25461/live/tim1/1980/7210.ts
-#EXTINF:-1,NHL NETWORK
-http://192.99.149.14:25461/live/tim1/1980/7333.ts
-#EXTINF:-1,NICK
-http://192.99.149.14:25461/live/tim1/1980/7121.ts
-#EXTINF:-1,NICK USA
-http://192.99.149.14:25461/live/tim1/1980/7211.ts
-#EXTINF:-1,NICK jr
-http://192.99.149.14:25461/live/tim1/1980/7467.ts
-#EXTINF:-1,Nick Junior plus 1
-http://192.99.149.14:25461/live/tim1/1980/7339.ts
-#EXTINF:-1,NickToons
-http://192.99.149.14:25461/live/tim1/1980/7341.ts
-#EXTINF:-1,NICK Toons usa
-http://192.99.149.14:25461/live/tim1/1980/7149.ts
-#EXTINF:-1,Nick UK
-http://192.99.149.14:25461/live/tim1/1980/7340.ts
-#EXTINF:-1,US: NICKELODEN HD
-http://192.99.149.14:25461/live/tim1/1980/7195.ts
-#EXTINF:-1,OLN test
-http://192.99.149.14:25461/live/tim1/1980/7434.ts
-#EXTINF:-1,OSN Sports 1
-http://192.99.149.14:25461/live/tim1/1980/7505.ts
-#EXTINF:-1,OSN Sport 2
-http://192.99.149.14:25461/live/tim1/1980/7506.ts
-#EXTINF:-1,OSN Sport 3
-http://192.99.149.14:25461/live/tim1/1980/7507.ts
-#EXTINF:-1,OSN 4 Sport / FN
-http://192.99.149.14:25461/live/tim1/1980/7508.ts
-#EXTINF:-1,OSN Sport Cricket
-http://192.99.149.14:25461/live/tim1/1980/7509.ts
-#EXTINF:-1,THE OUTDOOR CHANNEL
-http://192.99.149.14:25461/live/tim1/1980/9024.ts
-#EXTINF:-1,US: OWN HD
-http://192.99.149.14:25461/live/tim1/1980/7196.ts
-#EXTINF:-1,PAC 12 Arizona
-http://192.99.149.14:25461/live/tim1/1980/7511.ts
-#EXTINF:-1,PAC 12 Los Angeles
-http://192.99.149.14:25461/live/tim1/1980/7512.ts
-#EXTINF:-1,Pac 12 Bay Area
-http://192.99.149.14:25461/live/tim1/1980/7510.ts
-#EXTINF:-1,Pac 12 Mountain
-http://192.99.149.14:25461/live/tim1/1980/7513.ts
-#EXTINF:-1,Pac 12 Network
-http://192.99.149.14:25461/live/tim1/1980/7514.ts
-#EXTINF:-1,Pac 12 Oregon
-http://192.99.149.14:25461/live/tim1/1980/7515.ts
-#EXTINF:-1,Pac 12 Washington
-http://192.99.149.14:25461/live/tim1/1980/7516.ts
-#EXTINF:-1,Pick
-http://192.99.149.14:25461/live/tim1/1980/7347.ts
-#EXTINF:-1,Quest
-http://192.99.149.14:25461/live/tim1/1980/7348.ts
-#EXTINF:-1,Racing UK
-http://192.99.149.14:25461/live/tim1/1980/7349.ts
-#EXTINF:-1,Real Lives
-http://192.99.149.14:25461/live/tim1/1980/7351.ts
-#EXTINF:-1,RTE One
-http://192.99.149.14:25461/live/tim1/1980/7352.ts
-#EXTINF:-1,RTE Two
-http://192.99.149.14:25461/live/tim1/1980/7353.ts
-#EXTINF:-1,Russia Today HD
-http://192.99.149.14:25461/live/tim1/1980/7355.ts
-#EXTINF:-1,Setanta
-http://192.99.149.14:25461/live/tim1/1980/7357.ts
-#EXTINF:-1,Setanta Sports 1 / Premier Sports
-http://192.99.149.14:25461/live/tim1/1980/7358.ts
-#EXTINF:-1,SFR Sport 1 FR
-http://192.99.149.14:25461/live/tim1/1980/7497.ts
-#EXTINF:-1,SFR Sport 2 FR
-http://192.99.149.14:25461/live/tim1/1980/7498.ts
-#EXTINF:-1,SFR Sport 3 FR
-http://192.99.149.14:25461/live/tim1/1980/7499.ts
-#EXTINF:-1,US: ShowTime
-http://192.99.149.14:25461/live/tim1/1980/7197.ts
-#EXTINF:-1,US: ShowTime 2 HD
-http://192.99.149.14:25461/live/tim1/1980/7198.ts
-#EXTINF:-1,US: Showtime Showcase
-http://192.99.149.14:25461/live/tim1/1980/7200.ts
-#EXTINF:-1,Sky 1
-http://192.99.149.14:25461/live/tim1/1980/7359.ts
-#EXTINF:-1,Sky 2
-http://192.99.149.14:25461/live/tim1/1980/7360.ts
-#EXTINF:-1,Sky Action Movies
-http://192.99.149.14:25461/live/tim1/1980/7361.ts
-#EXTINF:-1,Sky Arts
-http://192.99.149.14:25461/live/tim1/1980/7362.ts
-#EXTINF:-1,Sky Atlantic
-http://192.99.149.14:25461/live/tim1/1980/7363.ts
-#EXTINF:-1,Sky Cinema Action & Adventure HD
-http://192.99.149.14:25461/live/tim1/1980/7064.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://192.99.149.14:25461/live/tim1/1980/7065.ts
-#EXTINF:-1,Sky Cinema Crime & Thriller HD
-http://192.99.149.14:25461/live/tim1/1980/7066.ts
-#EXTINF:-1,Sky Cinema Disney HD
-http://192.99.149.14:25461/live/tim1/1980/7067.ts
-#EXTINF:-1,Sky Cinema Drama n Romance HD
-http://192.99.149.14:25461/live/tim1/1980/7068.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://192.99.149.14:25461/live/tim1/1980/7069.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://192.99.149.14:25461/live/tim1/1980/7070.ts
-#EXTINF:-1,Sky Cinema Premiere HD
-http://192.99.149.14:25461/live/tim1/1980/7071.ts
-#EXTINF:-1,Sky Cinema SciFi & Horror HD
-http://192.99.149.14:25461/live/tim1/1980/7072.ts
-#EXTINF:-1,Sky Cinema Select HD
-http://192.99.149.14:25461/live/tim1/1980/7073.ts
-#EXTINF:-1,Sky DramaRom Movies
-http://192.99.149.14:25461/live/tim1/1980/7075.ts
-#EXTINF:-1,Sky News HD
-http://192.99.149.14:25461/live/tim1/1980/7081.ts
-#EXTINF:-1,Sky News UK
-http://192.99.149.14:25461/live/tim1/1980/7082.ts
-#EXTINF:-1,SKY SPORTS 1 HD
-http://192.99.149.14:25461/live/tim1/1980/7088.ts
-#EXTINF:-1,SKY SPORTS 1 IRE
-http://192.99.149.14:25461/live/tim1/1980/7090.ts
-#EXTINF:-1,SKY SPORTS 2 HD
-http://192.99.149.14:25461/live/tim1/1980/7092.ts
-#EXTINF:-1,SKY SPORTS 2 IRE
-http://192.99.149.14:25461/live/tim1/1980/7094.ts
-#EXTINF:-1,SKY SPORTS 3 HD
-http://192.99.149.14:25461/live/tim1/1980/7096.ts
-#EXTINF:-1,SKY SPORTS 3 IRE
-http://192.99.149.14:25461/live/tim1/1980/7098.ts
-#EXTINF:-1,SKY SPORTS 4 HD
-http://192.99.149.14:25461/live/tim1/1980/7100.ts
-#EXTINF:-1,SKY SPORTS 4 IRE
-http://192.99.149.14:25461/live/tim1/1980/7102.ts
-#EXTINF:-1,SKY SPORTS 5 HD
-http://192.99.149.14:25461/live/tim1/1980/7104.ts
-#EXTINF:-1,SKY SPORTS 5 IRE
-http://192.99.149.14:25461/live/tim1/1980/7106.ts
-#EXTINF:-1,Sky Sports Box Office boxing
-http://192.99.149.14:25461/live/tim1/1980/7107.ts
-#EXTINF:-1,SKY SPORTS F1 HD
-http://192.99.149.14:25461/live/tim1/1980/7109.ts
-#EXTINF:-1,Sky Sp News HQ
-http://192.99.149.14:25461/live/tim1/1980/7086.ts
-#EXTINF:-1,Sky Thriller Movies
-http://192.99.149.14:25461/live/tim1/1980/7113.ts
-#EXTINF:-1,Sony Channel
-http://192.99.149.14:25461/live/tim1/1980/7114.ts
-#EXTINF:-1,CA Sportnet One
-http://192.99.149.14:25461/live/tim1/1980/7449.ts
-#EXTINF:-1,CA Sportsnet World
-http://192.99.149.14:25461/live/tim1/1980/7451.ts
-#EXTINF:-1,CA Sportsnet West
-http://192.99.149.14:25461/live/tim1/1980/7450.ts
-#EXTINF:-1,CA Sportsnet 360
-http://192.99.149.14:25461/live/tim1/1980/7448.ts
-#EXTINF:-1,US: SPIKE HD
-http://192.99.149.14:25461/live/tim1/1980/7201.ts
-#EXTINF:-1,US: Starz Comedy
-http://192.99.149.14:25461/live/tim1/1980/7202.ts
-#EXTINF:-1,US: STARZ EDGE HD
-http://192.99.149.14:25461/live/tim1/1980/7203.ts
-#EXTINF:-1,SyFy
-http://192.99.149.14:25461/live/tim1/1980/7134.ts
-#EXTINF:-1,US: SYFY HD
-http://192.99.149.14:25461/live/tim1/1980/7204.ts
-#EXTINF:-1,SPORTS : Arena Sport 1 HD
-http://192.99.149.14:25461/live/tim1/1980/7117.ts
-#EXTINF:-1,SPORTS : Arena Sport 2 HD
-http://192.99.149.14:25461/live/tim1/1980/7118.ts
-#EXTINF:-1,SPORTS : Arena Sport 3 HD
-http://192.99.149.14:25461/live/tim1/1980/7119.ts
-#EXTINF:-1,SPORTS : Arena Sport 4 HD
-http://192.99.149.14:25461/live/tim1/1980/7120.ts
-#EXTINF:-1,SPORTS : SPORT KLUB HD 1
-http://192.99.149.14:25461/live/tim1/1980/7122.ts
-#EXTINF:-1,SPORTS : SPORT KLUB HD 2
-http://192.99.149.14:25461/live/tim1/1980/7123.ts
-#EXTINF:-1,SPORTS : SPORT KLUB HD 3
-http://192.99.149.14:25461/live/tim1/1980/7124.ts
-#EXTINF:-1,SPORTS : SuperSport 1 HD
-http://192.99.149.14:25461/live/tim1/1980/7128.ts
-#EXTINF:-1,SUPER SPORT 1 HD alb
-http://192.99.149.14:25461/live/tim1/1980/7129.ts
-#EXTINF:-1,SPORTS : Super Sport 2 HD
-http://192.99.149.14:25461/live/tim1/1980/7125.ts
-#EXTINF:-1,SUPER SPORT 2 HD alb
-http://192.99.149.14:25461/live/tim1/1980/7130.ts
-#EXTINF:-1,SUPER SPORT 3 HD alb
-http://192.99.149.14:25461/live/tim1/1980/7131.ts
-#EXTINF:-1,SUPER SPORT 4 HD alb
-http://192.99.149.14:25461/live/tim1/1980/7132.ts
-#EXTINF:-1,SPORTS : Super Sport 4 HD
-http://192.99.149.14:25461/live/tim1/1980/7127.ts
-#EXTINF:-1,SUPER SPORT 5 HD
-http://192.99.149.14:25461/live/tim1/1980/7133.ts
-#EXTINF:-1,US: TBS HD
-http://192.99.149.14:25461/live/tim1/1980/7205.ts
-#EXTINF:-1,T&E channel
-http://192.99.149.14:25461/live/tim1/1980/7135.ts
-#EXTINF:-1,TCM movies
-http://192.99.149.14:25461/live/tim1/1980/7136.ts
-#EXTINF:-1,TLC
-http://192.99.149.14:25461/live/tim1/1980/7474.ts
-#EXTINF:-1,TNT USA
-http://192.99.149.14:25461/live/tim1/1980/7430.ts
-#EXTINF:-1,TR:LIGTV 1
-http://192.99.149.14:25461/live/tim1/1980/7138.ts
-#EXTINF:-1,TR:LIGTV 2
-http://192.99.149.14:25461/live/tim1/1980/7139.ts
-#EXTINF:-1,TR:LIGTV 3
-http://192.99.149.14:25461/live/tim1/1980/7140.ts
-#EXTINF:-1,Travel Channel
-http://192.99.149.14:25461/live/tim1/1980/7141.ts
-#EXTINF:-1,Treehouse
-http://192.99.149.14:25461/live/tim1/1980/7520.ts
-#EXTINF:-1,USA TRU TV
-http://192.99.149.14:25461/live/tim1/1980/7364.ts
-#EXTINF:-1,Tru TV
-http://192.99.149.14:25461/live/tim1/1980/7142.ts
-#EXTINF:-1,True Movies 1
-http://192.99.149.14:25461/live/tim1/1980/7143.ts
-#EXTINF:-1,True Movies 2
-http://192.99.149.14:25461/live/tim1/1980/7144.ts
-#EXTINF:-1,TSN 1 test
-http://192.99.149.14:25461/live/tim1/1980/7437.ts
-#EXTINF:-1,TSN 2 test
-http://192.99.149.14:25461/live/tim1/1980/7438.ts
-#EXTINF:-1,TSN 3 test
-http://192.99.149.14:25461/live/tim1/1980/7439.ts
-#EXTINF:-1,TSN 4 test
-http://192.99.149.14:25461/live/tim1/1980/7440.ts
-#EXTINF:-1,TSN 5 test
-http://192.99.149.14:25461/live/tim1/1980/7441.ts
-#EXTINF:-1,TV3
-http://192.99.149.14:25461/live/tim1/1980/7146.ts
-#EXTINF:-1,TV Land Classic
-http://192.99.149.14:25461/live/tim1/1980/7489.ts
-#EXTINF:-1,TV LAND test
-http://192.99.149.14:25461/live/tim1/1980/7431.ts
-#EXTINF:-1,UFC Fight pass
-http://192.99.149.14:25461/live/tim1/1980/7147.ts
-#EXTINF:-1,US: USA Network HD
-http://192.99.149.14:25461/live/tim1/1980/7206.ts
-#EXTINF:-1,UTV
-http://192.99.149.14:25461/live/tim1/1980/7208.ts
-#EXTINF:-1,VH1
-http://192.99.149.14:25461/live/tim1/1980/7209.ts
-#EXTINF:-1,VH1 USA
-http://192.99.149.14:25461/live/tim1/1980/7432.ts
-#EXTINF:-1,VICELAND Test
-http://192.99.149.14:25461/live/tim1/1980/7126.ts
-#EXTINF:-1,USA WEATHER CHANNEL
-http://192.99.149.14:25461/live/tim1/1980/7488.ts
-#EXTINF:-1,WEATHER NATION
-http://192.99.149.14:25461/live/tim1/1980/7548.ts
-#EXTINF:-1,WORLD FISHING
-http://192.99.149.14:25461/live/tim1/1980/7476.ts
-#EXTINF:-1,WWE 24hrs
-http://192.99.149.14:25461/live/tim1/1980/9023.ts
-#EXTINF:-1,WWE 24
-http://192.99.149.14:25461/live/tim1/1980/9019.ts
-#EXTINF:-1,WE TV
-http://192.99.149.14:25461/live/tim1/1980/8680.ts
-#EXTINF:-1,US: WWE HD
-http://192.99.149.14:25461/live/tim1/1980/7207.ts
-#EXTINF:-1,YTV
-http://192.99.149.14:25461/live/tim1/1980/7519.ts
-#EXTINF:-1,Yesterday 1
-http://192.99.149.14:25461/live/tim1/1980/7214.ts
+#EXTINF:0,24/7 WALKING DEAD
+http://149.56.31.188:25461/live/ChrisW/4317/3539.ts
+#EXTINF:0,24/7 GAME OF THRONES
+http://149.56.31.188:25461/live/ChrisW/4317/3540.ts
+#EXTINF:0,24/7 FAMILY GUY
+http://149.56.31.188:25461/live/ChrisW/4317/3541.ts
+#EXTINF:0,24/7 BILLIONS
+http://149.56.31.188:25461/live/ChrisW/4317/3663.ts
+#EXTINF:0,24/7 ENTOUAGE
+http://149.56.31.188:25461/live/ChrisW/4317/3662.ts
+#EXTINF:0,24/7 ALWAYS SUNNY IN PHILADELPHIA
+http://149.56.31.188:25461/live/ChrisW/4317/3667.ts
+#EXTINF:0,24/7 BREAKING BAD
+http://149.56.31.188:25461/live/ChrisW/4317/3664.ts
+#EXTINF:0,24/7 DEXTER
+http://149.56.31.188:25461/live/ChrisW/4317/3665.ts
+#EXTINF:0,24/7 FRIENDS
+http://149.56.31.188:25461/live/ChrisW/4317/3666.ts
+#EXTINF:0,24/7 HOMELAND
+http://149.56.31.188:25461/live/ChrisW/4317/3668.ts
+#EXTINF:0,24/7 MR ROBOT
+http://149.56.31.188:25461/live/ChrisW/4317/3669.ts
+#EXTINF:0,24/7 SONS OF ANARCHY
+http://149.56.31.188:25461/live/ChrisW/4317/3671.ts
+#EXTINF:0,24/7 SOUTH PARK
+http://149.56.31.188:25461/live/ChrisW/4317/3672.ts
+#EXTINF:0,24/7 SEINFELD
+http://149.56.31.188:25461/live/ChrisW/4317/3670.ts
+#EXTINF:0,ALL TIMES ARE CST.
+http://149.56.31.188:25461/live/ChrisW/4317/3397.ts
+#EXTINF:0,MLB1: 12:00PM - Atlanta at New York
+http://149.56.31.188:25461/live/ChrisW/4317/3429.ts
+#EXTINF:0,MLB2: 12:05PM - Miami at Washington
+http://149.56.31.188:25461/live/ChrisW/4317/3430.ts
+#EXTINF:0,MLB3: 1:05PM - Pittsburgh at Boston
+http://149.56.31.188:25461/live/ChrisW/4317/3431.ts
+#EXTINF:0,MLB4: 1:10PM - Colorado at Milwaukee
+http://149.56.31.188:25461/live/ChrisW/4317/3653.ts
+#EXTINF:0,MLB5: 2:05PM - Toronto at Baltimore
+http://149.56.31.188:25461/live/ChrisW/4317/3654.ts
+#EXTINF:0,MLB6: 3:00PM - San Diego at Los Angeles
+http://149.56.31.188:25461/live/ChrisW/4317/3655.ts
+#EXTINF:0,MLB7: 3:10PM - Detroit at Chicago
+http://149.56.31.188:25461/live/ChrisW/4317/3656.ts
+#EXTINF:0,MLB8: 3:10PM - Kansas City at Minnesota
+http://149.56.31.188:25461/live/ChrisW/4317/3657.ts
+#EXTINF:0,MLB9: 3:10PM - Philadelphia at Cincinnati
+http://149.56.31.188:25461/live/ChrisW/4317/3658.ts
+#EXTINF:0,MLB10: 6:00PM - Cleveland at Texas
+http://149.56.31.188:25461/live/ChrisW/4317/3659.ts
+#EXTINF:0,MLB11: 7:10PM - Seattle at Houston
+http://149.56.31.188:25461/live/ChrisW/4317/3660.ts
+#EXTINF:0,MLB12: 9:00PM - Los Angeles at Oakland
+http://149.56.31.188:25461/live/ChrisW/4317/3661.ts
+#EXTINF:0,NBA1: 6:00PM - Portland at Minnesota
+http://149.56.31.188:25461/live/ChrisW/4317/3174.ts
+#EXTINF:0,NHL1: 6:00PM - Toronto at Buffalo
+http://149.56.31.188:25461/live/ChrisW/4317/3250.ts
+#EXTINF:0,NHL2: 6:00PM - Ottawa at Detroit
+http://149.56.31.188:25461/live/ChrisW/4317/3249.ts
+#EXTINF:0,NHL3: 6:30PM - Montreal at Florida
+http://149.56.31.188:25461/live/ChrisW/4317/3248.ts
+#EXTINF:0,NBC (DALLAS)
+http://149.56.31.188:25461/live/ChrisW/4317/215.ts
+#EXTINF:0,NBC (LANCASTER)
+http://149.56.31.188:25461/live/ChrisW/4317/3218.ts
+#EXTINF:0,NBC (SAN FRANCISCO)
+http://149.56.31.188:25461/live/ChrisW/4317/2546.ts
+#EXTINF:0,NBC (BUFFALO)
+http://149.56.31.188:25461/live/ChrisW/4317/2836.ts
+#EXTINF:0,FOX (DALLAS)
+http://149.56.31.188:25461/live/ChrisW/4317/214.ts
+#EXTINF:0,FOX (BUFFALO)
+http://149.56.31.188:25461/live/ChrisW/4317/2839.ts
+#EXTINF:0,ABC (DALLAS)
+http://149.56.31.188:25461/live/ChrisW/4317/212.ts
+#EXTINF:0,ABC (LANCASTER)
+http://149.56.31.188:25461/live/ChrisW/4317/2835.ts
+#EXTINF:0,ABC (LOS ANGELES)
+http://149.56.31.188:25461/live/ChrisW/4317/3341.ts
+#EXTINF:0,CBS (DALLAS)
+http://149.56.31.188:25461/live/ChrisW/4317/213.ts
+#EXTINF:0,CBS (BUFFALO)
+http://149.56.31.188:25461/live/ChrisW/4317/2837.ts
+#EXTINF:0,CBS (LANCASTER)
+http://149.56.31.188:25461/live/ChrisW/4317/1312.ts
+#EXTINF:0,MY 13 (LOS ANGELES)
+http://149.56.31.188:25461/live/ChrisW/4317/3215.ts
+#EXTINF:0,CW
+http://149.56.31.188:25461/live/ChrisW/4317/335.ts
+#EXTINF:0,CW (2)
+http://149.56.31.188:25461/live/ChrisW/4317/336.ts
+#EXTINF:0,A&E
+http://149.56.31.188:25461/live/ChrisW/4317/239.ts
+#EXTINF:0,A&E (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1043.ts
+#EXTINF:0,AMC
+http://149.56.31.188:25461/live/ChrisW/4317/245.ts
+#EXTINF:0,AMC (2)
+http://149.56.31.188:25461/live/ChrisW/4317/246.ts
+#EXTINF:0,ANIMAL PLANET
+http://149.56.31.188:25461/live/ChrisW/4317/247.ts
+#EXTINF:0,ANIMAL PLANET 2
+http://149.56.31.188:25461/live/ChrisW/4317/1035.ts
+#EXTINF:0,ANIMAL PLANET (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/776.ts
+#EXTINF:0,BET
+http://149.56.31.188:25461/live/ChrisW/4317/249.ts
+#EXTINF:0,BRAVO
+http://149.56.31.188:25461/live/ChrisW/4317/250.ts
+#EXTINF:0,COMEDY CENTRAL
+http://149.56.31.188:25461/live/ChrisW/4317/258.ts
+#EXTINF:0,COMEDY CENTRAL (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1808.ts
+#EXTINF:0,COOKING CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/2991.ts
+#EXTINF:0,CRIME INVESTIGATION
+http://149.56.31.188:25461/live/ChrisW/4317/352.ts
+#EXTINF:0,DESTINATION AMERICA
+http://149.56.31.188:25461/live/ChrisW/4317/3342.ts
+#EXTINF:0,DISCOVERY CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/260.ts
+#EXTINF:0,DISCOVERY CHANNEL (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1303.ts
+#EXTINF:0,SCI
+http://149.56.31.188:25461/live/ChrisW/4317/263.ts
+#EXTINF:0,VELOCITY
+http://149.56.31.188:25461/live/ChrisW/4317/264.ts
+#EXTINF:0,DIY
+http://149.56.31.188:25461/live/ChrisW/4317/266.ts
+#EXTINF:0,DIY (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1311.ts
+#EXTINF:0,E!
+http://149.56.31.188:25461/live/ChrisW/4317/268.ts
+#EXTINF:0,FOOD NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/273.ts
+#EXTINF:0,FOOD NETWORK (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2126.ts
+#EXTINF:0,FREEFORM
+http://149.56.31.188:25461/live/ChrisW/4317/2501.ts
+#EXTINF:0,FX
+http://149.56.31.188:25461/live/ChrisW/4317/283.ts
+#EXTINF:0,FX (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1037.ts
+#EXTINF:0,FX (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/2141.ts
+#EXTINF:0,FXX
+http://149.56.31.188:25461/live/ChrisW/4317/285.ts
+#EXTINF:0,FXX (2)
+http://149.56.31.188:25461/live/ChrisW/4317/286.ts
+#EXTINF:0,FYI
+http://149.56.31.188:25461/live/ChrisW/4317/287.ts
+#EXTINF:0,Game Show Network (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/592.ts
+#EXTINF:0,HALLMARK
+http://149.56.31.188:25461/live/ChrisW/4317/288.ts
+#EXTINF:0,HALLMARK (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1047.ts
+#EXTINF:0,HGTV
+http://149.56.31.188:25461/live/ChrisW/4317/2228.ts
+#EXTINF:0,HGTV (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/297.ts
+#EXTINF:0,HGTV (CA) (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2137.ts
+#EXTINF:0,HISTORY
+http://149.56.31.188:25461/live/ChrisW/4317/300.ts
+#EXTINF:0,HISTORY (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2142.ts
+#EXTINF:0,History (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/1046.ts
+#EXTINF:0,ID
+http://149.56.31.188:25461/live/ChrisW/4317/211.ts
+#EXTINF:0,ID (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/1991.ts
+#EXTINF:0,ION
+http://149.56.31.188:25461/live/ChrisW/4317/2996.ts
+#EXTINF:0,LIFETIME
+http://149.56.31.188:25461/live/ChrisW/4317/304.ts
+#EXTINF:0,LIFETIME (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/770.ts
+#EXTINF:0,MTV
+http://149.56.31.188:25461/live/ChrisW/4317/307.ts
+#EXTINF:0,MTV BASE
+http://149.56.31.188:25461/live/ChrisW/4317/2856.ts
+#EXTINF:0,MTV CLASSIC
+http://149.56.31.188:25461/live/ChrisW/4317/2855.ts
+#EXTINF:0,MTV DANCE
+http://149.56.31.188:25461/live/ChrisW/4317/2854.ts
+#EXTINF:0,MTV HITS
+http://149.56.31.188:25461/live/ChrisW/4317/2853.ts
+#EXTINF:0,MTV MUSIC
+http://149.56.31.188:25461/live/ChrisW/4317/2852.ts
+#EXTINF:0,MTV ROCKS
+http://149.56.31.188:25461/live/ChrisW/4317/2851.ts
+#EXTINF:0,MTV (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/586.ts
+#EXTINF:0,MTV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/2138.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://149.56.31.188:25461/live/ChrisW/4317/308.ts
+#EXTINF:0,NAT GEO WILD
+http://149.56.31.188:25461/live/ChrisW/4317/311.ts
+#EXTINF:0,NAT GEO WILD (2)
+http://149.56.31.188:25461/live/ChrisW/4317/310.ts
+#EXTINF:0,OWN
+http://149.56.31.188:25461/live/ChrisW/4317/1820.ts
+#EXTINF:0,OWN (2)
+http://149.56.31.188:25461/live/ChrisW/4317/321.ts
+#EXTINF:0,OWN (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/580.ts
+#EXTINF:0,OWN (CA) (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2135.ts
+#EXTINF:0,OXYGEN
+http://149.56.31.188:25461/live/ChrisW/4317/2233.ts
+#EXTINF:0,SPIKE
+http://149.56.31.188:25461/live/ChrisW/4317/327.ts
+#EXTINF:0,SPIKE (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1039.ts
+#EXTINF:0,SPIKE (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/572.ts
+#EXTINF:0,SYFY
+http://149.56.31.188:25461/live/ChrisW/4317/331.ts
+#EXTINF:0,Slice (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/2154.ts
+#EXTINF:0,TBS
+http://149.56.31.188:25461/live/ChrisW/4317/333.ts
+#EXTINF:0,TBS (2)
+http://149.56.31.188:25461/live/ChrisW/4317/334.ts
+#EXTINF:0,TLC
+http://149.56.31.188:25461/live/ChrisW/4317/338.ts
+#EXTINF:0,TNT
+http://149.56.31.188:25461/live/ChrisW/4317/339.ts
+#EXTINF:0,TNT (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1044.ts
+#EXTINF:0,TRAVEL CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/1979.ts
+#EXTINF:0,TV LAND
+http://149.56.31.188:25461/live/ChrisW/4317/3027.ts
+#EXTINF:0,USA
+http://149.56.31.188:25461/live/ChrisW/4317/342.ts
+#EXTINF:0,USA (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1304.ts
+#EXTINF:0,VH1
+http://149.56.31.188:25461/live/ChrisW/4317/210.ts
+#EXTINF:0,VICELAND
+http://149.56.31.188:25461/live/ChrisW/4317/457.ts
+#EXTINF:0,THE WEATHER CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/3011.ts
+#EXTINF:0,BABY TV
+http://149.56.31.188:25461/live/ChrisW/4317/345.ts
+#EXTINF:0,BOOMERANG
+http://149.56.31.188:25461/live/ChrisW/4317/348.ts
+#EXTINF:0,CARTOON NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/252.ts
+#EXTINF:0,CARTOON NETWORK (2)
+http://149.56.31.188:25461/live/ChrisW/4317/253.ts
+#EXTINF:0,Cartoon Network (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/610.ts
+#EXTINF:0,DISNEY NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/265.ts
+#EXTINF:0,DJCH
+http://149.56.31.188:25461/live/ChrisW/4317/355.ts
+#EXTINF:0,DISNEY  XD
+http://149.56.31.188:25461/live/ChrisW/4317/356.ts
+#EXTINF:0,NICKELODEON
+http://149.56.31.188:25461/live/ChrisW/4317/318.ts
+#EXTINF:0,Nickelodeon   +1
+http://149.56.31.188:25461/live/ChrisW/4317/626.ts
+#EXTINF:0,NICKTOONS  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/721.ts
+#EXTINF:0,NICKELODEON (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1038.ts
+#EXTINF:0,NICJR
+http://149.56.31.188:25461/live/ChrisW/4317/319.ts
+#EXTINF:0,Nick Jr  +1
+http://149.56.31.188:25461/live/ChrisW/4317/627.ts
+#EXTINF:0,PBS
+http://149.56.31.188:25461/live/ChrisW/4317/322.ts
+#EXTINF:0,CNBC
+http://149.56.31.188:25461/live/ChrisW/4317/255.ts
+#EXTINF:0,MSNBC
+http://149.56.31.188:25461/live/ChrisW/4317/3217.ts
+#EXTINF:0,CNN
+http://149.56.31.188:25461/live/ChrisW/4317/256.ts
+#EXTINF:0,CNN (2)
+http://149.56.31.188:25461/live/ChrisW/4317/257.ts
+#EXTINF:0,FOX NEWS CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/276.ts
+#EXTINF:0,FOX NEWS CHANNEL (2)
+http://149.56.31.188:25461/live/ChrisW/4317/277.ts
+#EXTINF:0,BLOOMBERG
+http://149.56.31.188:25461/live/ChrisW/4317/2862.ts
+#EXTINF:0,CINEMAX
+http://149.56.31.188:25461/live/ChrisW/4317/2861.ts
+#EXTINF:0,ACTION MAX
+http://149.56.31.188:25461/live/ChrisW/4317/244.ts
+#EXTINF:0,5 STAR MAX
+http://149.56.31.188:25461/live/ChrisW/4317/2840.ts
+#EXTINF:0,MORE MAX
+http://149.56.31.188:25461/live/ChrisW/4317/2864.ts
+#EXTINF:0,HBO COMEDY
+http://149.56.31.188:25461/live/ChrisW/4317/293.ts
+#EXTINF:0,HBO FAMILY
+http://149.56.31.188:25461/live/ChrisW/4317/294.ts
+#EXTINF:0,HBO
+http://149.56.31.188:25461/live/ChrisW/4317/290.ts
+#EXTINF:0,HBO (2)
+http://149.56.31.188:25461/live/ChrisW/4317/291.ts
+#EXTINF:0,HBO SIGNATURE
+http://149.56.31.188:25461/live/ChrisW/4317/295.ts
+#EXTINF:0,HBO ZONE
+http://149.56.31.188:25461/live/ChrisW/4317/296.ts
+#EXTINF:0,HBO ZONE (2)
+http://149.56.31.188:25461/live/ChrisW/4317/3344.ts
+#EXTINF:0,SHOWTIME
+http://149.56.31.188:25461/live/ChrisW/4317/323.ts
+#EXTINF:0,SHOWTIME (2)
+http://149.56.31.188:25461/live/ChrisW/4317/326.ts
+#EXTINF:0,SHOWTIME TOO
+http://149.56.31.188:25461/live/ChrisW/4317/324.ts
+#EXTINF:0,STARZ
+http://149.56.31.188:25461/live/ChrisW/4317/1993.ts
+#EXTINF:0,STARZ (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2130.ts
+#EXTINF:0,STARZ CINEMA
+http://149.56.31.188:25461/live/ChrisW/4317/2133.ts
+#EXTINF:0,ESPN
+http://149.56.31.188:25461/live/ChrisW/4317/216.ts
+#EXTINF:0,ESPN2
+http://149.56.31.188:25461/live/ChrisW/4317/272.ts
+#EXTINF:0,ESPN U
+http://149.56.31.188:25461/live/ChrisW/4317/2849.ts
+#EXTINF:0,ESPNEWS
+http://149.56.31.188:25461/live/ChrisW/4317/2850.ts
+#EXTINF:0,FOX SPORTS 1
+http://149.56.31.188:25461/live/ChrisW/4317/278.ts
+#EXTINF:0,FOX SPORTS 1  (2)
+http://149.56.31.188:25461/live/ChrisW/4317/279.ts
+#EXTINF:0,FOX SPORTS 2
+http://149.56.31.188:25461/live/ChrisW/4317/280.ts
+#EXTINF:0,Fox Sports 2  (2)
+http://149.56.31.188:25461/live/ChrisW/4317/281.ts
+#EXTINF:0,NBA TV
+http://149.56.31.188:25461/live/ChrisW/4317/312.ts
+#EXTINF:0,NBA TV (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2159.ts
+#EXTINF:0,NFL Network
+http://149.56.31.188:25461/live/ChrisW/4317/316.ts
+#EXTINF:0,NFL NETWORK (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1309.ts
+#EXTINF:0,NHL NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/299.ts
+#EXTINF:0,NHL NETWORK (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2158.ts
+#EXTINF:0,MLB NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/2848.ts
+#EXTINF:0,MMA TV
+http://149.56.31.188:25461/live/ChrisW/4317/2863.ts
+#EXTINF:0,FIGHT NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/2846.ts
+#EXTINF:0,Box Nation
+http://149.56.31.188:25461/live/ChrisW/4317/349.ts
+#EXTINF:0,FIGHT SPORT
+http://149.56.31.188:25461/live/ChrisW/4317/1306.ts
+#EXTINF:0,NBC SPORTS NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/2847.ts
+#EXTINF:0,CBS SPORTS NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/230.ts
+#EXTINF:0,NBC GOLF
+http://149.56.31.188:25461/live/ChrisW/4317/315.ts
+#EXTINF:0,TENNIS CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/1994.ts
+#EXTINF:0,WWE
+http://149.56.31.188:25461/live/ChrisW/4317/344.ts
+#EXTINF:0,WWE (2)
+http://149.56.31.188:25461/live/ChrisW/4317/1308.ts
+#EXTINF:0,WORLD FISHING
+http://149.56.31.188:25461/live/ChrisW/4317/559.ts
+#EXTINF:0,BIG TEN NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/2229.ts
+#EXTINF:0,PAC-12 ARIZONA
+http://149.56.31.188:25461/live/ChrisW/4317/1317.ts
+#EXTINF:0,PAC-12 BAY AREA
+http://149.56.31.188:25461/live/ChrisW/4317/1316.ts
+#EXTINF:0,PAC-12 LOS ANGELES
+http://149.56.31.188:25461/live/ChrisW/4317/1315.ts
+#EXTINF:0,PAC-12 OREGON
+http://149.56.31.188:25461/live/ChrisW/4317/1314.ts
+#EXTINF:0,PAC-12 WASHINGTON
+http://149.56.31.188:25461/live/ChrisW/4317/1313.ts
+#EXTINF:0,SPORTSNETWORK 360
+http://149.56.31.188:25461/live/ChrisW/4317/2844.ts
+#EXTINF:0,SPORTSNETWORK ONE
+http://149.56.31.188:25461/live/ChrisW/4317/2842.ts
+#EXTINF:0,SPORTSNETWORK ONTARIO
+http://149.56.31.188:25461/live/ChrisW/4317/2843.ts
+#EXTINF:0,SPORTSNETWORK WORLD
+http://149.56.31.188:25461/live/ChrisW/4317/2845.ts
+#EXTINF:0,TSN 1
+http://149.56.31.188:25461/live/ChrisW/4317/2841.ts
+#EXTINF:0,TSN 2
+http://149.56.31.188:25461/live/ChrisW/4317/2857.ts
+#EXTINF:0,TSN 3
+http://149.56.31.188:25461/live/ChrisW/4317/2858.ts
+#EXTINF:0,TSN 4
+http://149.56.31.188:25461/live/ChrisW/4317/2859.ts
+#EXTINF:0,TSN 5
+http://149.56.31.188:25461/live/ChrisW/4317/2860.ts
+#EXTINF:0,AT THE RACES
+http://149.56.31.188:25461/live/ChrisW/4317/2547.ts
+#EXTINF:0,Sky Sports 1
+http://149.56.31.188:25461/live/ChrisW/4317/363.ts
+#EXTINF:0,SKY SPORTS 2
+http://149.56.31.188:25461/live/ChrisW/4317/362.ts
+#EXTINF:0,Sky Sport 2 (2)
+http://149.56.31.188:25461/live/ChrisW/4317/711.ts
+#EXTINF:0,Bein Sports 1
+http://149.56.31.188:25461/live/ChrisW/4317/248.ts
+#EXTINF:0,UK : Manchester United TV
+http://149.56.31.188:25461/live/ChrisW/4317/660.ts
+#EXTINF:0,SKY SPORTS 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/761.ts
+#EXTINF:0,SKY SPORTS F1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/760.ts
+#EXTINF:0,BOXNATION (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/750.ts
+#EXTINF:0,BT SPORT 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/749.ts
+#EXTINF:0,UK | BT Sport 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/748.ts
+#EXTINF:0,BT SPORT ESPN (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/747.ts
+#EXTINF:0,BT SPORT EUROPE (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/746.ts
+#EXTINF:0,UK | Sky Sport 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/710.ts
+#EXTINF:0,UK | Sky Sport 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/709.ts
+#EXTINF:0,UK | Sky Sport 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/708.ts
+#EXTINF:0,Sky Sport News
+http://149.56.31.188:25461/live/ChrisW/4317/707.ts
+#EXTINF:0,Sky Sports 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/706.ts
+#EXTINF:0,AT THE RACES (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/703.ts
+#EXTINF:0,UK: BT Sport Extra 1
+http://149.56.31.188:25461/live/ChrisW/4317/654.ts
+#EXTINF:0,UK: BT Sport Extra 2
+http://149.56.31.188:25461/live/ChrisW/4317/653.ts
+#EXTINF:0,UK: BT Sport Extra 3
+http://149.56.31.188:25461/live/ChrisW/4317/652.ts
+#EXTINF:0,UK: BT Sport Extra 4
+http://149.56.31.188:25461/live/ChrisW/4317/651.ts
+#EXTINF:0,UK: BT Sport Extra 5
+http://149.56.31.188:25461/live/ChrisW/4317/650.ts
+#EXTINF:0,BT SPORT MOSIAC (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/649.ts
+#EXTINF:0,BT SPORT MOSIAC 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/648.ts
+#EXTINF:0,UK: BT Sports 1 SD
+http://149.56.31.188:25461/live/ChrisW/4317/700.ts
+#EXTINF:0,UK: BT Sports 2 SD
+http://149.56.31.188:25461/live/ChrisW/4317/699.ts
+#EXTINF:0,UK: Challenge   1
+http://149.56.31.188:25461/live/ChrisW/4317/645.ts
+#EXTINF:0,UK: Chelsea FC
+http://149.56.31.188:25461/live/ChrisW/4317/697.ts
+#EXTINF:0,EIR SPORTS 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/647.ts
+#EXTINF:0,UK: Eir Sports2
+http://149.56.31.188:25461/live/ChrisW/4317/646.ts
+#EXTINF:0,UK: Eurosport 1
+http://149.56.31.188:25461/live/ChrisW/4317/636.ts
+#EXTINF:0,UK: Eurosport 2
+http://149.56.31.188:25461/live/ChrisW/4317/635.ts
+#EXTINF:0,PREMIER SPORTS (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/753.ts
+#EXTINF:0,UK: PREMIERE SPORT HD
+http://149.56.31.188:25461/live/ChrisW/4317/685.ts
+#EXTINF:0,RACING  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/684.ts
+#EXTINF:0,UK: Setanta Sports 1
+http://149.56.31.188:25461/live/ChrisW/4317/680.ts
+#EXTINF:0,UK: SKY SPORTS 2
+http://149.56.31.188:25461/live/ChrisW/4317/677.ts
+#EXTINF:0,SKY SPORTS 3
+http://149.56.31.188:25461/live/ChrisW/4317/676.ts
+#EXTINF:0,SKY SPORTS 4
+http://149.56.31.188:25461/live/ChrisW/4317/675.ts
+#EXTINF:0,SKY SPORTS 5
+http://149.56.31.188:25461/live/ChrisW/4317/674.ts
+#EXTINF:0,BT Sport 1
+http://149.56.31.188:25461/live/ChrisW/4317/350.ts
+#EXTINF:0,BT Sport 2
+http://149.56.31.188:25461/live/ChrisW/4317/351.ts
+#EXTINF:0,BT Sport 3
+http://149.56.31.188:25461/live/ChrisW/4317/1305.ts
+#EXTINF:0,CHELSEA TV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/775.ts
+#EXTINF:0,SETANTA SPORTS (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/681.ts
+#EXTINF:0,MOTORS TV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/767.ts
+#EXTINF:0,3e (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/668.ts
+#EXTINF:0,5STAR (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/666.ts
+#EXTINF:0,ALIBI (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/665.ts
+#EXTINF:0,ANIMAL PLANET 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/655.ts
+#EXTINF:0,BBC 1  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/757.ts
+#EXTINF:0,BBC 3  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/756.ts
+#EXTINF:0,COMEDY CENTRAL (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/774.ts
+#EXTINF:0,COMEDY CENTRAL EXTRA  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/644.ts
+#EXTINF:0,CRIME INVESTIGATION (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/643.ts
+#EXTINF:0,CBS ACTION  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/745.ts
+#EXTINF:0,CBS DRAMA (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/744.ts
+#EXTINF:0,CBS REALITY (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/743.ts
+#EXTINF:0,EDEN (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/772.ts
+#EXTINF:0,FOX (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/771.ts
+#EXTINF:0,DAVE (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/773.ts
+#EXTINF:0,DRAMA (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/733.ts
+#EXTINF:0,DISCOVERY  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/742.ts
+#EXTINF:0,DISCOVERY SCIENCE (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/740.ts
+#EXTINF:0,DMAX  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/734.ts
+#EXTINF:0,Discovery Max (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/357.ts
+#EXTINF:0,DISCOVERY HISTORY (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/741.ts
+#EXTINF:0,Discovery Shed (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/353.ts
+#EXTINF:0,DISCOVERY SHED 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/739.ts
+#EXTINF:0,DISCOVERY TURBO 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/738.ts
+#EXTINF:0,Discovery Turbo (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/354.ts
+#EXTINF:0,E! (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/732.ts
+#EXTINF:0,E! (UK) (2)
+http://149.56.31.188:25461/live/ChrisW/4317/696.ts
+#EXTINF:0,E4 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/731.ts
+#EXTINF:0,FILM 4 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/730.ts
+#EXTINF:0,FOOD NETWORK (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/634.ts
+#EXTINF:0,FOOD NETWORK 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/695.ts
+#EXTINF:0,GOLD (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/729.ts
+#EXTINF:0,GOOD FOOD (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/728.ts
+#EXTINF:0,HOME & HEALTH (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/727.ts
+#EXTINF:0,H2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/302.ts
+#EXTINF:0,HISTORY (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/633.ts
+#EXTINF:0,IRISH TV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/725.ts
+#EXTINF:0,ITVBe (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/724.ts
+#EXTINF:0,ID (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/726.ts
+#EXTINF:0,ITV1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/693.ts
+#EXTINF:0,ITV2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/692.ts
+#EXTINF:0,ITV3 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/691.ts
+#EXTINF:0,ITV4 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/690.ts
+#EXTINF:0,LIVING  UK (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/769.ts
+#EXTINF:0,MORE 4 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/768.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/766.ts
+#EXTINF:0,National Geographic (UK) (2)
+http://149.56.31.188:25461/live/ChrisW/4317/2153.ts
+#EXTINF:0,NAT GEO WILD (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/687.ts
+#EXTINF:0,SYFY (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/705.ts
+#EXTINF:0,TLC (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/672.ts
+#EXTINF:0,TRAVEL CHANNEL  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/671.ts
+#EXTINF:0,Universal Channel (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/2162.ts
+#EXTINF:0,VH1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/669.ts
+#EXTINF:0,GOOD FOOD  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/694.ts
+#EXTINF:0,LFC TV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/689.ts
+#EXTINF:0,MUTV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/688.ts
+#EXTINF:0,UK: RTE One
+http://149.56.31.188:25461/live/ChrisW/4317/683.ts
+#EXTINF:0,UK: RTE Two
+http://149.56.31.188:25461/live/ChrisW/4317/682.ts
+#EXTINF:0,LONDON LIVE (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/723.ts
+#EXTINF:0,TINY POP (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/656.ts
+#EXTINF:0,UTV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/704.ts
+#EXTINF:0,BABY TV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/758.ts
+#EXTINF:0,CBBC (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/755.ts
+#EXTINF:0,PICK TV (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/754.ts
+#EXTINF:0,BBC 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/702.ts
+#EXTINF:0,BBC CBEEBIES (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/701.ts
+#EXTINF:0,UK: Sony Chnl   1
+http://149.56.31.188:25461/live/ChrisW/4317/622.ts
+#EXTINF:0,UK: Syfy   1
+http://149.56.31.188:25461/live/ChrisW/4317/621.ts
+#EXTINF:0,UK: TLC   1
+http://149.56.31.188:25461/live/ChrisW/4317/619.ts
+#EXTINF:0,UK: TLC   2
+http://149.56.31.188:25461/live/ChrisW/4317/618.ts
+#EXTINF:0,UK: W   1
+http://149.56.31.188:25461/live/ChrisW/4317/616.ts
+#EXTINF:0,4SEVEN (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/667.ts
+#EXTINF:0,BBC NEWS (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/664.ts
+#EXTINF:0,TLC IRELAND (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/658.ts
+#EXTINF:0,SKY ARTS (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/764.ts
+#EXTINF:0,SKY ATLANTIC (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/763.ts
+#EXTINF:0,SKY 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/765.ts
+#EXTINF:0,YESTERDAY (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/759.ts
+#EXTINF:0,UK: Sky Cinema Premiere  1
+http://149.56.31.188:25461/live/ChrisW/4317/624.ts
+#EXTINF:0,UK: Sky Movies Select HD
+http://149.56.31.188:25461/live/ChrisW/4317/679.ts
+#EXTINF:0,TRUE MOVIES 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/670.ts
+#EXTINF:0,HBO 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/663.ts
+#EXTINF:0,HBO 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/662.ts
+#EXTINF:0,HBO 3 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/661.ts
+#EXTINF:0,SKY MOVIES MODERN (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/659.ts
+#EXTINF:0,TRUE MOVIES 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/657.ts
+#EXTINF:0,SKY MOVIES DRAMA (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/762.ts
+#EXTINF:0,UK | Sky Movie Sci-Fi
+http://149.56.31.188:25461/live/ChrisW/4317/720.ts
+#EXTINF:0,UK | Sky Movies Action
+http://149.56.31.188:25461/live/ChrisW/4317/719.ts
+#EXTINF:0,UK | Sky Movies Comedy
+http://149.56.31.188:25461/live/ChrisW/4317/718.ts
+#EXTINF:0,SKY MOVIES DISNEY (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/717.ts
+#EXTINF:0,UK | Sky Movies Family
+http://149.56.31.188:25461/live/ChrisW/4317/716.ts
+#EXTINF:0,UK | Sky Movies Greats
+http://149.56.31.188:25461/live/ChrisW/4317/715.ts
+#EXTINF:0,UK | Sky Movies Premiere
+http://149.56.31.188:25461/live/ChrisW/4317/714.ts
+#EXTINF:0,UK | Sky Movies Showcase
+http://149.56.31.188:25461/live/ChrisW/4317/713.ts
+#EXTINF:0,UK | Sky Movies Thriller
+http://149.56.31.188:25461/live/ChrisW/4317/712.ts
+#EXTINF:0,Sky Cinema Action
+http://149.56.31.188:25461/live/ChrisW/4317/364.ts
+#EXTINF:0,Sky Cinema Comedy
+http://149.56.31.188:25461/live/ChrisW/4317/365.ts
+#EXTINF:0,Sky Cinema Crime and Thriller
+http://149.56.31.188:25461/live/ChrisW/4317/366.ts
+#EXTINF:0,Sky Cinema Disney
+http://149.56.31.188:25461/live/ChrisW/4317/367.ts
+#EXTINF:0,Sky Cinema Family
+http://149.56.31.188:25461/live/ChrisW/4317/368.ts
+#EXTINF:0,Sky Cinema Greats
+http://149.56.31.188:25461/live/ChrisW/4317/369.ts
+#EXTINF:0,Sky Cinema Hits
+http://149.56.31.188:25461/live/ChrisW/4317/370.ts
+#EXTINF:0,Sky Cinema Modern Greats
+http://149.56.31.188:25461/live/ChrisW/4317/371.ts
+#EXTINF:0,Sky Cinema Premiere
+http://149.56.31.188:25461/live/ChrisW/4317/372.ts
+#EXTINF:0,Sky Cinema SciFi and Horror
+http://149.56.31.188:25461/live/ChrisW/4317/373.ts
+#EXTINF:0,BOOMERANG  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/751.ts
+#EXTINF:0,CARTOON NETWORK (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/698.ts
+#EXTINF:0,DISNEY JR (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/736.ts
+#EXTINF:0,DISNEY  XD (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/735.ts
+#EXTINF:0,NICKELODEON (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/686.ts
+#EXTINF:0,NICK JR (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/722.ts
+#EXTINF:0,NICK JR TOO  (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/628.ts
+#EXTINF:0,BBC WORLD NEWS (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/752.ts
+#EXTINF:0,DISNEY (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/737.ts
+#EXTINF:0,UK: Sky Atlantic  1
+http://149.56.31.188:25461/live/ChrisW/4317/625.ts
+#EXTINF:0,UK: Sky Living  1
+http://149.56.31.188:25461/live/ChrisW/4317/623.ts
+#EXTINF:0,SKY 2 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/673.ts
+#EXTINF:0,UK: Tiny Pop   1
+http://149.56.31.188:25461/live/ChrisW/4317/620.ts
+#EXTINF:0,UK: Universal   1
+http://149.56.31.188:25461/live/ChrisW/4317/617.ts
+#EXTINF:0,DISCOVERY 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/642.ts
+#EXTINF:0,DISCOVERY HISTORY 1 (UK)
+http://149.56.31.188:25461/live/ChrisW/4317/641.ts
+#EXTINF:0,UK: Discovery Science  1
+http://149.56.31.188:25461/live/ChrisW/4317/640.ts
+#EXTINF:0,UK: Disney Channel   1
+http://149.56.31.188:25461/live/ChrisW/4317/639.ts
+#EXTINF:0,UK: Disney XD   1
+http://149.56.31.188:25461/live/ChrisW/4317/638.ts
+#EXTINF:0,UK: E!    1
+http://149.56.31.188:25461/live/ChrisW/4317/637.ts
+#EXTINF:0,UK: Home&Health   1
+http://149.56.31.188:25461/live/ChrisW/4317/632.ts
+#EXTINF:0,UK: Horror Channel   1
+http://149.56.31.188:25461/live/ChrisW/4317/631.ts
+#EXTINF:0,UK: ID   1
+http://149.56.31.188:25461/live/ChrisW/4317/630.ts
+#EXTINF:0,UK: MTV   1
+http://149.56.31.188:25461/live/ChrisW/4317/629.ts
+#EXTINF:0,CA : abc hd
+http://149.56.31.188:25461/live/ChrisW/4317/615.ts
+#EXTINF:0,CA : abc spark
+http://149.56.31.188:25461/live/ChrisW/4317/614.ts
+#EXTINF:0,CA : bnn
+http://149.56.31.188:25461/live/ChrisW/4317/612.ts
+#EXTINF:0,CA : bravo hd
+http://149.56.31.188:25461/live/ChrisW/4317/611.ts
+#EXTINF:0,CA : cbc toronto
+http://149.56.31.188:25461/live/ChrisW/4317/609.ts
+#EXTINF:0,CA : chch
+http://149.56.31.188:25461/live/ChrisW/4317/608.ts
+#EXTINF:0,CA : city vancouver
+http://149.56.31.188:25461/live/ChrisW/4317/607.ts
+#EXTINF:0,CA : comedy gold
+http://149.56.31.188:25461/live/ChrisW/4317/606.ts
+#EXTINF:0,CA : cottage life
+http://149.56.31.188:25461/live/ChrisW/4317/605.ts
+#EXTINF:0,CA : country music television
+http://149.56.31.188:25461/live/ChrisW/4317/604.ts
+#EXTINF:0,CA : cp24
+http://149.56.31.188:25461/live/ChrisW/4317/603.ts
+#EXTINF:0,CA : ctv toronto
+http://149.56.31.188:25461/live/ChrisW/4317/602.ts
+#EXTINF:0,CA : deja view
+http://149.56.31.188:25461/live/ChrisW/4317/601.ts
+#EXTINF:0,CA : e!
+http://149.56.31.188:25461/live/ChrisW/4317/600.ts
+#EXTINF:0,CA : evasion
+http://149.56.31.188:25461/live/ChrisW/4317/599.ts
+#EXTINF:0,CA : fox 25 hd
+http://149.56.31.188:25461/live/ChrisW/4317/598.ts
+#EXTINF:0,CA : fox news
+http://149.56.31.188:25461/live/ChrisW/4317/597.ts
+#EXTINF:0,CA : fxx hd
+http://149.56.31.188:25461/live/ChrisW/4317/596.ts
+#EXTINF:0,CA : fyi
+http://149.56.31.188:25461/live/ChrisW/4317/595.ts
+#EXTINF:0,CA : g4
+http://149.56.31.188:25461/live/ChrisW/4317/594.ts
+#EXTINF:0,CA : golf channel
+http://149.56.31.188:25461/live/ChrisW/4317/593.ts
+#EXTINF:0,CA : history hd
+http://149.56.31.188:25461/live/ChrisW/4317/591.ts
+#EXTINF:0,CA : ici artv
+http://149.56.31.188:25461/live/ChrisW/4317/590.ts
+#EXTINF:0,CA : ici rdi
+http://149.56.31.188:25461/live/ChrisW/4317/589.ts
+#EXTINF:0,CA : lcn hd
+http://149.56.31.188:25461/live/ChrisW/4317/588.ts
+#EXTINF:0,CA : movie time
+http://149.56.31.188:25461/live/ChrisW/4317/587.ts
+#EXTINF:0,CA : much music
+http://149.56.31.188:25461/live/ChrisW/4317/585.ts
+#EXTINF:0,CA : nick
+http://149.56.31.188:25461/live/ChrisW/4317/584.ts
+#EXTINF:0,CA : oln
+http://149.56.31.188:25461/live/ChrisW/4317/583.ts
+#EXTINF:0,CA : omni 1
+http://149.56.31.188:25461/live/ChrisW/4317/582.ts
+#EXTINF:0,CA : omni 2
+http://149.56.31.188:25461/live/ChrisW/4317/581.ts
+#EXTINF:0,CA : peachtree tv
+http://149.56.31.188:25461/live/ChrisW/4317/579.ts
+#EXTINF:0,CA : rds 2
+http://149.56.31.188:25461/live/ChrisW/4317/578.ts
+#EXTINF:0,CA : rds2 hd
+http://149.56.31.188:25461/live/ChrisW/4317/577.ts
+#EXTINF:0,CA : series  hd
+http://149.56.31.188:25461/live/ChrisW/4317/576.ts
+#EXTINF:0,CA : shopping channel
+http://149.56.31.188:25461/live/ChrisW/4317/575.ts
+#EXTINF:0,CA : silver screen classics
+http://149.56.31.188:25461/live/ChrisW/4317/574.ts
+#EXTINF:0,CA : slice
+http://149.56.31.188:25461/live/ChrisW/4317/573.ts
+#EXTINF:0,CA : Sportnet Ontario HD
+http://149.56.31.188:25461/live/ChrisW/4317/571.ts
+#EXTINF:0,CA : sportsnet 360 hd
+http://149.56.31.188:25461/live/ChrisW/4317/570.ts
+#EXTINF:0,CA : Sportsnet One HD
+http://149.56.31.188:25461/live/ChrisW/4317/569.ts
+#EXTINF:0,CA : Sportsnet West HD
+http://149.56.31.188:25461/live/ChrisW/4317/568.ts
+#EXTINF:0,CA : sportsnet world hd
+http://149.56.31.188:25461/live/ChrisW/4317/567.ts
+#EXTINF:0,CA : super ecran hd
+http://149.56.31.188:25461/live/ChrisW/4317/566.ts
+#EXTINF:0,CA : teletoon
+http://149.56.31.188:25461/live/ChrisW/4317/565.ts
+#EXTINF:0,CA : tmn
+http://149.56.31.188:25461/live/ChrisW/4317/564.ts
+#EXTINF:0,CA : travel channel
+http://149.56.31.188:25461/live/ChrisW/4317/563.ts
+#EXTINF:0,CA : tree house
+http://149.56.31.188:25461/live/ChrisW/4317/562.ts
+#EXTINF:0,CA : vrak tv
+http://149.56.31.188:25461/live/ChrisW/4317/561.ts
+#EXTINF:0,CA : w network
+http://149.56.31.188:25461/live/ChrisW/4317/560.ts
+#EXTINF:0,CA : ytv
+http://149.56.31.188:25461/live/ChrisW/4317/558.ts
+#EXTINF:0,CA Sportnet Pacific HD
+http://149.56.31.188:25461/live/ChrisW/4317/557.ts
+#EXTINF:0,CA Sportsnet World HD
+http://149.56.31.188:25461/live/ChrisW/4317/556.ts
+#EXTINF:0,ES: A&E
+http://149.56.31.188:25461/live/ChrisW/4317/555.ts
+#EXTINF:0,ES: AMC
+http://149.56.31.188:25461/live/ChrisW/4317/554.ts
+#EXTINF:0,ES: Bein Liga HD
+http://149.56.31.188:25461/live/ChrisW/4317/553.ts
+#EXTINF:0,ES: Bein Sport HD
+http://149.56.31.188:25461/live/ChrisW/4317/552.ts
+#EXTINF:0,ES: Boing
+http://149.56.31.188:25461/live/ChrisW/4317/551.ts
+#EXTINF:0,ES: CANAL COCINA
+http://149.56.31.188:25461/live/ChrisW/4317/550.ts
+#EXTINF:0,ES: CANAL DECASA
+http://149.56.31.188:25461/live/ChrisW/4317/549.ts
+#EXTINF:0,ES: Caza y pesca
+http://149.56.31.188:25461/live/ChrisW/4317/548.ts
+#EXTINF:0,ES: Clan Tve
+http://149.56.31.188:25461/live/ChrisW/4317/547.ts
+#EXTINF:0,ES: COSMO HD
+http://149.56.31.188:25461/live/ChrisW/4317/546.ts
+#EXTINF:0,ES: DIVINITY
+http://149.56.31.188:25461/live/ChrisW/4317/545.ts
+#EXTINF:0,ES: FDF
+http://149.56.31.188:25461/live/ChrisW/4317/544.ts
+#EXTINF:0,ES: GOL Tv
+http://149.56.31.188:25461/live/ChrisW/4317/543.ts
+#EXTINF:0,ES: IBERALIA
+http://149.56.31.188:25461/live/ChrisW/4317/542.ts
+#EXTINF:0,ES: La Liga BAR HD
+http://149.56.31.188:25461/live/ChrisW/4317/541.ts
+#EXTINF:0,ES: NEOX
+http://149.56.31.188:25461/live/ChrisW/4317/540.ts
+#EXTINF:0,ES: NICKELODEON HD
+http://149.56.31.188:25461/live/ChrisW/4317/539.ts
+#EXTINF:0,ES: NOVA
+http://149.56.31.188:25461/live/ChrisW/4317/538.ts
+#EXTINF:0,ES: PANDA
+http://149.56.31.188:25461/live/ChrisW/4317/537.ts
+#EXTINF:0,ES: SYFY
+http://149.56.31.188:25461/live/ChrisW/4317/536.ts
+#EXTINF:0,ES: TNT
+http://149.56.31.188:25461/live/ChrisW/4317/535.ts
+#EXTINF:0,A&E Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1927.ts
+#EXTINF:0,AMC Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1928.ts
+#EXTINF:0,Animal Planet Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1930.ts
+#EXTINF:0,AXN Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1929.ts
+#EXTINF:0,Canal De Las Estrellas
+http://149.56.31.188:25461/live/ChrisW/4317/1931.ts
+#EXTINF:0,Caracol
+http://149.56.31.188:25461/live/ChrisW/4317/1932.ts
+#EXTINF:0,Carton Network Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1933.ts
+#EXTINF:0,Cinecanal
+http://149.56.31.188:25461/live/ChrisW/4317/1934.ts
+#EXTINF:0,Comedy Central Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1935.ts
+#EXTINF:0,De Pelicula
+http://149.56.31.188:25461/live/ChrisW/4317/1936.ts
+#EXTINF:0,Discovery Civilization Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1938.ts
+#EXTINF:0,Discovery en Español
+http://149.56.31.188:25461/live/ChrisW/4317/1937.ts
+#EXTINF:0,Discovery H&H Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1939.ts
+#EXTINF:0,Discovery Kids Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1941.ts
+#EXTINF:0,Discovery Teather Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1942.ts
+#EXTINF:0,Discovery TLC Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1943.ts
+#EXTINF:0,Discovery Turbo Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1944.ts
+#EXTINF:0,ESPN 2 Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1946.ts
+#EXTINF:0,ESPN 3 Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1947.ts
+#EXTINF:0,ESPN Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1945.ts
+#EXTINF:0,Fox 1 Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1948.ts
+#EXTINF:0,Fox Action Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1949.ts
+#EXTINF:0,Fox Cinema Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1950.ts
+#EXTINF:0,Fox Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1951.ts
+#EXTINF:0,Fox Movies Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1952.ts
+#EXTINF:0,Fox Sports 2 Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1954.ts
+#EXTINF:0,Fox Sports Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1953.ts
+#EXTINF:0,Glitz
+http://149.56.31.188:25461/live/ChrisW/4317/1955.ts
+#EXTINF:0,Golden
+http://149.56.31.188:25461/live/ChrisW/4317/1957.ts
+#EXTINF:0,Golden Edge
+http://149.56.31.188:25461/live/ChrisW/4317/1956.ts
+#EXTINF:0,HBO Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1958.ts
+#EXTINF:0,History en Español
+http://149.56.31.188:25461/live/ChrisW/4317/1959.ts
+#EXTINF:0,Investigation Discovery Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1940.ts
+#EXTINF:0,Nat Geo Wild Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1960.ts
+#EXTINF:0,NBC Puerto Rico (Coming Soon)
+http://149.56.31.188:25461/live/ChrisW/4317/1973.ts
+#EXTINF:0,Punto 2 (Coming Soon)
+http://149.56.31.188:25461/live/ChrisW/4317/1974.ts
+#EXTINF:0,Space Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1961.ts
+#EXTINF:0,TELEMUNDO
+http://149.56.31.188:25461/live/ChrisW/4317/1962.ts
+#EXTINF:0,Telemundo Puerto Rico
+http://149.56.31.188:25461/live/ChrisW/4317/1975.ts
+#EXTINF:0,TNT Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1963.ts
+#EXTINF:0,TNT Series Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1964.ts
+#EXTINF:0,Tru Tv Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1965.ts
+#EXTINF:0,Unicable
+http://149.56.31.188:25461/live/ChrisW/4317/1966.ts
+#EXTINF:0,Unimas
+http://149.56.31.188:25461/live/ChrisW/4317/1967.ts
+#EXTINF:0,Universal Latinoamerica
+http://149.56.31.188:25461/live/ChrisW/4317/1968.ts
+#EXTINF:0,UNIVISION
+http://149.56.31.188:25461/live/ChrisW/4317/1969.ts
+#EXTINF:0,Univision Deportes
+http://149.56.31.188:25461/live/ChrisW/4317/1970.ts
+#EXTINF:0,Univision Puerto Rico
+http://149.56.31.188:25461/live/ChrisW/4317/1977.ts
+#EXTINF:0,WAPA
+http://149.56.31.188:25461/live/ChrisW/4317/1978.ts
+#EXTINF:0,ES: #0 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1033.ts
+#EXTINF:0,ES: AXN HD
+http://149.56.31.188:25461/live/ChrisW/4317/1031.ts
+#EXTINF:0,ES: Canal SERIES HD
+http://149.56.31.188:25461/live/ChrisW/4317/1018.ts
+#EXTINF:0,ES: HOLLYWOOD HD
+http://149.56.31.188:25461/live/ChrisW/4317/1005.ts
+#EXTINF:0,ES: LA 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1003.ts
+#EXTINF:0,ES: ODISEA HD
+http://149.56.31.188:25461/live/ChrisW/4317/997.ts
+#EXTINF:0,ES:ANTENA 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1032.ts
+#EXTINF:0,ES:AXN WHITE HD
+http://149.56.31.188:25461/live/ChrisW/4317/1030.ts
+#EXTINF:0,ES:CALLE 13 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1029.ts
+#EXTINF:0,ES:CANAL  ACTION HD
+http://149.56.31.188:25461/live/ChrisW/4317/1028.ts
+#EXTINF:0,ES:Canal  COMEDIA HD
+http://149.56.31.188:25461/live/ChrisW/4317/1027.ts
+#EXTINF:0,ES:Canal  DCINE HD
+http://149.56.31.188:25461/live/ChrisW/4317/1026.ts
+#EXTINF:0,ES:Canal  DEPORTES 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1025.ts
+#EXTINF:0,ES:Canal  DEPORTES HD
+http://149.56.31.188:25461/live/ChrisW/4317/1024.ts
+#EXTINF:0,ES:Canal  ESTRENOS HD
+http://149.56.31.188:25461/live/ChrisW/4317/1023.ts
+#EXTINF:0,ES:Canal  FUTBOL HD
+http://149.56.31.188:25461/live/ChrisW/4317/1022.ts
+#EXTINF:0,ES:Canal  GOLF HD
+http://149.56.31.188:25461/live/ChrisW/4317/1021.ts
+#EXTINF:0,ES:Canal  LIGA 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1020.ts
+#EXTINF:0,ES:Canal  LIGA HD
+http://149.56.31.188:25461/live/ChrisW/4317/1019.ts
+#EXTINF:0,ES:Canal  SERIES XTRA HD
+http://149.56.31.188:25461/live/ChrisW/4317/1017.ts
+#EXTINF:0,ES:Canal  TOROS HD
+http://149.56.31.188:25461/live/ChrisW/4317/1016.ts
+#EXTINF:0,ES:Canal  XTRA HD
+http://149.56.31.188:25461/live/ChrisW/4317/1015.ts
+#EXTINF:0,ES:CUATRO HD
+http://149.56.31.188:25461/live/ChrisW/4317/1014.ts
+#EXTINF:0,ES:DISCOVERY CHANNEL HD
+http://149.56.31.188:25461/live/ChrisW/4317/1013.ts
+#EXTINF:0,ES:DISCOVERY CI
+http://149.56.31.188:25461/live/ChrisW/4317/1012.ts
+#EXTINF:0,ES:DISNE CHANNEL HD
+http://149.56.31.188:25461/live/ChrisW/4317/1011.ts
+#EXTINF:0,ES:DISNEY JUNIOR
+http://149.56.31.188:25461/live/ChrisW/4317/1010.ts
+#EXTINF:0,ES:DISNEY XD
+http://149.56.31.188:25461/live/ChrisW/4317/1009.ts
+#EXTINF:0,ES:FOX HD
+http://149.56.31.188:25461/live/ChrisW/4317/1008.ts
+#EXTINF:0,ES:FOX LIFE HD
+http://149.56.31.188:25461/live/ChrisW/4317/1007.ts
+#EXTINF:0,ES:HISTORIA
+http://149.56.31.188:25461/live/ChrisW/4317/1006.ts
+#EXTINF:0,ES:LA 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1004.ts
+#EXTINF:0,ES:LA SEXTA HD
+http://149.56.31.188:25461/live/ChrisW/4317/1002.ts
+#EXTINF:0,ES:MEGA
+http://149.56.31.188:25461/live/ChrisW/4317/1001.ts
+#EXTINF:0,ES:NAT GEO WILD HD
+http://149.56.31.188:25461/live/ChrisW/4317/1000.ts
+#EXTINF:0,ES:NATIONAL GEOGRAPHIC HD
+http://149.56.31.188:25461/live/ChrisW/4317/999.ts
+#EXTINF:0,ES:NICK Jr
+http://149.56.31.188:25461/live/ChrisW/4317/998.ts
+#EXTINF:0,ES:TCM HD
+http://149.56.31.188:25461/live/ChrisW/4317/996.ts
+#EXTINF:0,ES:TELECINCO HD
+http://149.56.31.188:25461/live/ChrisW/4317/995.ts
+#EXTINF:0,ES:TELEDEPORTE HD
+http://149.56.31.188:25461/live/ChrisW/4317/994.ts
+#EXTINF:0,ES:VIAJAR HD
+http://149.56.31.188:25461/live/ChrisW/4317/993.ts
+#EXTINF:0,IN :  SONY SAB
+http://149.56.31.188:25461/live/ChrisW/4317/992.ts
+#EXTINF:0,IN : &TV HD
+http://149.56.31.188:25461/live/ChrisW/4317/991.ts
+#EXTINF:0,IN : 9X Tashan
+http://149.56.31.188:25461/live/ChrisW/4317/970.ts
+#EXTINF:0,IN : AASTHA
+http://149.56.31.188:25461/live/ChrisW/4317/990.ts
+#EXTINF:0,IN : Asianet Plus
+http://149.56.31.188:25461/live/ChrisW/4317/989.ts
+#EXTINF:0,IN : Asianet TV US
+http://149.56.31.188:25461/live/ChrisW/4317/988.ts
+#EXTINF:0,IN : B4U Movies
+http://149.56.31.188:25461/live/ChrisW/4317/987.ts
+#EXTINF:0,IN : B4U Music
+http://149.56.31.188:25461/live/ChrisW/4317/986.ts
+#EXTINF:0,IN : B4U Plus
+http://149.56.31.188:25461/live/ChrisW/4317/985.ts
+#EXTINF:0,IN : CNBC Awaaz
+http://149.56.31.188:25461/live/ChrisW/4317/984.ts
+#EXTINF:0,IN : Colors UK SD
+http://149.56.31.188:25461/live/ChrisW/4317/983.ts
+#EXTINF:0,IN : DESI FUZION TV
+http://149.56.31.188:25461/live/ChrisW/4317/982.ts
+#EXTINF:0,IN : FOOD FOOD TV
+http://149.56.31.188:25461/live/ChrisW/4317/981.ts
+#EXTINF:0,IN : Life ok HD
+http://149.56.31.188:25461/live/ChrisW/4317/979.ts
+#EXTINF:0,IN : LIVING FOODZ 2
+http://149.56.31.188:25461/live/ChrisW/4317/978.ts
+#EXTINF:0,IN : MUSIC INDIA HD
+http://149.56.31.188:25461/live/ChrisW/4317/977.ts
+#EXTINF:0,IN : SONY SIX HD
+http://149.56.31.188:25461/live/ChrisW/4317/919.ts
+#EXTINF:0,IN : Sony TV HD
+http://149.56.31.188:25461/live/ChrisW/4317/976.ts
+#EXTINF:0,IN : STAR SPORTS 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/918.ts
+#EXTINF:0,IN : STAR SPORTS 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/917.ts
+#EXTINF:0,IN : STAR SPORTS 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/916.ts
+#EXTINF:0,IN : STAR SPORTS 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/915.ts
+#EXTINF:0,IN : Star Sports3-SD
+http://149.56.31.188:25461/live/ChrisW/4317/975.ts
+#EXTINF:0,IN : Star Sports4-SD
+http://149.56.31.188:25461/live/ChrisW/4317/974.ts
+#EXTINF:0,IN : Tamil |  CAPTAIN TV
+http://149.56.31.188:25461/live/ChrisW/4317/914.ts
+#EXTINF:0,IN : Tamil | ADITYA TV
+http://149.56.31.188:25461/live/ChrisW/4317/913.ts
+#EXTINF:0,IN : Tamil | CAPTAIN NEWS
+http://149.56.31.188:25461/live/ChrisW/4317/912.ts
+#EXTINF:0,IN : Tamil | CHANNEL UFX
+http://149.56.31.188:25461/live/ChrisW/4317/911.ts
+#EXTINF:0,IN : Tamil | CHITHIRAM TV
+http://149.56.31.188:25461/live/ChrisW/4317/910.ts
+#EXTINF:0,IN : Tamil | DAN Music
+http://149.56.31.188:25461/live/ChrisW/4317/909.ts
+#EXTINF:0,IN : Tamil | DAN News
+http://149.56.31.188:25461/live/ChrisW/4317/908.ts
+#EXTINF:0,IN : Tamil | DAN TV
+http://149.56.31.188:25461/live/ChrisW/4317/907.ts
+#EXTINF:0,IN : Tamil | DD PODHIGAI
+http://149.56.31.188:25461/live/ChrisW/4317/906.ts
+#EXTINF:0,IN : Tamil | DEEPAM TV
+http://149.56.31.188:25461/live/ChrisW/4317/905.ts
+#EXTINF:0,IN : Tamil | EET TV
+http://149.56.31.188:25461/live/ChrisW/4317/904.ts
+#EXTINF:0,IN : Tamil | ISAI ARUVI
+http://149.56.31.188:25461/live/ChrisW/4317/903.ts
+#EXTINF:0,IN : Tamil | JAYA MAX
+http://149.56.31.188:25461/live/ChrisW/4317/902.ts
+#EXTINF:0,IN : Tamil | JAYA MAX USA
+http://149.56.31.188:25461/live/ChrisW/4317/901.ts
+#EXTINF:0,IN : Tamil | JAYA MOVIES
+http://149.56.31.188:25461/live/ChrisW/4317/900.ts
+#EXTINF:0,IN : Tamil | JAYA PLUS
+http://149.56.31.188:25461/live/ChrisW/4317/899.ts
+#EXTINF:0,IN : Tamil | JAYA TV
+http://149.56.31.188:25461/live/ChrisW/4317/898.ts
+#EXTINF:0,IN : Tamil | JAYA TV US
+http://149.56.31.188:25461/live/ChrisW/4317/897.ts
+#EXTINF:0,IN : Tamil | KALAIGNAR TV
+http://149.56.31.188:25461/live/ChrisW/4317/896.ts
+#EXTINF:0,IN : Tamil | KTV US
+http://149.56.31.188:25461/live/ChrisW/4317/894.ts
+#EXTINF:0,IN : Tamil | KTV USA
+http://149.56.31.188:25461/live/ChrisW/4317/895.ts
+#EXTINF:0,IN : Tamil | MAKKAL TV
+http://149.56.31.188:25461/live/ChrisW/4317/893.ts
+#EXTINF:0,IN : Tamil | MURASU TV
+http://149.56.31.188:25461/live/ChrisW/4317/892.ts
+#EXTINF:0,IN : Tamil | NEWS 7
+http://149.56.31.188:25461/live/ChrisW/4317/891.ts
+#EXTINF:0,IN : Tamil | PEPPERS
+http://149.56.31.188:25461/live/ChrisW/4317/890.ts
+#EXTINF:0,IN : Tamil | Pirai TV (ISLAMIC CH)
+http://149.56.31.188:25461/live/ChrisW/4317/889.ts
+#EXTINF:0,IN : Tamil | POLIMER NEWS
+http://149.56.31.188:25461/live/ChrisW/4317/888.ts
+#EXTINF:0,IN : Tamil | POLIMER TV
+http://149.56.31.188:25461/live/ChrisW/4317/887.ts
+#EXTINF:0,IN : Tamil | PUTHIYA THALAIMURAI
+http://149.56.31.188:25461/live/ChrisW/4317/886.ts
+#EXTINF:0,IN : Tamil | PUTHUYUGAM TV
+http://149.56.31.188:25461/live/ChrisW/4317/885.ts
+#EXTINF:0,IN : Tamil | RAJ DIGITAL PLUS
+http://149.56.31.188:25461/live/ChrisW/4317/884.ts
+#EXTINF:0,IN : Tamil | RAJ DIGITAL PLUS US
+http://149.56.31.188:25461/live/ChrisW/4317/883.ts
+#EXTINF:0,IN : Tamil | RAJ MUSIX
+http://149.56.31.188:25461/live/ChrisW/4317/882.ts
+#EXTINF:0,IN : Tamil | RAJ NEWS 24x7
+http://149.56.31.188:25461/live/ChrisW/4317/881.ts
+#EXTINF:0,IN : Tamil | RAJ TV
+http://149.56.31.188:25461/live/ChrisW/4317/880.ts
+#EXTINF:0,IN : Tamil | SANTHORA TV
+http://149.56.31.188:25461/live/ChrisW/4317/879.ts
+#EXTINF:0,IN : Tamil | SEITHIGAL
+http://149.56.31.188:25461/live/ChrisW/4317/878.ts
+#EXTINF:0,IN : Tamil | SIRIPPOLI TV
+http://149.56.31.188:25461/live/ChrisW/4317/877.ts
+#EXTINF:0,IN : Tamil | Sri Sankara Tamil
+http://149.56.31.188:25461/live/ChrisW/4317/876.ts
+#EXTINF:0,IN : Tamil | STAR VIJAY
+http://149.56.31.188:25461/live/ChrisW/4317/875.ts
+#EXTINF:0,IN : Tamil | STAR VIJAY UK
+http://149.56.31.188:25461/live/ChrisW/4317/874.ts
+#EXTINF:0,IN : Tamil | SUN LIFE
+http://149.56.31.188:25461/live/ChrisW/4317/873.ts
+#EXTINF:0,IN : Tamil | SUN MUSIC
+http://149.56.31.188:25461/live/ChrisW/4317/872.ts
+#EXTINF:0,IN : Tamil | SUN NEWS
+http://149.56.31.188:25461/live/ChrisW/4317/871.ts
+#EXTINF:0,IN : Tamil | SUN TV INDIA
+http://149.56.31.188:25461/live/ChrisW/4317/870.ts
+#EXTINF:0,IN : Tamil | SUN TV US
+http://149.56.31.188:25461/live/ChrisW/4317/869.ts
+#EXTINF:0,IN : Tamil | TAMIL ARUVI
+http://149.56.31.188:25461/live/ChrisW/4317/868.ts
+#EXTINF:0,IN : Tamil | THANTHI NEWS
+http://149.56.31.188:25461/live/ChrisW/4317/867.ts
+#EXTINF:0,IN : Tamil | VENDHAR
+http://149.56.31.188:25461/live/ChrisW/4317/866.ts
+#EXTINF:0,IN : Tamil | VIJAY HD
+http://149.56.31.188:25461/live/ChrisW/4317/865.ts
+#EXTINF:0,IN : Tamil | VIMBAM TV
+http://149.56.31.188:25461/live/ChrisW/4317/864.ts
+#EXTINF:0,IN : Tamil | WIN TV
+http://149.56.31.188:25461/live/ChrisW/4317/863.ts
+#EXTINF:0,IN : Tamil | ZEE TAMIZH
+http://149.56.31.188:25461/live/ChrisW/4317/862.ts
+#EXTINF:0,IN : TEN ACTION
+http://149.56.31.188:25461/live/ChrisW/4317/973.ts
+#EXTINF:0,IN : Ten Sports HD
+http://149.56.31.188:25461/live/ChrisW/4317/972.ts
+#EXTINF:0,IN :MovieOK
+http://149.56.31.188:25461/live/ChrisW/4317/971.ts
+#EXTINF:0,IN | Color HD
+http://149.56.31.188:25461/live/ChrisW/4317/969.ts
+#EXTINF:0,IN | Sony Six SD
+http://149.56.31.188:25461/live/ChrisW/4317/968.ts
+#EXTINF:0,IN | Star Gold
+http://149.56.31.188:25461/live/ChrisW/4317/967.ts
+#EXTINF:0,IN | Star Plus
+http://149.56.31.188:25461/live/ChrisW/4317/966.ts
+#EXTINF:0,IN | Zee HD
+http://149.56.31.188:25461/live/ChrisW/4317/965.ts
+#EXTINF:0,IN | Zee Marathi
+http://149.56.31.188:25461/live/ChrisW/4317/964.ts
+#EXTINF:0,IN | Zee Talkies
+http://149.56.31.188:25461/live/ChrisW/4317/963.ts
+#EXTINF:0,IN: Bollywood Masala
+http://149.56.31.188:25461/live/ChrisW/4317/962.ts
+#EXTINF:0,IN: CARTOON NETWORK HINDI
+http://149.56.31.188:25461/live/ChrisW/4317/961.ts
+#EXTINF:0,IN: India Today
+http://149.56.31.188:25461/live/ChrisW/4317/960.ts
+#EXTINF:0,IN: Life OK SD
+http://149.56.31.188:25461/live/ChrisW/4317/959.ts
+#EXTINF:0,IN: NEWS 24
+http://149.56.31.188:25461/live/ChrisW/4317/958.ts
+#EXTINF:0,IN: Nickelodeon Hindi
+http://149.56.31.188:25461/live/ChrisW/4317/957.ts
+#EXTINF:0,IN: Nickelodeon Jr Hindi
+http://149.56.31.188:25461/live/ChrisW/4317/956.ts
+#EXTINF:0,IN: RISHTAY ASIA
+http://149.56.31.188:25461/live/ChrisW/4317/955.ts
+#EXTINF:0,IN: Rishtey ME
+http://149.56.31.188:25461/live/ChrisW/4317/954.ts
+#EXTINF:0,IN: Sanskar TV
+http://149.56.31.188:25461/live/ChrisW/4317/953.ts
+#EXTINF:0,IN: SONY ESPN HD
+http://149.56.31.188:25461/live/ChrisW/4317/952.ts
+#EXTINF:0,IN: SONY MAX2
+http://149.56.31.188:25461/live/ChrisW/4317/951.ts
+#EXTINF:0,IN: SONY MIX
+http://149.56.31.188:25461/live/ChrisW/4317/950.ts
+#EXTINF:0,IN: STAR GOLD SD
+http://149.56.31.188:25461/live/ChrisW/4317/949.ts
+#EXTINF:0,IN: Star Jalsha
+http://149.56.31.188:25461/live/ChrisW/4317/948.ts
+#EXTINF:0,IN: Star Jalsha US
+http://149.56.31.188:25461/live/ChrisW/4317/947.ts
+#EXTINF:0,IN: Star Plus
+http://149.56.31.188:25461/live/ChrisW/4317/946.ts
+#EXTINF:0,IN: Star Plus UK
+http://149.56.31.188:25461/live/ChrisW/4317/945.ts
+#EXTINF:0,IN: Star Sports1-SD
+http://149.56.31.188:25461/live/ChrisW/4317/944.ts
+#EXTINF:0,IN: Star Sports2-SD
+http://149.56.31.188:25461/live/ChrisW/4317/943.ts
+#EXTINF:0,IN: Star Vijay
+http://149.56.31.188:25461/live/ChrisW/4317/942.ts
+#EXTINF:0,IN: TEN 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/941.ts
+#EXTINF:0,IN: TEN CRICKET
+http://149.56.31.188:25461/live/ChrisW/4317/940.ts
+#EXTINF:0,IN: TEN Golf HD
+http://149.56.31.188:25461/live/ChrisW/4317/939.ts
+#EXTINF:0,IN: UTV Bindass
+http://149.56.31.188:25461/live/ChrisW/4317/938.ts
+#EXTINF:0,IN: UTV MOVIES
+http://149.56.31.188:25461/live/ChrisW/4317/937.ts
+#EXTINF:0,IN: Zee Action
+http://149.56.31.188:25461/live/ChrisW/4317/936.ts
+#EXTINF:0,IN: Zee Anmol
+http://149.56.31.188:25461/live/ChrisW/4317/935.ts
+#EXTINF:0,IN: ZEE Bollywood HD
+http://149.56.31.188:25461/live/ChrisW/4317/934.ts
+#EXTINF:0,IN: ZEE Business
+http://149.56.31.188:25461/live/ChrisW/4317/933.ts
+#EXTINF:0,IN: ZEE Cinema
+http://149.56.31.188:25461/live/ChrisW/4317/932.ts
+#EXTINF:0,IN: Zee Classic
+http://149.56.31.188:25461/live/ChrisW/4317/931.ts
+#EXTINF:0,IN: Zee Salam
+http://149.56.31.188:25461/live/ChrisW/4317/930.ts
+#EXTINF:0,IN: Zee Smile
+http://149.56.31.188:25461/live/ChrisW/4317/929.ts
+#EXTINF:0,IN: Zee Taas24
+http://149.56.31.188:25461/live/ChrisW/4317/928.ts
+#EXTINF:0,IN: ZEE TV ME
+http://149.56.31.188:25461/live/ChrisW/4317/927.ts
+#EXTINF:0,IN: Zindagi
+http://149.56.31.188:25461/live/ChrisW/4317/926.ts
+#EXTINF:0,IN: Zing TV
+http://149.56.31.188:25461/live/ChrisW/4317/925.ts
+#EXTINF:0,IN:NDTV 24X7
+http://149.56.31.188:25461/live/ChrisW/4317/924.ts
+#EXTINF:0,IN:NDTV INDIA
+http://149.56.31.188:25461/live/ChrisW/4317/923.ts
+#EXTINF:0,IN:Zee Living
+http://149.56.31.188:25461/live/ChrisW/4317/922.ts
+#EXTINF:0,IN:Zee news
+http://149.56.31.188:25461/live/ChrisW/4317/921.ts
+#EXTINF:0,IN:Zee tv Uk
+http://149.56.31.188:25461/live/ChrisW/4317/920.ts
+#EXTINF:0,KOR : ANIMAX KOREA
+http://149.56.31.188:25461/live/ChrisW/4317/801.ts
+#EXTINF:0,KOR : CGN TV
+http://149.56.31.188:25461/live/ChrisW/4317/800.ts
+#EXTINF:0,KOR : CHANNEL A
+http://149.56.31.188:25461/live/ChrisW/4317/799.ts
+#EXTINF:0,KOR : DISNEY CHANNEL KOREA
+http://149.56.31.188:25461/live/ChrisW/4317/798.ts
+#EXTINF:0,KOR : EBS 1
+http://149.56.31.188:25461/live/ChrisW/4317/797.ts
+#EXTINF:0,KOR : FTV
+http://149.56.31.188:25461/live/ChrisW/4317/796.ts
+#EXTINF:0,KOR : JAY SPORTS
+http://149.56.31.188:25461/live/ChrisW/4317/795.ts
+#EXTINF:0,KOR : JAY SPORTS 2
+http://149.56.31.188:25461/live/ChrisW/4317/794.ts
+#EXTINF:0,KOR : JAY SPORTS 3
+http://149.56.31.188:25461/live/ChrisW/4317/793.ts
+#EXTINF:0,KOR : JEI TV
+http://149.56.31.188:25461/live/ChrisW/4317/792.ts
+#EXTINF:0,KOR : JTBC
+http://149.56.31.188:25461/live/ChrisW/4317/791.ts
+#EXTINF:0,KOR : K-BADUK
+http://149.56.31.188:25461/live/ChrisW/4317/790.ts
+#EXTINF:0,KOR : KBS 1
+http://149.56.31.188:25461/live/ChrisW/4317/789.ts
+#EXTINF:0,KOR : KBS 2
+http://149.56.31.188:25461/live/ChrisW/4317/788.ts
+#EXTINF:0,KOR : KBS SPORTS
+http://149.56.31.188:25461/live/ChrisW/4317/787.ts
+#EXTINF:0,KOR : M NET
+http://149.56.31.188:25461/live/ChrisW/4317/786.ts
+#EXTINF:0,KOR : MBC
+http://149.56.31.188:25461/live/ChrisW/4317/785.ts
+#EXTINF:0,KOR : MBC SPORTS
+http://149.56.31.188:25461/live/ChrisW/4317/784.ts
+#EXTINF:0,KOR : O'LIVE
+http://149.56.31.188:25461/live/ChrisW/4317/783.ts
+#EXTINF:0,KOR : SBS
+http://149.56.31.188:25461/live/ChrisW/4317/782.ts
+#EXTINF:0,KOR : SBS GOLF
+http://149.56.31.188:25461/live/ChrisW/4317/781.ts
+#EXTINF:0,KOR : SBS SPORTS
+http://149.56.31.188:25461/live/ChrisW/4317/780.ts
+#EXTINF:0,KOR : STAR 2
+http://149.56.31.188:25461/live/ChrisW/4317/779.ts
+#EXTINF:0,KOR : TV CHOSUN
+http://149.56.31.188:25461/live/ChrisW/4317/778.ts
+#EXTINF:0,KOR : TVN
+http://149.56.31.188:25461/live/ChrisW/4317/777.ts
+#EXTINF:0,KP : 743
+http://149.56.31.188:25461/live/ChrisW/4317/835.ts
+#EXTINF:0,KP : BBC
+http://149.56.31.188:25461/live/ChrisW/4317/834.ts
+#EXTINF:0,KP : CBS
+http://149.56.31.188:25461/live/ChrisW/4317/833.ts
+#EXTINF:0,KP : CCTV
+http://149.56.31.188:25461/live/ChrisW/4317/832.ts
+#EXTINF:0,KP : chosun1?HD?
+http://149.56.31.188:25461/live/ChrisW/4317/831.ts
+#EXTINF:0,KP : CTS
+http://149.56.31.188:25461/live/ChrisW/4317/830.ts
+#EXTINF:0,KP : CTS HD
+http://149.56.31.188:25461/live/ChrisW/4317/829.ts
+#EXTINF:0,KP : DONGATV19
+http://149.56.31.188:25461/live/ChrisW/4317/828.ts
+#EXTINF:0,KP : ETN
+http://149.56.31.188:25461/live/ChrisW/4317/827.ts
+#EXTINF:0,KP : eventTV
+http://149.56.31.188:25461/live/ChrisW/4317/826.ts
+#EXTINF:0,KP : GOODTV
+http://149.56.31.188:25461/live/ChrisW/4317/825.ts
+#EXTINF:0,KP : HANWOON
+http://149.56.31.188:25461/live/ChrisW/4317/824.ts
+#EXTINF:0,KP : HCN
+http://149.56.31.188:25461/live/ChrisW/4317/823.ts
+#EXTINF:0,KP : Hpbs
+http://149.56.31.188:25461/live/ChrisW/4317/822.ts
+#EXTINF:0,KP : KBS1
+http://149.56.31.188:25461/live/ChrisW/4317/821.ts
+#EXTINF:0,KP : KBS2
+http://149.56.31.188:25461/live/ChrisW/4317/820.ts
+#EXTINF:0,KP : KCTV
+http://149.56.31.188:25461/live/ChrisW/4317/819.ts
+#EXTINF:0,KP : KCTVN
+http://149.56.31.188:25461/live/ChrisW/4317/818.ts
+#EXTINF:0,KP : KIDSTV
+http://149.56.31.188:25461/live/ChrisW/4317/817.ts
+#EXTINF:0,KP : KNN
+http://149.56.31.188:25461/live/ChrisW/4317/816.ts
+#EXTINF:0,KP : KTV
+http://149.56.31.188:25461/live/ChrisW/4317/815.ts
+#EXTINF:0,KP : MOUNTAINTV
+http://149.56.31.188:25461/live/ChrisW/4317/814.ts
+#EXTINF:0,KP : Movie
+http://149.56.31.188:25461/live/ChrisW/4317/813.ts
+#EXTINF:0,KP : MTN
+http://149.56.31.188:25461/live/ChrisW/4317/812.ts
+#EXTINF:0,KP : Music
+http://149.56.31.188:25461/live/ChrisW/4317/811.ts
+#EXTINF:0,KP : NTDTV
+http://149.56.31.188:25461/live/ChrisW/4317/810.ts
+#EXTINF:0,KP : OBS
+http://149.56.31.188:25461/live/ChrisW/4317/809.ts
+#EXTINF:0,KP : RTNTV
+http://149.56.31.188:25461/live/ChrisW/4317/808.ts
+#EXTINF:0,KP : tbs
+http://149.56.31.188:25461/live/ChrisW/4317/807.ts
+#EXTINF:0,KP : Tomato TV
+http://149.56.31.188:25461/live/ChrisW/4317/806.ts
+#EXTINF:0,KP : TV-CHOSUN
+http://149.56.31.188:25461/live/ChrisW/4317/805.ts
+#EXTINF:0,KP : TVIS
+http://149.56.31.188:25461/live/ChrisW/4317/804.ts
+#EXTINF:0,KP : YTN
+http://149.56.31.188:25461/live/ChrisW/4317/803.ts
+#EXTINF:0,KP : YTNWeather
+http://149.56.31.188:25461/live/ChrisW/4317/802.ts
+#EXTINF:0,Latino: A&E HD
+http://149.56.31.188:25461/live/ChrisW/4317/861.ts
+#EXTINF:0,Latino: Animal Planet
+http://149.56.31.188:25461/live/ChrisW/4317/860.ts
+#EXTINF:0,Latino: AXN HD
+http://149.56.31.188:25461/live/ChrisW/4317/859.ts
+#EXTINF:0,Latino: Carton Network HD
+http://149.56.31.188:25461/live/ChrisW/4317/858.ts
+#EXTINF:0,Latino: Cinecanal
+http://149.56.31.188:25461/live/ChrisW/4317/857.ts
+#EXTINF:0,Latino: Discovery Channel
+http://149.56.31.188:25461/live/ChrisW/4317/856.ts
+#EXTINF:0,Latino: Discovery Civilization
+http://149.56.31.188:25461/live/ChrisW/4317/855.ts
+#EXTINF:0,Latino: Discovery ID
+http://149.56.31.188:25461/live/ChrisW/4317/854.ts
+#EXTINF:0,Latino: Discovery Kids
+http://149.56.31.188:25461/live/ChrisW/4317/853.ts
+#EXTINF:0,Latino: Discovery Teather HD
+http://149.56.31.188:25461/live/ChrisW/4317/852.ts
+#EXTINF:0,Latino: Discovery TLC
+http://149.56.31.188:25461/live/ChrisW/4317/851.ts
+#EXTINF:0,Latino: Discovery Turbo
+http://149.56.31.188:25461/live/ChrisW/4317/850.ts
+#EXTINF:0,Latino: ESPN
+http://149.56.31.188:25461/live/ChrisW/4317/849.ts
+#EXTINF:0,Latino: ESPN 2
+http://149.56.31.188:25461/live/ChrisW/4317/848.ts
+#EXTINF:0,Latino: ESPN 3
+http://149.56.31.188:25461/live/ChrisW/4317/847.ts
+#EXTINF:0,Latino: F1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/846.ts
+#EXTINF:0,Latino: Fox 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/845.ts
+#EXTINF:0,Latino: Fox Action HD
+http://149.56.31.188:25461/live/ChrisW/4317/844.ts
+#EXTINF:0,Latino: Fox Cinema HD
+http://149.56.31.188:25461/live/ChrisW/4317/843.ts
+#EXTINF:0,Latino: Fox HD
+http://149.56.31.188:25461/live/ChrisW/4317/842.ts
+#EXTINF:0,Latino: Fox Movies HD
+http://149.56.31.188:25461/live/ChrisW/4317/841.ts
+#EXTINF:0,Latino: Fox Sports
+http://149.56.31.188:25461/live/ChrisW/4317/840.ts
+#EXTINF:0,Latino: Fox Sports 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/839.ts
+#EXTINF:0,Latino: Multimedios Monterrey HD
+http://149.56.31.188:25461/live/ChrisW/4317/838.ts
+#EXTINF:0,Latino: NatGeo Wild HD
+http://149.56.31.188:25461/live/ChrisW/4317/837.ts
+#EXTINF:0,Latino: TNT Series HD
+http://149.56.31.188:25461/live/ChrisW/4317/836.ts
+#EXTINF:0,PK : GeoSuper
+http://149.56.31.188:25461/live/ChrisW/4317/980.ts
+#EXTINF:0,FR : CANAL  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1212.ts
+#EXTINF:0,FR : EURONEWS
+http://149.56.31.188:25461/live/ChrisW/4317/1211.ts
+#EXTINF:0,FR : FRANCE 3
+http://149.56.31.188:25461/live/ChrisW/4317/1210.ts
+#EXTINF:0,FR : RTL9
+http://149.56.31.188:25461/live/ChrisW/4317/1209.ts
+#EXTINF:0,FR : TELETOON
+http://149.56.31.188:25461/live/ChrisW/4317/1208.ts
+#EXTINF:0,FR : W9
+http://149.56.31.188:25461/live/ChrisW/4317/1207.ts
+#EXTINF:0,FR:  Cartoon Network HD
+http://149.56.31.188:25461/live/ChrisW/4317/1206.ts
+#EXTINF:0,FR:  Discovery Science HD
+http://149.56.31.188:25461/live/ChrisW/4317/1205.ts
+#EXTINF:0,FR:  Disney Jr Fr
+http://149.56.31.188:25461/live/ChrisW/4317/1204.ts
+#EXTINF:0,FR:  Nat Geo HD
+http://149.56.31.188:25461/live/ChrisW/4317/1203.ts
+#EXTINF:0,FR:  Nat Geo Wild  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1202.ts
+#EXTINF:0,FR:  NRJ12 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1201.ts
+#EXTINF:0,FR: 6TER HD
+http://149.56.31.188:25461/live/ChrisW/4317/1200.ts
+#EXTINF:0,FR: A LA CARTE 10
+http://149.56.31.188:25461/live/ChrisW/4317/1199.ts
+#EXTINF:0,FR: A LA CARTE 7
+http://149.56.31.188:25461/live/ChrisW/4317/1198.ts
+#EXTINF:0,FR: A LA CARTE 8
+http://149.56.31.188:25461/live/ChrisW/4317/1197.ts
+#EXTINF:0,FR: A LA CARTE 9
+http://149.56.31.188:25461/live/ChrisW/4317/1196.ts
+#EXTINF:0,FR: beIN SPORTS 3HD
+http://149.56.31.188:25461/live/ChrisW/4317/1157.ts
+#EXTINF:0,FR: beIN SPORTS1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1159.ts
+#EXTINF:0,FR: beINSPORTS 2HD
+http://149.56.31.188:25461/live/ChrisW/4317/1158.ts
+#EXTINF:0,FR: BFM TV
+http://149.56.31.188:25461/live/ChrisW/4317/1195.ts
+#EXTINF:0,FR: Canal  Cinema
+http://149.56.31.188:25461/live/ChrisW/4317/1194.ts
+#EXTINF:0,FR: Canal  Decale
+http://149.56.31.188:25461/live/ChrisW/4317/1193.ts
+#EXTINF:0,FR: Canal  Family
+http://149.56.31.188:25461/live/ChrisW/4317/1192.ts
+#EXTINF:0,FR: Canal  Series
+http://149.56.31.188:25461/live/ChrisW/4317/1191.ts
+#EXTINF:0,FR: Canal  Sport
+http://149.56.31.188:25461/live/ChrisW/4317/1190.ts
+#EXTINF:0,FR: CANAL J
+http://149.56.31.188:25461/live/ChrisW/4317/1189.ts
+#EXTINF:0,FR: CANAL PLAY 1
+http://149.56.31.188:25461/live/ChrisW/4317/1248.ts
+#EXTINF:0,FR: CANAL PLAY 2
+http://149.56.31.188:25461/live/ChrisW/4317/1247.ts
+#EXTINF:0,FR: CANAL PLAY 3
+http://149.56.31.188:25461/live/ChrisW/4317/1246.ts
+#EXTINF:0,FR: CANAL PLAY 4
+http://149.56.31.188:25461/live/ChrisW/4317/1245.ts
+#EXTINF:0,FR: CANAL PLAY 5
+http://149.56.31.188:25461/live/ChrisW/4317/1244.ts
+#EXTINF:0,FR: CANAL PLAY 6
+http://149.56.31.188:25461/live/ChrisW/4317/1243.ts
+#EXTINF:0,FR: CANAL PLAY 7
+http://149.56.31.188:25461/live/ChrisW/4317/1242.ts
+#EXTINF:0,FR: Chasse et Peche
+http://149.56.31.188:25461/live/ChrisW/4317/1241.ts
+#EXTINF:0,FR: CIN PREMIERHD
+http://149.56.31.188:25461/live/ChrisW/4317/1240.ts
+#EXTINF:0,FR: CINE CLASSIC
+http://149.56.31.188:25461/live/ChrisW/4317/1239.ts
+#EXTINF:0,FR: CINE CLASSIC HD
+http://149.56.31.188:25461/live/ChrisW/4317/1238.ts
+#EXTINF:0,FR: CINE EMOTION HD
+http://149.56.31.188:25461/live/ChrisW/4317/1237.ts
+#EXTINF:0,FR: CINE FAMIZ
+http://149.56.31.188:25461/live/ChrisW/4317/1236.ts
+#EXTINF:0,FR: CINE FRISSON
+http://149.56.31.188:25461/live/ChrisW/4317/1235.ts
+#EXTINF:0,FR: CINE FX
+http://149.56.31.188:25461/live/ChrisW/4317/1155.ts
+#EXTINF:0,FR: CINE POLAR
+http://149.56.31.188:25461/live/ChrisW/4317/1234.ts
+#EXTINF:0,FR: CINE PREMIER HD
+http://149.56.31.188:25461/live/ChrisW/4317/1233.ts
+#EXTINF:0,FR: COMEDIE  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1188.ts
+#EXTINF:0,FR: D17
+http://149.56.31.188:25461/live/ChrisW/4317/1187.ts
+#EXTINF:0,FR: D8
+http://149.56.31.188:25461/live/ChrisW/4317/1186.ts
+#EXTINF:0,FR: DISCOVERY
+http://149.56.31.188:25461/live/ChrisW/4317/1232.ts
+#EXTINF:0,FR: DISNEY CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/1185.ts
+#EXTINF:0,FR: DISNEY CINEMA
+http://149.56.31.188:25461/live/ChrisW/4317/1184.ts
+#EXTINF:0,FR: Disney xd  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1183.ts
+#EXTINF:0,FR: Eurosport 1
+http://149.56.31.188:25461/live/ChrisW/4317/1182.ts
+#EXTINF:0,FR: EUROSPORT2
+http://149.56.31.188:25461/live/ChrisW/4317/1181.ts
+#EXTINF:0,FR: FRANCE 2
+http://149.56.31.188:25461/live/ChrisW/4317/1180.ts
+#EXTINF:0,FR: France 4  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1179.ts
+#EXTINF:0,FR: France 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1178.ts
+#EXTINF:0,FR: France O  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1177.ts
+#EXTINF:0,FR: HD1
+http://149.56.31.188:25461/live/ChrisW/4317/1176.ts
+#EXTINF:0,FR: La Deux
+http://149.56.31.188:25461/live/ChrisW/4317/1231.ts
+#EXTINF:0,FR: La une BE
+http://149.56.31.188:25461/live/ChrisW/4317/1230.ts
+#EXTINF:0,FR: M6
+http://149.56.31.188:25461/live/ChrisW/4317/1175.ts
+#EXTINF:0,FR: Ma Chaine Sport HD
+http://149.56.31.188:25461/live/ChrisW/4317/1229.ts
+#EXTINF:0,FR: Mangas
+http://149.56.31.188:25461/live/ChrisW/4317/1228.ts
+#EXTINF:0,FR: NATIONAL GEO HD
+http://149.56.31.188:25461/live/ChrisW/4317/1227.ts
+#EXTINF:0,FR: NICKELODEON JUNIOR
+http://149.56.31.188:25461/live/ChrisW/4317/1174.ts
+#EXTINF:0,FR: NRJ Hits
+http://149.56.31.188:25461/live/ChrisW/4317/1226.ts
+#EXTINF:0,FR: NUMERO 23 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1173.ts
+#EXTINF:0,FR: OCS CITY
+http://149.56.31.188:25461/live/ChrisW/4317/1172.ts
+#EXTINF:0,FR: OCS GEANT
+http://149.56.31.188:25461/live/ChrisW/4317/1171.ts
+#EXTINF:0,FR: OCS MAX
+http://149.56.31.188:25461/live/ChrisW/4317/1170.ts
+#EXTINF:0,FR: Orange Cine horreur HD
+http://149.56.31.188:25461/live/ChrisW/4317/1225.ts
+#EXTINF:0,FR: Orange enquete exclusive HD
+http://149.56.31.188:25461/live/ChrisW/4317/1224.ts
+#EXTINF:0,FR: PARAMOUNT CHANNEL HD
+http://149.56.31.188:25461/live/ChrisW/4317/1169.ts
+#EXTINF:0,FR: PARIS PREMIERE  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1168.ts
+#EXTINF:0,FR: PLUG RTL
+http://149.56.31.188:25461/live/ChrisW/4317/1223.ts
+#EXTINF:0,FR: rmc decouverte
+http://149.56.31.188:25461/live/ChrisW/4317/1167.ts
+#EXTINF:0,FR: RTL TVI
+http://149.56.31.188:25461/live/ChrisW/4317/1222.ts
+#EXTINF:0,FR: RTS Deux
+http://149.56.31.188:25461/live/ChrisW/4317/1221.ts
+#EXTINF:0,FR: RTS Un
+http://149.56.31.188:25461/live/ChrisW/4317/1220.ts
+#EXTINF:0,FR: SERIE CLUB
+http://149.56.31.188:25461/live/ChrisW/4317/1219.ts
+#EXTINF:0,FR: SFR: CINE A LA DEMANDE 1
+http://149.56.31.188:25461/live/ChrisW/4317/1218.ts
+#EXTINF:0,FR: SFR: CINE A LA DEMANDE 2
+http://149.56.31.188:25461/live/ChrisW/4317/1217.ts
+#EXTINF:0,FR: SFR: CINE A LA DEMANDE 3
+http://149.56.31.188:25461/live/ChrisW/4317/1216.ts
+#EXTINF:0,FR: SFR: Sport 1
+http://149.56.31.188:25461/live/ChrisW/4317/1215.ts
+#EXTINF:0,FR: SFR: Sport 2
+http://149.56.31.188:25461/live/ChrisW/4317/1214.ts
+#EXTINF:0,FR: SFR: Sport 3
+http://149.56.31.188:25461/live/ChrisW/4317/1213.ts
+#EXTINF:0,FR: TF1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1166.ts
+#EXTINF:0,FR: USHUAIA  HD
+http://149.56.31.188:25461/live/ChrisW/4317/1165.ts
+#EXTINF:0,FR:A LA CARTE 5
+http://149.56.31.188:25461/live/ChrisW/4317/1164.ts
+#EXTINF:0,FR:A la Carte 6
+http://149.56.31.188:25461/live/ChrisW/4317/1163.ts
+#EXTINF:0,FR:A.LA.CARTE.1
+http://149.56.31.188:25461/live/ChrisW/4317/1162.ts
+#EXTINF:0,FR:A.LA.CARTE.3
+http://149.56.31.188:25461/live/ChrisW/4317/1161.ts
+#EXTINF:0,FR:A.LA.CARTE.4
+http://149.56.31.188:25461/live/ChrisW/4317/1160.ts
+#EXTINF:0,FR:CINE PREMIER
+http://149.56.31.188:25461/live/ChrisW/4317/1156.ts
+#EXTINF:0,FR:FRANCE 24
+http://149.56.31.188:25461/live/ChrisW/4317/1154.ts
+#EXTINF:0,FR:NT1
+http://149.56.31.188:25461/live/ChrisW/4317/1153.ts
+#EXTINF:0,FR:TEVA/TMC
+http://149.56.31.188:25461/live/ChrisW/4317/1152.ts
+#EXTINF:0,FR:TREK HD
+http://149.56.31.188:25461/live/ChrisW/4317/1151.ts
+#EXTINF:0,FR:TV5 MONDE
+http://149.56.31.188:25461/live/ChrisW/4317/1150.ts
+#EXTINF:0,FR:VOYAGE HD
+http://149.56.31.188:25461/live/ChrisW/4317/1149.ts
+#EXTINF:0,IT : Premium Sport HD
+http://149.56.31.188:25461/live/ChrisW/4317/1148.ts
+#EXTINF:0,IT : Sky Uno HD
+http://149.56.31.188:25461/live/ChrisW/4317/1147.ts
+#EXTINF:0,IT | Alice
+http://149.56.31.188:25461/live/ChrisW/4317/1144.ts
+#EXTINF:0,IT | Canale5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1143.ts
+#EXTINF:0,IT | Dmax HD
+http://149.56.31.188:25461/live/ChrisW/4317/1142.ts
+#EXTINF:0,IT | Eurosport 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1141.ts
+#EXTINF:0,IT | Eurosport 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1140.ts
+#EXTINF:0,IT | Fox Comedy HD
+http://149.56.31.188:25461/live/ChrisW/4317/1139.ts
+#EXTINF:0,IT | Fox Crime HD
+http://149.56.31.188:25461/live/ChrisW/4317/1138.ts
+#EXTINF:0,IT | Italia 2
+http://149.56.31.188:25461/live/ChrisW/4317/1137.ts
+#EXTINF:0,IT | italia1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1136.ts
+#EXTINF:0,IT | La7
+http://149.56.31.188:25461/live/ChrisW/4317/1135.ts
+#EXTINF:0,IT | Mediaset Extra
+http://149.56.31.188:25461/live/ChrisW/4317/1134.ts
+#EXTINF:0,IT | Premium Cinema
+http://149.56.31.188:25461/live/ChrisW/4317/1133.ts
+#EXTINF:0,IT | Premium Cinema 2
+http://149.56.31.188:25461/live/ChrisW/4317/1132.ts
+#EXTINF:0,IT | Premium Cinema Energy
+http://149.56.31.188:25461/live/ChrisW/4317/1129.ts
+#EXTINF:0,IT | Premium Crime
+http://149.56.31.188:25461/live/ChrisW/4317/1131.ts
+#EXTINF:0,IT | Premium Emotion
+http://149.56.31.188:25461/live/ChrisW/4317/1130.ts
+#EXTINF:0,IT | Premium Joy
+http://149.56.31.188:25461/live/ChrisW/4317/1128.ts
+#EXTINF:0,IT | Premium Stories
+http://149.56.31.188:25461/live/ChrisW/4317/1127.ts
+#EXTINF:0,IT | Rai Movie
+http://149.56.31.188:25461/live/ChrisW/4317/1126.ts
+#EXTINF:0,IT | Rai Premium
+http://149.56.31.188:25461/live/ChrisW/4317/1125.ts
+#EXTINF:0,IT | Rai Sport1
+http://149.56.31.188:25461/live/ChrisW/4317/1124.ts
+#EXTINF:0,IT | Rai Sport2
+http://149.56.31.188:25461/live/ChrisW/4317/1123.ts
+#EXTINF:0,IT | Rai1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1122.ts
+#EXTINF:0,IT | Rai2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1121.ts
+#EXTINF:0,IT | Rai3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1120.ts
+#EXTINF:0,IT | Rai4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1119.ts
+#EXTINF:0,IT | Rai5
+http://149.56.31.188:25461/live/ChrisW/4317/1118.ts
+#EXTINF:0,IT | Rete4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1117.ts
+#EXTINF:0,IT | RSI La1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1116.ts
+#EXTINF:0,IT | RSI La2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1115.ts
+#EXTINF:0,IT | Sky Cinema  1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1109.ts
+#EXTINF:0,IT | Sky Cinema Classic HD
+http://149.56.31.188:25461/live/ChrisW/4317/1114.ts
+#EXTINF:0,IT | Sky Cinema Comedy HD
+http://149.56.31.188:25461/live/ChrisW/4317/1113.ts
+#EXTINF:0,IT | Sky Cinema Family HD
+http://149.56.31.188:25461/live/ChrisW/4317/1112.ts
+#EXTINF:0,IT | Sky Cinema Max HD
+http://149.56.31.188:25461/live/ChrisW/4317/1111.ts
+#EXTINF:0,IT | Sky Cinema Passion HD
+http://149.56.31.188:25461/live/ChrisW/4317/1110.ts
+#EXTINF:0,IT | Sky Cinema1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1108.ts
+#EXTINF:0,IT | SKY CINEMA24 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1107.ts
+#EXTINF:0,IT | SKY F1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1106.ts
+#EXTINF:0,IT | Sky Foxcrime HD
+http://149.56.31.188:25461/live/ChrisW/4317/1105.ts
+#EXTINF:0,IT | Sky Moto GP HD
+http://149.56.31.188:25461/live/ChrisW/4317/1104.ts
+#EXTINF:0,IT | Sky Sport 24 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1103.ts
+#EXTINF:0,IT | Sky Sport F1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1102.ts
+#EXTINF:0,IT | Sky Sport1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1101.ts
+#EXTINF:0,IT | Sky Sport2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1100.ts
+#EXTINF:0,IT | Sky Sport3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1099.ts
+#EXTINF:0,IT: Animal Planet
+http://149.56.31.188:25461/live/ChrisW/4317/1098.ts
+#EXTINF:0,IT: Canal 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1097.ts
+#EXTINF:0,IT: Cartoonito
+http://149.56.31.188:25461/live/ChrisW/4317/1096.ts
+#EXTINF:0,IT: Cielo
+http://149.56.31.188:25461/live/ChrisW/4317/1070.ts
+#EXTINF:0,IT: Discovery HD
+http://149.56.31.188:25461/live/ChrisW/4317/1095.ts
+#EXTINF:0,IT: Discovery Science HD
+http://149.56.31.188:25461/live/ChrisW/4317/1094.ts
+#EXTINF:0,IT: Discovery Travel&Living HD
+http://149.56.31.188:25461/live/ChrisW/4317/1093.ts
+#EXTINF:0,IT: Fox Crime HD
+http://149.56.31.188:25461/live/ChrisW/4317/1091.ts
+#EXTINF:0,IT: FOX HD
+http://149.56.31.188:25461/live/ChrisW/4317/1146.ts
+#EXTINF:0,IT: Fox Life HD
+http://149.56.31.188:25461/live/ChrisW/4317/1145.ts
+#EXTINF:0,IT: FOX Sport HD
+http://149.56.31.188:25461/live/ChrisW/4317/1090.ts
+#EXTINF:0,IT: Inter Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1068.ts
+#EXTINF:0,IT: Mediaset Extra
+http://149.56.31.188:25461/live/ChrisW/4317/1089.ts
+#EXTINF:0,IT: Nat Geo Wild HD
+http://149.56.31.188:25461/live/ChrisW/4317/1088.ts
+#EXTINF:0,IT: NATIONAL GEOGRAPHIC HD
+http://149.56.31.188:25461/live/ChrisW/4317/1087.ts
+#EXTINF:0,IT: Pesca e Caccia
+http://149.56.31.188:25461/live/ChrisW/4317/1086.ts
+#EXTINF:0,IT: Premium Action
+http://149.56.31.188:25461/live/ChrisW/4317/1085.ts
+#EXTINF:0,IT: Premium Calcio
+http://149.56.31.188:25461/live/ChrisW/4317/1084.ts
+#EXTINF:0,IT: Premium Comedy
+http://149.56.31.188:25461/live/ChrisW/4317/1083.ts
+#EXTINF:0,IT: Premium Disney Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1082.ts
+#EXTINF:0,IT: Premium Sport 2
+http://149.56.31.188:25461/live/ChrisW/4317/1081.ts
+#EXTINF:0,IT: Premium Studio Universal
+http://149.56.31.188:25461/live/ChrisW/4317/1080.ts
+#EXTINF:0,IT: Rai Yoyo
+http://149.56.31.188:25461/live/ChrisW/4317/1079.ts
+#EXTINF:0,IT: Sky Fox Comedy HD
+http://149.56.31.188:25461/live/ChrisW/4317/1092.ts
+#EXTINF:0,IT: SKY Primafila 3
+http://149.56.31.188:25461/live/ChrisW/4317/1078.ts
+#EXTINF:0,IT: Sky Primafila 6
+http://149.56.31.188:25461/live/ChrisW/4317/1077.ts
+#EXTINF:0,IT: Sky Primafila 7
+http://149.56.31.188:25461/live/ChrisW/4317/1076.ts
+#EXTINF:0,IT: Sky Primafila 8
+http://149.56.31.188:25461/live/ChrisW/4317/1075.ts
+#EXTINF:0,IT: SKY TG 24
+http://149.56.31.188:25461/live/ChrisW/4317/1074.ts
+#EXTINF:0,IT: SPORT ITALIA
+http://149.56.31.188:25461/live/ChrisW/4317/1073.ts
+#EXTINF:0,IT: Supercalcio HD
+http://149.56.31.188:25461/live/ChrisW/4317/1072.ts
+#EXTINF:0,IT: Teleticino
+http://149.56.31.188:25461/live/ChrisW/4317/1050.ts
+#EXTINF:0,IT: TOP CRIME
+http://149.56.31.188:25461/live/ChrisW/4317/1049.ts
+#EXTINF:0,IT:CARTOON  NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/1071.ts
+#EXTINF:0,IT:Discovery Focus
+http://149.56.31.188:25461/live/ChrisW/4317/1069.ts
+#EXTINF:0,IT:Mediaset Iris
+http://149.56.31.188:25461/live/ChrisW/4317/1067.ts
+#EXTINF:0,IT:Milan Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1066.ts
+#EXTINF:0,IT:Premium Disney Junior
+http://149.56.31.188:25461/live/ChrisW/4317/1065.ts
+#EXTINF:0,IT:Rai Gulp
+http://149.56.31.188:25461/live/ChrisW/4317/1064.ts
+#EXTINF:0,IT:Real Time
+http://149.56.31.188:25461/live/ChrisW/4317/1063.ts
+#EXTINF:0,IT:SKY Cinema 3D
+http://149.56.31.188:25461/live/ChrisW/4317/1062.ts
+#EXTINF:0,IT:SKY Primafila 1
+http://149.56.31.188:25461/live/ChrisW/4317/1061.ts
+#EXTINF:0,IT:Sky Primafila 10
+http://149.56.31.188:25461/live/ChrisW/4317/1060.ts
+#EXTINF:0,IT:Sky Primafila 12
+http://149.56.31.188:25461/live/ChrisW/4317/1059.ts
+#EXTINF:0,IT:Sky Primafila 13
+http://149.56.31.188:25461/live/ChrisW/4317/1058.ts
+#EXTINF:0,IT:Sky Primafila 14
+http://149.56.31.188:25461/live/ChrisW/4317/1057.ts
+#EXTINF:0,IT:SKY Primafila 2
+http://149.56.31.188:25461/live/ChrisW/4317/1056.ts
+#EXTINF:0,IT:Sky Primafila 4
+http://149.56.31.188:25461/live/ChrisW/4317/1055.ts
+#EXTINF:0,IT:Sky Primafila 5
+http://149.56.31.188:25461/live/ChrisW/4317/1054.ts
+#EXTINF:0,IT:Sky Primafila 9
+http://149.56.31.188:25461/live/ChrisW/4317/1053.ts
+#EXTINF:0,IT:Sky Primafila WWE
+http://149.56.31.188:25461/live/ChrisW/4317/1052.ts
+#EXTINF:0,IT:Super Tennis
+http://149.56.31.188:25461/live/ChrisW/4317/1051.ts
+#EXTINF:0,ITVHD
+http://149.56.31.188:25461/live/ChrisW/4317/1297.ts
+#EXTINF:0,Kênh 9 mussic
+http://149.56.31.188:25461/live/ChrisW/4317/1296.ts
+#EXTINF:0,VN : AN GIANG 1
+http://149.56.31.188:25461/live/ChrisW/4317/1276.ts
+#EXTINF:0,VN : BA RIA VUNG TAU
+http://149.56.31.188:25461/live/ChrisW/4317/1275.ts
+#EXTINF:0,VN : BAC KAN
+http://149.56.31.188:25461/live/ChrisW/4317/1274.ts
+#EXTINF:0,VN : BAC LIEU
+http://149.56.31.188:25461/live/ChrisW/4317/1273.ts
+#EXTINF:0,VN : CAN THO
+http://149.56.31.188:25461/live/ChrisW/4317/1272.ts
+#EXTINF:0,VN : CAO BANG
+http://149.56.31.188:25461/live/ChrisW/4317/1271.ts
+#EXTINF:0,VN : DAK LAK
+http://149.56.31.188:25461/live/ChrisW/4317/1270.ts
+#EXTINF:0,VN : DAK NONG
+http://149.56.31.188:25461/live/ChrisW/4317/1269.ts
+#EXTINF:0,VN : HA GIANG
+http://149.56.31.188:25461/live/ChrisW/4317/1268.ts
+#EXTINF:0,VN : HA NAM
+http://149.56.31.188:25461/live/ChrisW/4317/1267.ts
+#EXTINF:0,VN : HAU GIANG
+http://149.56.31.188:25461/live/ChrisW/4317/1266.ts
+#EXTINF:0,VN : HN1
+http://149.56.31.188:25461/live/ChrisW/4317/1300.ts
+#EXTINF:0,VN : HTV1
+http://149.56.31.188:25461/live/ChrisW/4317/1299.ts
+#EXTINF:0,VN : HUNG YEN
+http://149.56.31.188:25461/live/ChrisW/4317/1265.ts
+#EXTINF:0,VN : ITV SD
+http://149.56.31.188:25461/live/ChrisW/4317/1298.ts
+#EXTINF:0,VN : KHANH HOA
+http://149.56.31.188:25461/live/ChrisW/4317/1264.ts
+#EXTINF:0,VN : Kids&FamilyTV-VTC11
+http://149.56.31.188:25461/live/ChrisW/4317/1263.ts
+#EXTINF:0,VN : KIEN GIANG
+http://149.56.31.188:25461/live/ChrisW/4317/1262.ts
+#EXTINF:0,VN : KON TUM
+http://149.56.31.188:25461/live/ChrisW/4317/1261.ts
+#EXTINF:0,VN : LANG SON
+http://149.56.31.188:25461/live/ChrisW/4317/1260.ts
+#EXTINF:0,VN : LET'S VIET
+http://149.56.31.188:25461/live/ChrisW/4317/1259.ts
+#EXTINF:0,VN : NINH THUAN
+http://149.56.31.188:25461/live/ChrisW/4317/1258.ts
+#EXTINF:0,VN : QUANG NGAI
+http://149.56.31.188:25461/live/ChrisW/4317/1257.ts
+#EXTINF:0,VN : QUANG NINH 1
+http://149.56.31.188:25461/live/ChrisW/4317/1256.ts
+#EXTINF:0,VN : QUANG NINH 3
+http://149.56.31.188:25461/live/ChrisW/4317/1255.ts
+#EXTINF:0,VN : SOC TRANG 1
+http://149.56.31.188:25461/live/ChrisW/4317/1254.ts
+#EXTINF:0,VN : THUA THIEN HUE
+http://149.56.31.188:25461/live/ChrisW/4317/1253.ts
+#EXTINF:0,VN : THVL1
+http://149.56.31.188:25461/live/ChrisW/4317/1295.ts
+#EXTINF:0,VN : THVL2
+http://149.56.31.188:25461/live/ChrisW/4317/1294.ts
+#EXTINF:0,VN : TTXVN
+http://149.56.31.188:25461/live/ChrisW/4317/1277.ts
+#EXTINF:0,VN : VINH PHUC
+http://149.56.31.188:25461/live/ChrisW/4317/1252.ts
+#EXTINF:0,VN : VITV
+http://149.56.31.188:25461/live/ChrisW/4317/1251.ts
+#EXTINF:0,VN : VNEWS-TTXVN
+http://149.56.31.188:25461/live/ChrisW/4317/1250.ts
+#EXTINF:0,VN : VOVNEWS
+http://149.56.31.188:25461/live/ChrisW/4317/1293.ts
+#EXTINF:0,VN : VTC1
+http://149.56.31.188:25461/live/ChrisW/4317/1292.ts
+#EXTINF:0,VN : VTC11
+http://149.56.31.188:25461/live/ChrisW/4317/1291.ts
+#EXTINF:0,VN : VTC14
+http://149.56.31.188:25461/live/ChrisW/4317/1249.ts
+#EXTINF:0,VN : VTC16
+http://149.56.31.188:25461/live/ChrisW/4317/1289.ts
+#EXTINF:0,VN : VTC3
+http://149.56.31.188:25461/live/ChrisW/4317/1290.ts
+#EXTINF:0,VN : VTC9
+http://149.56.31.188:25461/live/ChrisW/4317/1288.ts
+#EXTINF:0,VN : VTV1
+http://149.56.31.188:25461/live/ChrisW/4317/1287.ts
+#EXTINF:0,VN : VTV2
+http://149.56.31.188:25461/live/ChrisW/4317/1286.ts
+#EXTINF:0,VN : VTV3
+http://149.56.31.188:25461/live/ChrisW/4317/1284.ts
+#EXTINF:0,VN : VTV3 HD L2
+http://149.56.31.188:25461/live/ChrisW/4317/1283.ts
+#EXTINF:0,VN : VTV4
+http://149.56.31.188:25461/live/ChrisW/4317/1282.ts
+#EXTINF:0,VN : VTV5
+http://149.56.31.188:25461/live/ChrisW/4317/1281.ts
+#EXTINF:0,VN : VTV8 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1279.ts
+#EXTINF:0,VN : VTV9
+http://149.56.31.188:25461/live/ChrisW/4317/1278.ts
+#EXTINF:0,VTV2 L2
+http://149.56.31.188:25461/live/ChrisW/4317/1285.ts
+#EXTINF:0,VTV8
+http://149.56.31.188:25461/live/ChrisW/4317/1280.ts
+#EXTINF:0,AR - Al Jazeera Documentary
+http://149.56.31.188:25461/live/ChrisW/4317/1698.ts
+#EXTINF:0,AR - Al Jazeera English
+http://149.56.31.188:25461/live/ChrisW/4317/1697.ts
+#EXTINF:0,AR - Al Jazeera Mubasher
+http://149.56.31.188:25461/live/ChrisW/4317/1696.ts
+#EXTINF:0,AR : Abu Dhabi Nat Geo
+http://149.56.31.188:25461/live/ChrisW/4317/1723.ts
+#EXTINF:0,AR : Abu Dhabi Sports 1
+http://149.56.31.188:25461/live/ChrisW/4317/1722.ts
+#EXTINF:0,AR : Abu Dhabi TV
+http://149.56.31.188:25461/live/ChrisW/4317/1721.ts
+#EXTINF:0,AR : AD Sports 1
+http://149.56.31.188:25461/live/ChrisW/4317/1695.ts
+#EXTINF:0,AR : AD Sports 2
+http://149.56.31.188:25461/live/ChrisW/4317/1694.ts
+#EXTINF:0,AR : Al Alam
+http://149.56.31.188:25461/live/ChrisW/4317/1693.ts
+#EXTINF:0,AR : Al-Manar
+http://149.56.31.188:25461/live/ChrisW/4317/1692.ts
+#EXTINF:0,AR : Alarabia Alhadath
+http://149.56.31.188:25461/live/ChrisW/4317/1691.ts
+#EXTINF:0,AR : BEIN MOVIES 1HD
+http://149.56.31.188:25461/live/ChrisW/4317/1690.ts
+#EXTINF:0,AR : BEIN MOVIES 2HD
+http://149.56.31.188:25461/live/ChrisW/4317/1689.ts
+#EXTINF:0,AR : ekhbariya tv
+http://149.56.31.188:25461/live/ChrisW/4317/1688.ts
+#EXTINF:0,AR : iqraatv
+http://149.56.31.188:25461/live/ChrisW/4317/1687.ts
+#EXTINF:0,AR : LBC Sat
+http://149.56.31.188:25461/live/ChrisW/4317/1686.ts
+#EXTINF:0,AR : LDC
+http://149.56.31.188:25461/live/ChrisW/4317/1685.ts
+#EXTINF:0,AR : MBC 2
+http://149.56.31.188:25461/live/ChrisW/4317/1683.ts
+#EXTINF:0,AR : MBC 4
+http://149.56.31.188:25461/live/ChrisW/4317/1682.ts
+#EXTINF:0,AR : MBC 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1681.ts
+#EXTINF:0,AR : MBC Action
+http://149.56.31.188:25461/live/ChrisW/4317/1680.ts
+#EXTINF:0,AR : MBC MASR
+http://149.56.31.188:25461/live/ChrisW/4317/1679.ts
+#EXTINF:0,AR : MBC MAX
+http://149.56.31.188:25461/live/ChrisW/4317/1678.ts
+#EXTINF:0,AR : MBC Pro Sports 1HD
+http://149.56.31.188:25461/live/ChrisW/4317/1677.ts
+#EXTINF:0,AR : MBC Pro Sports 2HD
+http://149.56.31.188:25461/live/ChrisW/4317/1676.ts
+#EXTINF:0,AR : MBC Pro Sports 3HD
+http://149.56.31.188:25461/live/ChrisW/4317/1675.ts
+#EXTINF:0,AR : MBC1
+http://149.56.31.188:25461/live/ChrisW/4317/1674.ts
+#EXTINF:0,AR : MOGA-comedy
+http://149.56.31.188:25461/live/ChrisW/4317/1673.ts
+#EXTINF:0,AR : NBN Lebanon
+http://149.56.31.188:25461/live/ChrisW/4317/1672.ts
+#EXTINF:0,AR : NILE CINEMA
+http://149.56.31.188:25461/live/ChrisW/4317/1671.ts
+#EXTINF:0,AR : OSN Action
+http://149.56.31.188:25461/live/ChrisW/4317/1720.ts
+#EXTINF:0,AR : OSN Action 2
+http://149.56.31.188:25461/live/ChrisW/4317/1719.ts
+#EXTINF:0,AR : OSN Al Safwa
+http://149.56.31.188:25461/live/ChrisW/4317/1584.ts
+#EXTINF:0,AR : OSN AL Yawm
+http://149.56.31.188:25461/live/ChrisW/4317/1583.ts
+#EXTINF:0,AR : OSN Al Youm
+http://149.56.31.188:25461/live/ChrisW/4317/1718.ts
+#EXTINF:0,AR : OSN AL Youm HD
+http://149.56.31.188:25461/live/ChrisW/4317/1670.ts
+#EXTINF:0,AR : OSN Alkass Sport 1
+http://149.56.31.188:25461/live/ChrisW/4317/1717.ts
+#EXTINF:0,AR : OSN Alkass Sport 2
+http://149.56.31.188:25461/live/ChrisW/4317/1716.ts
+#EXTINF:0,AR : OSN Alkass Sport 3
+http://149.56.31.188:25461/live/ChrisW/4317/1715.ts
+#EXTINF:0,AR : OSN Alkass Sport 4
+http://149.56.31.188:25461/live/ChrisW/4317/1714.ts
+#EXTINF:0,AR : OSN Alkass Sport 5
+http://149.56.31.188:25461/live/ChrisW/4317/1713.ts
+#EXTINF:0,AR : OSN Animal Planet
+http://149.56.31.188:25461/live/ChrisW/4317/1712.ts
+#EXTINF:0,AR : OSN Art Aflam 2
+http://149.56.31.188:25461/live/ChrisW/4317/1711.ts
+#EXTINF:0,AR : OSN Art Hekayat 1
+http://149.56.31.188:25461/live/ChrisW/4317/1710.ts
+#EXTINF:0,AR : OSN B4U Aflam
+http://149.56.31.188:25461/live/ChrisW/4317/1582.ts
+#EXTINF:0,AR : OSN B4U Plus
+http://149.56.31.188:25461/live/ChrisW/4317/1581.ts
+#EXTINF:0,AR : OSN BBC FIRST HD
+http://149.56.31.188:25461/live/ChrisW/4317/1762.ts
+#EXTINF:0,AR : OSN Box Office 1
+http://149.56.31.188:25461/live/ChrisW/4317/1709.ts
+#EXTINF:0,AR : OSN BOXOFFICE 2
+http://149.56.31.188:25461/live/ChrisW/4317/1669.ts
+#EXTINF:0,AR : OSN DISCOVERY FAMILY HD
+http://149.56.31.188:25461/live/ChrisW/4317/1761.ts
+#EXTINF:0,AR : OSN Discovery I.D
+http://149.56.31.188:25461/live/ChrisW/4317/1708.ts
+#EXTINF:0,AR : OSN Discovery Science
+http://149.56.31.188:25461/live/ChrisW/4317/1707.ts
+#EXTINF:0,AR : OSN Disney Channel HD
+http://149.56.31.188:25461/live/ChrisW/4317/1760.ts
+#EXTINF:0,AR : OSN Fann
+http://149.56.31.188:25461/live/ChrisW/4317/1580.ts
+#EXTINF:0,AR : OSN Fatafeat
+http://149.56.31.188:25461/live/ChrisW/4317/1579.ts
+#EXTINF:0,AR : OSN Fine Living HD
+http://149.56.31.188:25461/live/ChrisW/4317/1578.ts
+#EXTINF:0,AR : OSN First
+http://149.56.31.188:25461/live/ChrisW/4317/1706.ts
+#EXTINF:0,AR : OSN First Comedy
+http://149.56.31.188:25461/live/ChrisW/4317/1705.ts
+#EXTINF:0,AR : OSN First HBO
+http://149.56.31.188:25461/live/ChrisW/4317/1577.ts
+#EXTINF:0,AR : OSN Fox News HD
+http://149.56.31.188:25461/live/ChrisW/4317/1576.ts
+#EXTINF:0,AR : OSN MBC Drama
+http://149.56.31.188:25461/live/ChrisW/4317/1704.ts
+#EXTINF:0,AR : OSN MBC Plus Drama
+http://149.56.31.188:25461/live/ChrisW/4317/1703.ts
+#EXTINF:0,AR : OSN Mousalsalat
+http://149.56.31.188:25461/live/ChrisW/4317/1575.ts
+#EXTINF:0,AR : OSN Movies 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1755.ts
+#EXTINF:0,AR : OSN Movies Action  2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1754.ts
+#EXTINF:0,AR : OSN Movies Festival
+http://149.56.31.188:25461/live/ChrisW/4317/1702.ts
+#EXTINF:0,AR : OSN Movies Kids
+http://149.56.31.188:25461/live/ChrisW/4317/1701.ts
+#EXTINF:0,AR : OSN Movies Premiere 2
+http://149.56.31.188:25461/live/ChrisW/4317/1700.ts
+#EXTINF:0,AR : OSN Movies Premiere 2HD
+http://149.56.31.188:25461/live/ChrisW/4317/1668.ts
+#EXTINF:0,AR : OSN MTV LIVE HD
+http://149.56.31.188:25461/live/ChrisW/4317/1759.ts
+#EXTINF:0,AR : OSN Nat Geo HD
+http://149.56.31.188:25461/live/ChrisW/4317/1758.ts
+#EXTINF:0,AR : OSN Nat Geo People HD
+http://149.56.31.188:25461/live/ChrisW/4317/1757.ts
+#EXTINF:0,AR : OSN Nat Geo Wild
+http://149.56.31.188:25461/live/ChrisW/4317/1699.ts
+#EXTINF:0,AR : OSN NEWS
+http://149.56.31.188:25461/live/ChrisW/4317/1752.ts
+#EXTINF:0,AR : OSN Nickelodeon HD
+http://149.56.31.188:25461/live/ChrisW/4317/1756.ts
+#EXTINF:0,AR : OSN ON DEMAND 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1574.ts
+#EXTINF:0,AR : OSN ON DEMAND 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1573.ts
+#EXTINF:0,AR : OSN ON DEMAND 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1572.ts
+#EXTINF:0,AR : OSN On Demand Extra 1
+http://149.56.31.188:25461/live/ChrisW/4317/1571.ts
+#EXTINF:0,AR : OSN ON DEMAND EXTRA 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1570.ts
+#EXTINF:0,AR : OSN OSN Movies HD
+http://149.56.31.188:25461/live/ChrisW/4317/1753.ts
+#EXTINF:0,AR : OSN OSN SPORT FIGHTNETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/1751.ts
+#EXTINF:0,AR : OSN OSN SyFy HD
+http://149.56.31.188:25461/live/ChrisW/4317/1750.ts
+#EXTINF:0,AR : OSN OSN TLC HD
+http://149.56.31.188:25461/live/ChrisW/4317/1749.ts
+#EXTINF:0,AR : OSN OSN Yahala Drama HD
+http://149.56.31.188:25461/live/ChrisW/4317/1746.ts
+#EXTINF:0,AR : OSN Star Movies HD
+http://149.56.31.188:25461/live/ChrisW/4317/1745.ts
+#EXTINF:0,AR : OSN Star World HD
+http://149.56.31.188:25461/live/ChrisW/4317/1744.ts
+#EXTINF:0,AR : OSN TRACE URBAN
+http://149.56.31.188:25461/live/ChrisW/4317/1743.ts
+#EXTINF:0,AR : OSN Travel Channel HD
+http://149.56.31.188:25461/live/ChrisW/4317/1742.ts
+#EXTINF:0,AR : OSN WWE
+http://149.56.31.188:25461/live/ChrisW/4317/1748.ts
+#EXTINF:0,AR : OSN Yahala Cinema
+http://149.56.31.188:25461/live/ChrisW/4317/1747.ts
+#EXTINF:0,AR : qurantv
+http://149.56.31.188:25461/live/ChrisW/4317/1667.ts
+#EXTINF:0,AR : Rotana clip
+http://149.56.31.188:25461/live/ChrisW/4317/1666.ts
+#EXTINF:0,AR : ROTANA KHALIJIAH
+http://149.56.31.188:25461/live/ChrisW/4317/1665.ts
+#EXTINF:0,AR : Rotana Masria
+http://149.56.31.188:25461/live/ChrisW/4317/1664.ts
+#EXTINF:0,AR : Samira_Tv
+http://149.56.31.188:25461/live/ChrisW/4317/1663.ts
+#EXTINF:0,AR : saudi cultural tv
+http://149.56.31.188:25461/live/ChrisW/4317/1662.ts
+#EXTINF:0,AR : saudi1 tv
+http://149.56.31.188:25461/live/ChrisW/4317/1661.ts
+#EXTINF:0,AR : saudi2 tv
+http://149.56.31.188:25461/live/ChrisW/4317/1660.ts
+#EXTINF:0,AR : sunnatv
+http://149.56.31.188:25461/live/ChrisW/4317/1659.ts
+#EXTINF:0,AR : TAMAZIGHT MAROC
+http://149.56.31.188:25461/live/ChrisW/4317/1658.ts
+#EXTINF:0,AR : TUNISIA 1
+http://149.56.31.188:25461/live/ChrisW/4317/1684.ts
+#EXTINF:0,AR : ZEE AFLAM
+http://149.56.31.188:25461/live/ChrisW/4317/1657.ts
+#EXTINF:0,AR : Zee Alwan
+http://149.56.31.188:25461/live/ChrisW/4317/1656.ts
+#EXTINF:0,AR | beIN SPorts
+http://149.56.31.188:25461/live/ChrisW/4317/1655.ts
+#EXTINF:0,AR | beIN Sports 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1654.ts
+#EXTINF:0,AR | beIN Sports 10 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1653.ts
+#EXTINF:0,AR | beIN Sports 11 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1652.ts
+#EXTINF:0,AR | beIN Sports 12 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1651.ts
+#EXTINF:0,AR | beIN Sports 13 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1650.ts
+#EXTINF:0,AR | beIN Sports 14 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1649.ts
+#EXTINF:0,AR | Bein Sports 15 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1648.ts
+#EXTINF:0,AR | Bein Sports 16 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1647.ts
+#EXTINF:0,AR | Bein Sports 17 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1646.ts
+#EXTINF:0,AR | beIN Sports 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1645.ts
+#EXTINF:0,AR | beIN Sports 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1644.ts
+#EXTINF:0,AR | beIN Sports 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1643.ts
+#EXTINF:0,AR | beIN Sports 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1642.ts
+#EXTINF:0,AR | beIN Sports 6 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1641.ts
+#EXTINF:0,AR | beIN Sports 7 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1640.ts
+#EXTINF:0,AR | beIN Sports 8 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1639.ts
+#EXTINF:0,AR | beIN Sports 9 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1638.ts
+#EXTINF:0,AR: 2m Maroc
+http://149.56.31.188:25461/live/ChrisW/4317/1637.ts
+#EXTINF:0,AR: AD Sports 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1741.ts
+#EXTINF:0,AR: AD Sports 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1740.ts
+#EXTINF:0,AR: AD Sports 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1739.ts
+#EXTINF:0,AR: AD Sports 6 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1738.ts
+#EXTINF:0,AR: Al Aoula
+http://149.56.31.188:25461/live/ChrisW/4317/1636.ts
+#EXTINF:0,AR: Al-Oula
+http://149.56.31.188:25461/live/ChrisW/4317/1635.ts
+#EXTINF:0,AR: Almaghribia
+http://149.56.31.188:25461/live/ChrisW/4317/1634.ts
+#EXTINF:0,AR: Arrabiaa
+http://149.56.31.188:25461/live/ChrisW/4317/1633.ts
+#EXTINF:0,AR: Arriadia
+http://149.56.31.188:25461/live/ChrisW/4317/1632.ts
+#EXTINF:0,AR: ARRIYADIA
+http://149.56.31.188:25461/live/ChrisW/4317/1631.ts
+#EXTINF:0,AR: ART AFLAM 1
+http://149.56.31.188:25461/live/ChrisW/4317/1630.ts
+#EXTINF:0,AR: ART AFLAM 2
+http://149.56.31.188:25461/live/ChrisW/4317/1629.ts
+#EXTINF:0,AR: ART CINEMA
+http://149.56.31.188:25461/live/ChrisW/4317/1628.ts
+#EXTINF:0,AR: ART HEKAYAT 1
+http://149.56.31.188:25461/live/ChrisW/4317/1627.ts
+#EXTINF:0,AR: Assadissa
+http://149.56.31.188:25461/live/ChrisW/4317/1626.ts
+#EXTINF:0,AR: BEIN MOVIES 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1593.ts
+#EXTINF:0,AR: CBC
+http://149.56.31.188:25461/live/ChrisW/4317/1625.ts
+#EXTINF:0,AR: CBC Drama
+http://149.56.31.188:25461/live/ChrisW/4317/1624.ts
+#EXTINF:0,AR: CBC Extra
+http://149.56.31.188:25461/live/ChrisW/4317/1623.ts
+#EXTINF:0,AR: CBC Sofra
+http://149.56.31.188:25461/live/ChrisW/4317/1622.ts
+#EXTINF:0,AR: Dubai 1
+http://149.56.31.188:25461/live/ChrisW/4317/1737.ts
+#EXTINF:0,AR: Dubai One
+http://149.56.31.188:25461/live/ChrisW/4317/1736.ts
+#EXTINF:0,AR: Dubai Racing 2
+http://149.56.31.188:25461/live/ChrisW/4317/1735.ts
+#EXTINF:0,AR: Dubai Sport 3
+http://149.56.31.188:25461/live/ChrisW/4317/1734.ts
+#EXTINF:0,AR: Dubai Sports 1
+http://149.56.31.188:25461/live/ChrisW/4317/1733.ts
+#EXTINF:0,AR: Dubai Sports 4
+http://149.56.31.188:25461/live/ChrisW/4317/1732.ts
+#EXTINF:0,AR: DUBAI ZAMAN
+http://149.56.31.188:25461/live/ChrisW/4317/1621.ts
+#EXTINF:0,AR: France 24 AR
+http://149.56.31.188:25461/live/ChrisW/4317/1620.ts
+#EXTINF:0,AR: MBC 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1731.ts
+#EXTINF:0,AR: MBC 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1730.ts
+#EXTINF:0,AR: MBC 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1729.ts
+#EXTINF:0,AR: MBC 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1728.ts
+#EXTINF:0,AR: MBC ACTION
+http://149.56.31.188:25461/live/ChrisW/4317/1619.ts
+#EXTINF:0,AR: MBC Action HD
+http://149.56.31.188:25461/live/ChrisW/4317/1727.ts
+#EXTINF:0,AR: MBC Drama HD
+http://149.56.31.188:25461/live/ChrisW/4317/1726.ts
+#EXTINF:0,AR: MBC Masr
+http://149.56.31.188:25461/live/ChrisW/4317/1618.ts
+#EXTINF:0,AR: MBC Max HD
+http://149.56.31.188:25461/live/ChrisW/4317/1725.ts
+#EXTINF:0,AR: MBC Variety HD
+http://149.56.31.188:25461/live/ChrisW/4317/1724.ts
+#EXTINF:0,AR: Medi 1 Sat
+http://149.56.31.188:25461/live/ChrisW/4317/1617.ts
+#EXTINF:0,AR: NationalGeo AD
+http://149.56.31.188:25461/live/ChrisW/4317/1616.ts
+#EXTINF:0,AR: NESSMA
+http://149.56.31.188:25461/live/ChrisW/4317/1592.ts
+#EXTINF:0,AR: OSN  Ya Hala! SHABAB HD
+http://149.56.31.188:25461/live/ChrisW/4317/1611.ts
+#EXTINF:0,AR: OSN ITV Choice
+http://149.56.31.188:25461/live/ChrisW/4317/1569.ts
+#EXTINF:0,AR: OSN MOVIE COMEDY HD
+http://149.56.31.188:25461/live/ChrisW/4317/1615.ts
+#EXTINF:0,AR: OSN MOVIES ACTION HD
+http://149.56.31.188:25461/live/ChrisW/4317/1614.ts
+#EXTINF:0,AR: OSN Movies Drama
+http://149.56.31.188:25461/live/ChrisW/4317/1613.ts
+#EXTINF:0,AR: OSN MOVIES PREMIERE HD
+http://149.56.31.188:25461/live/ChrisW/4317/1612.ts
+#EXTINF:0,AR: OSN Sports 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1766.ts
+#EXTINF:0,AR: OSN Sports 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1765.ts
+#EXTINF:0,AR: OSN Sports 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1764.ts
+#EXTINF:0,AR: OSN Sports 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1763.ts
+#EXTINF:0,AR: OSN YAHALA HD
+http://149.56.31.188:25461/live/ChrisW/4317/1610.ts
+#EXTINF:0,AR: Otv Tv Lebanon
+http://149.56.31.188:25461/live/ChrisW/4317/1609.ts
+#EXTINF:0,AR: Rotana Aflam HD
+http://149.56.31.188:25461/live/ChrisW/4317/1585.ts
+#EXTINF:0,AR: Rotana Cinema HD
+http://149.56.31.188:25461/live/ChrisW/4317/1586.ts
+#EXTINF:0,AR: Rotana Classic HD
+http://149.56.31.188:25461/live/ChrisW/4317/1587.ts
+#EXTINF:0,AR: Rotana Khalijiah HD
+http://149.56.31.188:25461/live/ChrisW/4317/1588.ts
+#EXTINF:0,AR: Rotana Masriah HD
+http://149.56.31.188:25461/live/ChrisW/4317/1589.ts
+#EXTINF:0,AR: Rotana Music HD
+http://149.56.31.188:25461/live/ChrisW/4317/1590.ts
+#EXTINF:0,AR: Semsem
+http://149.56.31.188:25461/live/ChrisW/4317/1607.ts
+#EXTINF:0,AR: Sky News Arabic
+http://149.56.31.188:25461/live/ChrisW/4317/1606.ts
+#EXTINF:0,AR: Syria News
+http://149.56.31.188:25461/live/ChrisW/4317/1605.ts
+#EXTINF:0,AR: Tamazight
+http://149.56.31.188:25461/live/ChrisW/4317/1604.ts
+#EXTINF:0,AR: TOYOURALJANAH_TV
+http://149.56.31.188:25461/live/ChrisW/4317/1591.ts
+#EXTINF:0,AR: TRT Arabic
+http://149.56.31.188:25461/live/ChrisW/4317/1608.ts
+#EXTINF:0,AR:AlJazerra
+http://149.56.31.188:25461/live/ChrisW/4317/1603.ts
+#EXTINF:0,AR:Almajd_Kids
+http://149.56.31.188:25461/live/ChrisW/4317/1602.ts
+#EXTINF:0,AR:B4U-AFLAM
+http://149.56.31.188:25461/live/ChrisW/4317/1601.ts
+#EXTINF:0,AR:Future TV
+http://149.56.31.188:25461/live/ChrisW/4317/1600.ts
+#EXTINF:0,AR:MBC DRAMA
+http://149.56.31.188:25461/live/ChrisW/4317/1599.ts
+#EXTINF:0,AR:MBC2
+http://149.56.31.188:25461/live/ChrisW/4317/1598.ts
+#EXTINF:0,AR:Panorama-Comedy
+http://149.56.31.188:25461/live/ChrisW/4317/1597.ts
+#EXTINF:0,AR:Panorama-Film
+http://149.56.31.188:25461/live/ChrisW/4317/1596.ts
+#EXTINF:0,AR:rotana_cinema
+http://149.56.31.188:25461/live/ChrisW/4317/1595.ts
+#EXTINF:0,ARB:TOYOR ALJANNAH
+http://149.56.31.188:25461/live/ChrisW/4317/1594.ts
+#EXTINF:0,DK :  C More Emotion
+http://149.56.31.188:25461/live/ChrisW/4317/1516.ts
+#EXTINF:0,DK :  C More First
+http://149.56.31.188:25461/live/ChrisW/4317/1515.ts
+#EXTINF:0,DK :  C MORE HITS
+http://149.56.31.188:25461/live/ChrisW/4317/1514.ts
+#EXTINF:0,DK :  C MORE SERIES
+http://149.56.31.188:25461/live/ChrisW/4317/1513.ts
+#EXTINF:0,DK :  CANAL 9 DK
+http://149.56.31.188:25461/live/ChrisW/4317/1512.ts
+#EXTINF:0,DK :  Nat Geo
+http://149.56.31.188:25461/live/ChrisW/4317/1511.ts
+#EXTINF:0,DK : 6 Eren
+http://149.56.31.188:25461/live/ChrisW/4317/1510.ts
+#EXTINF:0,DK : ANIMAL PLANET HD
+http://149.56.31.188:25461/live/ChrisW/4317/1502.ts
+#EXTINF:0,DK : C More Extreme
+http://149.56.31.188:25461/live/ChrisW/4317/1509.ts
+#EXTINF:0,DK : C More Fotboll
+http://149.56.31.188:25461/live/ChrisW/4317/1508.ts
+#EXTINF:0,DK : C More Live
+http://149.56.31.188:25461/live/ChrisW/4317/1507.ts
+#EXTINF:0,DK : C More Sport
+http://149.56.31.188:25461/live/ChrisW/4317/1506.ts
+#EXTINF:0,DK : CARTOON NETWORK
+http://149.56.31.188:25461/live/ChrisW/4317/1501.ts
+#EXTINF:0,DK : COMEDY CENTRAL
+http://149.56.31.188:25461/live/ChrisW/4317/1500.ts
+#EXTINF:0,DK : DISCOVERY CHANNEL HD
+http://149.56.31.188:25461/live/ChrisW/4317/1499.ts
+#EXTINF:0,DK : DISNEY CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/1498.ts
+#EXTINF:0,DK : Disney Channel (D)
+http://149.56.31.188:25461/live/ChrisW/4317/1505.ts
+#EXTINF:0,DK : Disney XD
+http://149.56.31.188:25461/live/ChrisW/4317/1504.ts
+#EXTINF:0,DK : DK 4
+http://149.56.31.188:25461/live/ChrisW/4317/1497.ts
+#EXTINF:0,DK : DR 1
+http://149.56.31.188:25461/live/ChrisW/4317/1503.ts
+#EXTINF:0,DK : DR 2
+http://149.56.31.188:25461/live/ChrisW/4317/1463.ts
+#EXTINF:0,DK : DR K
+http://149.56.31.188:25461/live/ChrisW/4317/1496.ts
+#EXTINF:0,DK : DR RAMASJANG
+http://149.56.31.188:25461/live/ChrisW/4317/1495.ts
+#EXTINF:0,DK : DR ULTRA
+http://149.56.31.188:25461/live/ChrisW/4317/1494.ts
+#EXTINF:0,DK : Kanal 4
+http://149.56.31.188:25461/live/ChrisW/4317/1462.ts
+#EXTINF:0,DK : KANAL 5
+http://149.56.31.188:25461/live/ChrisW/4317/1461.ts
+#EXTINF:0,DK : KANAL 9
+http://149.56.31.188:25461/live/ChrisW/4317/1493.ts
+#EXTINF:0,DK : NRK 1
+http://149.56.31.188:25461/live/ChrisW/4317/1492.ts
+#EXTINF:0,DK : TV 2 CHARLIE
+http://149.56.31.188:25461/live/ChrisW/4317/1491.ts
+#EXTINF:0,DK : TV 2 FRI
+http://149.56.31.188:25461/live/ChrisW/4317/1490.ts
+#EXTINF:0,DK : TV 2 LORRY
+http://149.56.31.188:25461/live/ChrisW/4317/1489.ts
+#EXTINF:0,DK : TV 2 NEWS
+http://149.56.31.188:25461/live/ChrisW/4317/1488.ts
+#EXTINF:0,DK : TV 2 NORD
+http://149.56.31.188:25461/live/ChrisW/4317/1487.ts
+#EXTINF:0,DK : TV 2 NORGE
+http://149.56.31.188:25461/live/ChrisW/4317/1486.ts
+#EXTINF:0,DK : TV 2 OST
+http://149.56.31.188:25461/live/ChrisW/4317/1485.ts
+#EXTINF:0,DK : TV 2 SPORT
+http://149.56.31.188:25461/live/ChrisW/4317/1484.ts
+#EXTINF:0,DK : TV 2 ZEBRA
+http://149.56.31.188:25461/live/ChrisW/4317/1483.ts
+#EXTINF:0,DK : TV 2 ZULU
+http://149.56.31.188:25461/live/ChrisW/4317/1482.ts
+#EXTINF:0,DK : TV 3
+http://149.56.31.188:25461/live/ChrisW/4317/1460.ts
+#EXTINF:0,DK : TV 3 SPORT 1
+http://149.56.31.188:25461/live/ChrisW/4317/1481.ts
+#EXTINF:0,DK : TV 3 SPORT 2
+http://149.56.31.188:25461/live/ChrisW/4317/1480.ts
+#EXTINF:0,DK : TV 6
+http://149.56.31.188:25461/live/ChrisW/4317/1479.ts
+#EXTINF:0,DK : TV NORGE
+http://149.56.31.188:25461/live/ChrisW/4317/1478.ts
+#EXTINF:0,DK : TV2 MIDT-VEST
+http://149.56.31.188:25461/live/ChrisW/4317/1477.ts
+#EXTINF:0,DK : TV2 NEWS
+http://149.56.31.188:25461/live/ChrisW/4317/1459.ts
+#EXTINF:0,DK : TV3 Denmark
+http://149.56.31.188:25461/live/ChrisW/4317/1458.ts
+#EXTINF:0,DK : TV3 Puls
+http://149.56.31.188:25461/live/ChrisW/4317/1457.ts
+#EXTINF:0,DK : TV3 SPORT 1
+http://149.56.31.188:25461/live/ChrisW/4317/1456.ts
+#EXTINF:0,DK : TV3 SPORT 2
+http://149.56.31.188:25461/live/ChrisW/4317/1455.ts
+#EXTINF:0,DK : VFILM ACTION
+http://149.56.31.188:25461/live/ChrisW/4317/1454.ts
+#EXTINF:0,DK : VFILM FAMILY
+http://149.56.31.188:25461/live/ChrisW/4317/1453.ts
+#EXTINF:0,DK : VFILM PREMIER
+http://149.56.31.188:25461/live/ChrisW/4317/1452.ts
+#EXTINF:0,DK : VIASAT EXPLORE
+http://149.56.31.188:25461/live/ChrisW/4317/1476.ts
+#EXTINF:0,DK : VIASAT FILM ACTION
+http://149.56.31.188:25461/live/ChrisW/4317/1475.ts
+#EXTINF:0,DK : VIASAT FILM COMEDY
+http://149.56.31.188:25461/live/ChrisW/4317/1474.ts
+#EXTINF:0,DK : VIASAT FILM FAMILY
+http://149.56.31.188:25461/live/ChrisW/4317/1473.ts
+#EXTINF:0,DK : VIASAT FILM HITS
+http://149.56.31.188:25461/live/ChrisW/4317/1472.ts
+#EXTINF:0,DK : VIASAT FILM PREMIERE
+http://149.56.31.188:25461/live/ChrisW/4317/1471.ts
+#EXTINF:0,DK : VIASAT FOTBOLL
+http://149.56.31.188:25461/live/ChrisW/4317/1451.ts
+#EXTINF:0,DK : VIASAT GOLF
+http://149.56.31.188:25461/live/ChrisW/4317/1470.ts
+#EXTINF:0,DK : VIASAT HISTORY
+http://149.56.31.188:25461/live/ChrisW/4317/1469.ts
+#EXTINF:0,DK : VIASAT HOCKEY
+http://149.56.31.188:25461/live/ChrisW/4317/1468.ts
+#EXTINF:0,DK : VIASAT MOTOR
+http://149.56.31.188:25461/live/ChrisW/4317/1467.ts
+#EXTINF:0,DK : VIASAT NATURE
+http://149.56.31.188:25461/live/ChrisW/4317/1466.ts
+#EXTINF:0,DK : VIASAT SERIES
+http://149.56.31.188:25461/live/ChrisW/4317/1465.ts
+#EXTINF:0,DK : VIASAT SPORT
+http://149.56.31.188:25461/live/ChrisW/4317/1464.ts
+#EXTINF:0,DK: 3 Plus
+http://149.56.31.188:25461/live/ChrisW/4317/1450.ts
+#EXTINF:0,DK: DK4
+http://149.56.31.188:25461/live/ChrisW/4317/1448.ts
+#EXTINF:0,DK: DR1
+http://149.56.31.188:25461/live/ChrisW/4317/1449.ts
+#EXTINF:0,DK: Kanal TV5
+http://149.56.31.188:25461/live/ChrisW/4317/1447.ts
+#EXTINF:0,DK: TV2 Fri
+http://149.56.31.188:25461/live/ChrisW/4317/1446.ts
+#EXTINF:0,DK: TV2 News
+http://149.56.31.188:25461/live/ChrisW/4317/1445.ts
+#EXTINF:0,DK: TV2 Zulu
+http://149.56.31.188:25461/live/ChrisW/4317/1444.ts
+#EXTINF:0,DK: TV3
+http://149.56.31.188:25461/live/ChrisW/4317/1443.ts
+#EXTINF:0,DK: TV3 Puls
+http://149.56.31.188:25461/live/ChrisW/4317/1442.ts
+#EXTINF:0,IR : AAA Family
+http://149.56.31.188:25461/live/ChrisW/4317/1441.ts
+#EXTINF:0,IR : AAA MUSIC
+http://149.56.31.188:25461/live/ChrisW/4317/1440.ts
+#EXTINF:0,IR : Almas
+http://149.56.31.188:25461/live/ChrisW/4317/1439.ts
+#EXTINF:0,IR : BBC Persian
+http://149.56.31.188:25461/live/ChrisW/4317/1438.ts
+#EXTINF:0,IR : Channel One
+http://149.56.31.188:25461/live/ChrisW/4317/1437.ts
+#EXTINF:0,IR : Didar TV
+http://149.56.31.188:25461/live/ChrisW/4317/1436.ts
+#EXTINF:0,IR : Didgah TV
+http://149.56.31.188:25461/live/ChrisW/4317/1435.ts
+#EXTINF:0,IR : Farsi 1
+http://149.56.31.188:25461/live/ChrisW/4317/1434.ts
+#EXTINF:0,IR : Gem Bollywood
+http://149.56.31.188:25461/live/ChrisW/4317/1433.ts
+#EXTINF:0,IR : Gem Junior
+http://149.56.31.188:25461/live/ChrisW/4317/1432.ts
+#EXTINF:0,IR : Gem Kurd
+http://149.56.31.188:25461/live/ChrisW/4317/1431.ts
+#EXTINF:0,IR : Gem Life
+http://149.56.31.188:25461/live/ChrisW/4317/1430.ts
+#EXTINF:0,IR : Gem TV
+http://149.56.31.188:25461/live/ChrisW/4317/1429.ts
+#EXTINF:0,IR : Gem USA TV
+http://149.56.31.188:25461/live/ChrisW/4317/1428.ts
+#EXTINF:0,IR : Ifilm
+http://149.56.31.188:25461/live/ChrisW/4317/1427.ts
+#EXTINF:0,IR : Iran ASTV
+http://149.56.31.188:25461/live/ChrisW/4317/1426.ts
+#EXTINF:0,IR : Iran ATV
+http://149.56.31.188:25461/live/ChrisW/4317/1425.ts
+#EXTINF:0,IR : Iran FM
+http://149.56.31.188:25461/live/ChrisW/4317/1424.ts
+#EXTINF:0,IR : Iran MNTV
+http://149.56.31.188:25461/live/ChrisW/4317/1423.ts
+#EXTINF:0,IR : Irib 1
+http://149.56.31.188:25461/live/ChrisW/4317/1422.ts
+#EXTINF:0,IR : Irib 2
+http://149.56.31.188:25461/live/ChrisW/4317/1421.ts
+#EXTINF:0,IR : Irib 3
+http://149.56.31.188:25461/live/ChrisW/4317/1420.ts
+#EXTINF:0,IR : Irib 4
+http://149.56.31.188:25461/live/ChrisW/4317/1419.ts
+#EXTINF:0,IR : Irib 5
+http://149.56.31.188:25461/live/ChrisW/4317/1418.ts
+#EXTINF:0,IR : Irib Amoozesh
+http://149.56.31.188:25461/live/ChrisW/4317/1417.ts
+#EXTINF:0,IR : Irib Bazar
+http://149.56.31.188:25461/live/ChrisW/4317/1416.ts
+#EXTINF:0,IR : Irib Mostanad
+http://149.56.31.188:25461/live/ChrisW/4317/1415.ts
+#EXTINF:0,IR : Irib Namayesh
+http://149.56.31.188:25461/live/ChrisW/4317/1414.ts
+#EXTINF:0,IR : Irib Nasim
+http://149.56.31.188:25461/live/ChrisW/4317/1413.ts
+#EXTINF:0,IR : Irib Pooya
+http://149.56.31.188:25461/live/ChrisW/4317/1412.ts
+#EXTINF:0,IR : Irib Quran
+http://149.56.31.188:25461/live/ChrisW/4317/1411.ts
+#EXTINF:0,IR : Irib Salamat
+http://149.56.31.188:25461/live/ChrisW/4317/1410.ts
+#EXTINF:0,IR : Irib Shoma
+http://149.56.31.188:25461/live/ChrisW/4317/1409.ts
+#EXTINF:0,IR : Irib Varzesh
+http://149.56.31.188:25461/live/ChrisW/4317/1408.ts
+#EXTINF:0,IR : Irinn TV
+http://149.56.31.188:25461/live/ChrisW/4317/1407.ts
+#EXTINF:0,IR : ITC TV
+http://149.56.31.188:25461/live/ChrisW/4317/1406.ts
+#EXTINF:0,IR : ITN TV
+http://149.56.31.188:25461/live/ChrisW/4317/1405.ts
+#EXTINF:0,IR : Jame Jam 1
+http://149.56.31.188:25461/live/ChrisW/4317/1404.ts
+#EXTINF:0,IR : Jame jam 2
+http://149.56.31.188:25461/live/ChrisW/4317/1403.ts
+#EXTINF:0,IR : Kliksat
+http://149.56.31.188:25461/live/ChrisW/4317/1402.ts
+#EXTINF:0,IR : KURDISTAN
+http://149.56.31.188:25461/live/ChrisW/4317/1401.ts
+#EXTINF:0,IR : Kuwait 3 Sport
+http://149.56.31.188:25461/live/ChrisW/4317/1400.ts
+#EXTINF:0,IR : Manoto 1
+http://149.56.31.188:25461/live/ChrisW/4317/1399.ts
+#EXTINF:0,IR : Merci TV
+http://149.56.31.188:25461/live/ChrisW/4317/1398.ts
+#EXTINF:0,IR : MI TV
+http://149.56.31.188:25461/live/ChrisW/4317/1397.ts
+#EXTINF:0,IR : Mifa TV
+http://149.56.31.188:25461/live/ChrisW/4317/1396.ts
+#EXTINF:0,IR : MYTV
+http://149.56.31.188:25461/live/ChrisW/4317/1395.ts
+#EXTINF:0,IR : Nex1 TV
+http://149.56.31.188:25461/live/ChrisW/4317/1394.ts
+#EXTINF:0,IR : ONYX
+http://149.56.31.188:25461/live/ChrisW/4317/1393.ts
+#EXTINF:0,IR : Pars TV
+http://149.56.31.188:25461/live/ChrisW/4317/1392.ts
+#EXTINF:0,IR : Payame
+http://149.56.31.188:25461/live/ChrisW/4317/1391.ts
+#EXTINF:0,IR : Persian Movie
+http://149.56.31.188:25461/live/ChrisW/4317/1390.ts
+#EXTINF:0,IR : Persian Star 1
+http://149.56.31.188:25461/live/ChrisW/4317/1389.ts
+#EXTINF:0,IR : Persian Star 2
+http://149.56.31.188:25461/live/ChrisW/4317/1388.ts
+#EXTINF:0,IR : PMC TV
+http://149.56.31.188:25461/live/ChrisW/4317/1387.ts
+#EXTINF:0,IR : River TV
+http://149.56.31.188:25461/live/ChrisW/4317/1386.ts
+#EXTINF:0,IR : Royal Time TV
+http://149.56.31.188:25461/live/ChrisW/4317/1385.ts
+#EXTINF:0,IR : Rubix TV
+http://149.56.31.188:25461/live/ChrisW/4317/1384.ts
+#EXTINF:0,IR : Ti Tapesh
+http://149.56.31.188:25461/live/ChrisW/4317/1383.ts
+#EXTINF:0,IR : Tik TV
+http://149.56.31.188:25461/live/ChrisW/4317/1382.ts
+#EXTINF:0,IR : Tin TV
+http://149.56.31.188:25461/live/ChrisW/4317/1381.ts
+#EXTINF:0,IR : TM TV
+http://149.56.31.188:25461/live/ChrisW/4317/1380.ts
+#EXTINF:0,IR : TV Persia
+http://149.56.31.188:25461/live/ChrisW/4317/1379.ts
+#EXTINF:0,IR : VOA Persian 1
+http://149.56.31.188:25461/live/ChrisW/4317/1378.ts
+#EXTINF:0,RUS: 24 Doc
+http://149.56.31.188:25461/live/ChrisW/4317/1377.ts
+#EXTINF:0,RUS: 3 world
+http://149.56.31.188:25461/live/ChrisW/4317/1366.ts
+#EXTINF:0,RUS: Amedia 1
+http://149.56.31.188:25461/live/ChrisW/4317/1365.ts
+#EXTINF:0,RUS: Amedia 2
+http://149.56.31.188:25461/live/ChrisW/4317/1364.ts
+#EXTINF:0,RUS: Animal Planet
+http://149.56.31.188:25461/live/ChrisW/4317/1376.ts
+#EXTINF:0,RUS: BOXE
+http://149.56.31.188:25461/live/ChrisW/4317/1363.ts
+#EXTINF:0,RUS: buy the home tv
+http://149.56.31.188:25461/live/ChrisW/4317/1362.ts
+#EXTINF:0,RUS: channel_6 TV
+http://149.56.31.188:25461/live/ChrisW/4317/1361.ts
+#EXTINF:0,RUS: Discovery
+http://149.56.31.188:25461/live/ChrisW/4317/1375.ts
+#EXTINF:0,RUS: Discovery Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1374.ts
+#EXTINF:0,RUS: Dom Kino
+http://149.56.31.188:25461/live/ChrisW/4317/1360.ts
+#EXTINF:0,RUS: HAWE HD
+http://149.56.31.188:25461/live/ChrisW/4317/1331.ts
+#EXTINF:0,RUS: HD Life
+http://149.56.31.188:25461/live/ChrisW/4317/1373.ts
+#EXTINF:0,RUS: hello tv
+http://149.56.31.188:25461/live/ChrisW/4317/1359.ts
+#EXTINF:0,RUS: kherson
+http://149.56.31.188:25461/live/ChrisW/4317/1358.ts
+#EXTINF:0,RUS: Kino Hit
+http://149.56.31.188:25461/live/ChrisW/4317/1357.ts
+#EXTINF:0,RUS: Match Apeha HD
+http://149.56.31.188:25461/live/ChrisW/4317/1330.ts
+#EXTINF:0,RUS: Match Futbol 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1329.ts
+#EXTINF:0,RUS: Match Futbol 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1328.ts
+#EXTINF:0,RUS: Match Futbol 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1327.ts
+#EXTINF:0,RUS: Match Sports
+http://149.56.31.188:25461/live/ChrisW/4317/1326.ts
+#EXTINF:0,RUS: Match TV
+http://149.56.31.188:25461/live/ChrisW/4317/1325.ts
+#EXTINF:0,RUS: Moya Planeta
+http://149.56.31.188:25461/live/ChrisW/4317/1372.ts
+#EXTINF:0,RUS: Nashe Kino
+http://149.56.31.188:25461/live/ChrisW/4317/1356.ts
+#EXTINF:0,RUS: Nat Geo Wild
+http://149.56.31.188:25461/live/ChrisW/4317/1371.ts
+#EXTINF:0,RUS: National Geographic
+http://149.56.31.188:25461/live/ChrisW/4317/1370.ts
+#EXTINF:0,RUS: novosibirsk
+http://149.56.31.188:25461/live/ChrisW/4317/1355.ts
+#EXTINF:0,RUS: oh
+http://149.56.31.188:25461/live/ChrisW/4317/1354.ts
+#EXTINF:0,RUS: One.by russia hd
+http://149.56.31.188:25461/live/ChrisW/4317/1353.ts
+#EXTINF:0,RUS: Outdoor Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1369.ts
+#EXTINF:0,RUS: planet
+http://149.56.31.188:25461/live/ChrisW/4317/1352.ts
+#EXTINF:0,RUS: Premiera
+http://149.56.31.188:25461/live/ChrisW/4317/1324.ts
+#EXTINF:0,RUS: RT Documentary
+http://149.56.31.188:25461/live/ChrisW/4317/1351.ts
+#EXTINF:0,RUS: Russia 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/1323.ts
+#EXTINF:0,RUS: Russia League HD
+http://149.56.31.188:25461/live/ChrisW/4317/1322.ts
+#EXTINF:0,RUS: Sony Turbo
+http://149.56.31.188:25461/live/ChrisW/4317/1368.ts
+#EXTINF:0,RUS: spike tv
+http://149.56.31.188:25461/live/ChrisW/4317/1350.ts
+#EXTINF:0,RUS: Sport Fights
+http://149.56.31.188:25461/live/ChrisW/4317/1321.ts
+#EXTINF:0,RUS: Sportal TV
+http://149.56.31.188:25461/live/ChrisW/4317/1349.ts
+#EXTINF:0,RUS: st.petersburg
+http://149.56.31.188:25461/live/ChrisW/4317/1348.ts
+#EXTINF:0,RUS: stavropol
+http://149.56.31.188:25461/live/ChrisW/4317/1347.ts
+#EXTINF:0,RUS: surgut 1
+http://149.56.31.188:25461/live/ChrisW/4317/1346.ts
+#EXTINF:0,RUS: TBA Life
+http://149.56.31.188:25461/live/ChrisW/4317/1345.ts
+#EXTINF:0,RUS: telplus
+http://149.56.31.188:25461/live/ChrisW/4317/1344.ts
+#EXTINF:0,RUS: the antenna plus
+http://149.56.31.188:25461/live/ChrisW/4317/1343.ts
+#EXTINF:0,RUS: the first/mtv (volgograd)
+http://149.56.31.188:25461/live/ChrisW/4317/1342.ts
+#EXTINF:0,RUS: TKMECKOE time
+http://149.56.31.188:25461/live/ChrisW/4317/1341.ts
+#EXTINF:0,RUS: tnt (kursk)
+http://149.56.31.188:25461/live/ChrisW/4317/1340.ts
+#EXTINF:0,RUS: TV 1000 ??????? ????
+http://149.56.31.188:25461/live/ChrisW/4317/1339.ts
+#EXTINF:0,RUS: TV 1000 Action
+http://149.56.31.188:25461/live/ChrisW/4317/1338.ts
+#EXTINF:0,RUS: tv1000
+http://149.56.31.188:25461/live/ChrisW/4317/1337.ts
+#EXTINF:0,RUS: TV1000 COMEDY HD
+http://149.56.31.188:25461/live/ChrisW/4317/1320.ts
+#EXTINF:0,RUS: TV1000 MEGAHIT HD
+http://149.56.31.188:25461/live/ChrisW/4317/1319.ts
+#EXTINF:0,RUS: TV1000 PREMIUM HD
+http://149.56.31.188:25461/live/ChrisW/4317/1318.ts
+#EXTINF:0,RUS: urban (kirov)
+http://149.56.31.188:25461/live/ChrisW/4317/1336.ts
+#EXTINF:0,RUS: VIASAT SPORT EAST
+http://149.56.31.188:25461/live/ChrisW/4317/1335.ts
+#EXTINF:0,RUS: voronezh
+http://149.56.31.188:25461/live/ChrisW/4317/1334.ts
+#EXTINF:0,RUS: Xtream Sports
+http://149.56.31.188:25461/live/ChrisW/4317/1333.ts
+#EXTINF:0,RUS: Zik
+http://149.56.31.188:25461/live/ChrisW/4317/1332.ts
+#EXTINF:0,RUS: Zoo Park
+http://149.56.31.188:25461/live/ChrisW/4317/1367.ts
+#EXTINF:0,TH : 24TV
+http://149.56.31.188:25461/live/ChrisW/4317/1540.ts
+#EXTINF:0,TH : 3 (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1539.ts
+#EXTINF:0,TH : 5 (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1538.ts
+#EXTINF:0,TH : 7 (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1537.ts
+#EXTINF:0,TH : 8 (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1536.ts
+#EXTINF:0,TH : 9 (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1535.ts
+#EXTINF:0,TH : Amarin TV HD
+http://149.56.31.188:25461/live/ChrisW/4317/1568.ts
+#EXTINF:0,TH : Bright TV
+http://149.56.31.188:25461/live/ChrisW/4317/1534.ts
+#EXTINF:0,TH : Cartoon Club
+http://149.56.31.188:25461/live/ChrisW/4317/1567.ts
+#EXTINF:0,TH : Chaiyo
+http://149.56.31.188:25461/live/ChrisW/4317/1566.ts
+#EXTINF:0,TH : DARA DAILY TV
+http://149.56.31.188:25461/live/ChrisW/4317/1565.ts
+#EXTINF:0,TH : FAH WON MAI
+http://149.56.31.188:25461/live/ChrisW/4317/1564.ts
+#EXTINF:0,TH : Fox Thai
+http://149.56.31.188:25461/live/ChrisW/4317/1533.ts
+#EXTINF:0,TH : GMM Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1563.ts
+#EXTINF:0,TH : Ja Ting Ja
+http://149.56.31.188:25461/live/ChrisW/4317/1532.ts
+#EXTINF:0,TH : MCOT Kids & Family
+http://149.56.31.188:25461/live/ChrisW/4317/1531.ts
+#EXTINF:0,TH : MEDIA CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/1562.ts
+#EXTINF:0,TH : MONEY CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/1561.ts
+#EXTINF:0,TH : MONO 29
+http://149.56.31.188:25461/live/ChrisW/4317/1560.ts
+#EXTINF:0,TH : Mono Plus
+http://149.56.31.188:25461/live/ChrisW/4317/1530.ts
+#EXTINF:0,TH : Muslim TV
+http://149.56.31.188:25461/live/ChrisW/4317/1559.ts
+#EXTINF:0,TH : Nation (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1529.ts
+#EXTINF:0,TH : NATION TV
+http://149.56.31.188:25461/live/ChrisW/4317/1558.ts
+#EXTINF:0,TH : NBT
+http://149.56.31.188:25461/live/ChrisW/4317/1557.ts
+#EXTINF:0,TH : NEW TV
+http://149.56.31.188:25461/live/ChrisW/4317/1556.ts
+#EXTINF:0,TH : New)TV
+http://149.56.31.188:25461/live/ChrisW/4317/1528.ts
+#EXTINF:0,TH : News1 (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1527.ts
+#EXTINF:0,TH : Now 26
+http://149.56.31.188:25461/live/ChrisW/4317/1555.ts
+#EXTINF:0,TH : Now26 (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1526.ts
+#EXTINF:0,TH : One (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1525.ts
+#EXTINF:0,TH : Parliament
+http://149.56.31.188:25461/live/ChrisW/4317/1554.ts
+#EXTINF:0,TH : Parliament TV
+http://149.56.31.188:25461/live/ChrisW/4317/1524.ts
+#EXTINF:0,TH : PBS HD
+http://149.56.31.188:25461/live/ChrisW/4317/1553.ts
+#EXTINF:0,TH : PPTV
+http://149.56.31.188:25461/live/ChrisW/4317/1552.ts
+#EXTINF:0,TH : PPTV (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1523.ts
+#EXTINF:0,TH : Sabaidee TV
+http://149.56.31.188:25461/live/ChrisW/4317/1551.ts
+#EXTINF:0,TH : SMM TV
+http://149.56.31.188:25461/live/ChrisW/4317/1522.ts
+#EXTINF:0,TH : Speed Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1521.ts
+#EXTINF:0,TH : T News
+http://149.56.31.188:25461/live/ChrisW/4317/1520.ts
+#EXTINF:0,TH : ThaiPBS (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1519.ts
+#EXTINF:0,TH : Thairath TV (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1518.ts
+#EXTINF:0,TH : Thairath TV HD
+http://149.56.31.188:25461/live/ChrisW/4317/1550.ts
+#EXTINF:0,TH : True Select
+http://149.56.31.188:25461/live/ChrisW/4317/1549.ts
+#EXTINF:0,TH : TV 11
+http://149.56.31.188:25461/live/ChrisW/4317/1548.ts
+#EXTINF:0,TH : TV 2
+http://149.56.31.188:25461/live/ChrisW/4317/1547.ts
+#EXTINF:0,TH : TV 3
+http://149.56.31.188:25461/live/ChrisW/4317/1546.ts
+#EXTINF:0,TH : TV 3 SD
+http://149.56.31.188:25461/live/ChrisW/4317/1545.ts
+#EXTINF:0,TH : TV 8
+http://149.56.31.188:25461/live/ChrisW/4317/1544.ts
+#EXTINF:0,TH : TV 9
+http://149.56.31.188:25461/live/ChrisW/4317/1543.ts
+#EXTINF:0,TH : TV5 HD1
+http://149.56.31.188:25461/live/ChrisW/4317/1542.ts
+#EXTINF:0,TH : WorkPoint TV (HD)
+http://149.56.31.188:25461/live/ChrisW/4317/1517.ts
+#EXTINF:0,TH : You Channel
+http://149.56.31.188:25461/live/ChrisW/4317/1541.ts
+#EXTINF:0,BR: APARECIDA
+http://149.56.31.188:25461/live/ChrisW/4317/2301.ts
+#EXTINF:0,BR: AZTECA 13 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2300.ts
+#EXTINF:0,BR: Brazil 10
+http://149.56.31.188:25461/live/ChrisW/4317/2299.ts
+#EXTINF:0,BR: Brazil 2
+http://149.56.31.188:25461/live/ChrisW/4317/2298.ts
+#EXTINF:0,BR: Canal Do Boi Tv
+http://149.56.31.188:25461/live/ChrisW/4317/2297.ts
+#EXTINF:0,BR: Conexaobr Tv
+http://149.56.31.188:25461/live/ChrisW/4317/2296.ts
+#EXTINF:0,BR: DW Latin
+http://149.56.31.188:25461/live/ChrisW/4317/2295.ts
+#EXTINF:0,BR: ESPN Brasil
+http://149.56.31.188:25461/live/ChrisW/4317/2294.ts
+#EXTINF:0,BR: ESPN HD
+http://149.56.31.188:25461/live/ChrisW/4317/2293.ts
+#EXTINF:0,BR: ESPN plus
+http://149.56.31.188:25461/live/ChrisW/4317/2292.ts
+#EXTINF:0,BR: FOX Sports
+http://149.56.31.188:25461/live/ChrisW/4317/2291.ts
+#EXTINF:0,BR: Fox Sports 2
+http://149.56.31.188:25461/live/ChrisW/4317/2290.ts
+#EXTINF:0,BR: MANA SAT
+http://149.56.31.188:25461/live/ChrisW/4317/2289.ts
+#EXTINF:0,BR: Proyecto 40
+http://149.56.31.188:25461/live/ChrisW/4317/2288.ts
+#EXTINF:0,BR: RECORD PB
+http://149.56.31.188:25461/live/ChrisW/4317/2287.ts
+#EXTINF:0,BR: RECORD TVCORREIO
+http://149.56.31.188:25461/live/ChrisW/4317/2286.ts
+#EXTINF:0,BR: REDE GOSPEL
+http://149.56.31.188:25461/live/ChrisW/4317/2285.ts
+#EXTINF:0,BR: REDE TV RONDONIA
+http://149.56.31.188:25461/live/ChrisW/4317/2284.ts
+#EXTINF:0,BR: SPORT TV 1
+http://149.56.31.188:25461/live/ChrisW/4317/2283.ts
+#EXTINF:0,BR: SPORT TV 2
+http://149.56.31.188:25461/live/ChrisW/4317/2282.ts
+#EXTINF:0,BR: SPORT TV 3
+http://149.56.31.188:25461/live/ChrisW/4317/2281.ts
+#EXTINF:0,BR: Terra Viva Brasil
+http://149.56.31.188:25461/live/ChrisW/4317/2280.ts
+#EXTINF:0,BR: TV BRASIL CENTRAL
+http://149.56.31.188:25461/live/ChrisW/4317/2279.ts
+#EXTINF:0,BR: TV Diario Brasil
+http://149.56.31.188:25461/live/ChrisW/4317/2278.ts
+#EXTINF:0,BR: TV Globo
+http://149.56.31.188:25461/live/ChrisW/4317/2277.ts
+#EXTINF:0,BR: TV Globo Premium
+http://149.56.31.188:25461/live/ChrisW/4317/2276.ts
+#EXTINF:0,BR: TV MANA SAT
+http://149.56.31.188:25461/live/ChrisW/4317/2275.ts
+#EXTINF:0,BR: TV MANÂ¨Â¢ FRANCE
+http://149.56.31.188:25461/live/ChrisW/4317/2274.ts
+#EXTINF:0,BR: TV POCOS
+http://149.56.31.188:25461/live/ChrisW/4317/2273.ts
+#EXTINF:0,BR: TV Record
+http://149.56.31.188:25461/live/ChrisW/4317/2272.ts
+#EXTINF:0,BR: TV Urbana Brasil
+http://149.56.31.188:25461/live/ChrisW/4317/2271.ts
+#EXTINF:0,BR: TVCOMSC
+http://149.56.31.188:25461/live/ChrisW/4317/2270.ts
+#EXTINF:0,BR: TVE HD 720 Brasil
+http://149.56.31.188:25461/live/ChrisW/4317/2269.ts
+#EXTINF:0,PT: 24 KITCHEN
+http://149.56.31.188:25461/live/ChrisW/4317/2370.ts
+#EXTINF:0,PT: A & E
+http://149.56.31.188:25461/live/ChrisW/4317/2369.ts
+#EXTINF:0,PT: A BOLA TV
+http://149.56.31.188:25461/live/ChrisW/4317/2368.ts
+#EXTINF:0,PT: AMC
+http://149.56.31.188:25461/live/ChrisW/4317/2367.ts
+#EXTINF:0,PT: AXN
+http://149.56.31.188:25461/live/ChrisW/4317/2366.ts
+#EXTINF:0,PT: AXN WHITE
+http://149.56.31.188:25461/live/ChrisW/4317/2365.ts
+#EXTINF:0,PT: BABY TV
+http://149.56.31.188:25461/live/ChrisW/4317/2364.ts
+#EXTINF:0,PT: BENFICA TV 1
+http://149.56.31.188:25461/live/ChrisW/4317/2363.ts
+#EXTINF:0,PT: BENFICA TV 2
+http://149.56.31.188:25461/live/ChrisW/4317/2362.ts
+#EXTINF:0,PT: CAÇA & PESCA
+http://149.56.31.188:25461/live/ChrisW/4317/2361.ts
+#EXTINF:0,PT: CANAL HISTÓRIA
+http://149.56.31.188:25461/live/ChrisW/4317/2360.ts
+#EXTINF:0,PT: CANAL PANDA
+http://149.56.31.188:25461/live/ChrisW/4317/2359.ts
+#EXTINF:0,PT: CANAL Q
+http://149.56.31.188:25461/live/ChrisW/4317/2358.ts
+#EXTINF:0,PT: CHELSEA TV
+http://149.56.31.188:25461/live/ChrisW/4317/2357.ts
+#EXTINF:0,PT: CINEMUNDO
+http://149.56.31.188:25461/live/ChrisW/4317/2356.ts
+#EXTINF:0,PT: CM TV
+http://149.56.31.188:25461/live/ChrisW/4317/2355.ts
+#EXTINF:0,PT: DISCOVERY CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/2354.ts
+#EXTINF:0,PT: Discovery HD Showcase
+http://149.56.31.188:25461/live/ChrisW/4317/2353.ts
+#EXTINF:0,PT: DISNEY CHANNEL
+http://149.56.31.188:25461/live/ChrisW/4317/2352.ts
+#EXTINF:0,PT: DISNEY JUNIOR
+http://149.56.31.188:25461/live/ChrisW/4317/2351.ts
+#EXTINF:0,PT: E! Entertainment
+http://149.56.31.188:25461/live/ChrisW/4317/2350.ts
+#EXTINF:0,PT: EUROSPORT
+http://149.56.31.188:25461/live/ChrisW/4317/2349.ts
+#EXTINF:0,PT: Fox Comedy
+http://149.56.31.188:25461/live/ChrisW/4317/2348.ts
+#EXTINF:0,PT: FOX CRIME
+http://149.56.31.188:25461/live/ChrisW/4317/2347.ts
+#EXTINF:0,PT: FOX LIFE
+http://149.56.31.188:25461/live/ChrisW/4317/2346.ts
+#EXTINF:0,PT: FOX MOVIES
+http://149.56.31.188:25461/live/ChrisW/4317/2345.ts
+#EXTINF:0,PT: FOX TV
+http://149.56.31.188:25461/live/ChrisW/4317/2344.ts
+#EXTINF:0,PT: HOLLYWOOD
+http://149.56.31.188:25461/live/ChrisW/4317/2343.ts
+#EXTINF:0,PT: MOTORS TV
+http://149.56.31.188:25461/live/ChrisW/4317/2342.ts
+#EXTINF:0,PT: MOV HD
+http://149.56.31.188:25461/live/ChrisW/4317/2341.ts
+#EXTINF:0,PT: Mtv Portuga
+http://149.56.31.188:25461/live/ChrisW/4317/2340.ts
+#EXTINF:0,PT: NATIONAL GEOGRAPHIC
+http://149.56.31.188:25461/live/ChrisW/4317/2339.ts
+#EXTINF:0,PT: NATIONAL GEOGRAPHIC WILD
+http://149.56.31.188:25461/live/ChrisW/4317/2338.ts
+#EXTINF:0,PT: NICKELODEON
+http://149.56.31.188:25461/live/ChrisW/4317/2337.ts
+#EXTINF:0,PT: ODISSEIA
+http://149.56.31.188:25461/live/ChrisW/4317/2336.ts
+#EXTINF:0,PT: PFC
+http://149.56.31.188:25461/live/ChrisW/4317/2335.ts
+#EXTINF:0,PT: PORTO CANAL
+http://149.56.31.188:25461/live/ChrisW/4317/2334.ts
+#EXTINF:0,PT: RTP 1
+http://149.56.31.188:25461/live/ChrisW/4317/2333.ts
+#EXTINF:0,PT: RTP 2
+http://149.56.31.188:25461/live/ChrisW/4317/2332.ts
+#EXTINF:0,PT: RTP 3
+http://149.56.31.188:25461/live/ChrisW/4317/2331.ts
+#EXTINF:0,PT: RTP AÇORES
+http://149.56.31.188:25461/live/ChrisW/4317/2330.ts
+#EXTINF:0,PT: RTP ÁFRICA
+http://149.56.31.188:25461/live/ChrisW/4317/2329.ts
+#EXTINF:0,PT: RTP MEMÓRIA
+http://149.56.31.188:25461/live/ChrisW/4317/2328.ts
+#EXTINF:0,PT: Sic
+http://149.56.31.188:25461/live/ChrisW/4317/2327.ts
+#EXTINF:0,PT: SIC MULHER
+http://149.56.31.188:25461/live/ChrisW/4317/2326.ts
+#EXTINF:0,PT: SIC NOTICIAS
+http://149.56.31.188:25461/live/ChrisW/4317/2325.ts
+#EXTINF:0,PT: SIC RADICAL
+http://149.56.31.188:25461/live/ChrisW/4317/2324.ts
+#EXTINF:0,PT: SPORT TV 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2323.ts
+#EXTINF:0,PT: SPORT TV 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2322.ts
+#EXTINF:0,PT: SPORT TV 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2321.ts
+#EXTINF:0,PT: SPORT TV 4
+http://149.56.31.188:25461/live/ChrisW/4317/2320.ts
+#EXTINF:0,PT: SPORT TV 5
+http://149.56.31.188:25461/live/ChrisW/4317/2319.ts
+#EXTINF:0,PT: SPORTING TV
+http://149.56.31.188:25461/live/ChrisW/4317/2318.ts
+#EXTINF:0,PT: SYFY
+http://149.56.31.188:25461/live/ChrisW/4317/2317.ts
+#EXTINF:0,PT: TLC
+http://149.56.31.188:25461/live/ChrisW/4317/2316.ts
+#EXTINF:0,PT: TOUROS TV
+http://149.56.31.188:25461/live/ChrisW/4317/2315.ts
+#EXTINF:0,PT: TV CINE 1  HD
+http://149.56.31.188:25461/live/ChrisW/4317/2314.ts
+#EXTINF:0,PT: TV CINE 2  HD
+http://149.56.31.188:25461/live/ChrisW/4317/2313.ts
+#EXTINF:0,PT: TV CINE 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2312.ts
+#EXTINF:0,PT: TV CINE 4
+http://149.56.31.188:25461/live/ChrisW/4317/2311.ts
+#EXTINF:0,PT: TV GLOBO
+http://149.56.31.188:25461/live/ChrisW/4317/2310.ts
+#EXTINF:0,PT: TV Globo Premium
+http://149.56.31.188:25461/live/ChrisW/4317/2309.ts
+#EXTINF:0,PT: TV RECORD
+http://149.56.31.188:25461/live/ChrisW/4317/2308.ts
+#EXTINF:0,PT: TVCseries
+http://149.56.31.188:25461/live/ChrisW/4317/2307.ts
+#EXTINF:0,PT: TVI
+http://149.56.31.188:25461/live/ChrisW/4317/2306.ts
+#EXTINF:0,PT: TVI 24
+http://149.56.31.188:25461/live/ChrisW/4317/2305.ts
+#EXTINF:0,PT: TVI REALITY
+http://149.56.31.188:25461/live/ChrisW/4317/2304.ts
+#EXTINF:0,PT: TVI Reality (A Quinta)
+http://149.56.31.188:25461/live/ChrisW/4317/2303.ts
+#EXTINF:0,PT: VH1
+http://149.56.31.188:25461/live/ChrisW/4317/2302.ts
+#EXTINF:0,DE : Disney Cinemagic HD
+http://149.56.31.188:25461/live/ChrisW/4317/2714.ts
+#EXTINF:0,DE : Eurosport 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2713.ts
+#EXTINF:0,DE : Fox HD
+http://149.56.31.188:25461/live/ChrisW/4317/2712.ts
+#EXTINF:0,DE : RTL Crime HD
+http://149.56.31.188:25461/live/ChrisW/4317/2711.ts
+#EXTINF:0,DE : RTL HD
+http://149.56.31.188:25461/live/ChrisW/4317/2710.ts
+#EXTINF:0,DE : RTL Living
+http://149.56.31.188:25461/live/ChrisW/4317/2709.ts
+#EXTINF:0,DE : RTL Passion
+http://149.56.31.188:25461/live/ChrisW/4317/2708.ts
+#EXTINF:0,DE : RTL2
+http://149.56.31.188:25461/live/ChrisW/4317/2707.ts
+#EXTINF:0,DE : Sky atlantic
+http://149.56.31.188:25461/live/ChrisW/4317/2706.ts
+#EXTINF:0,DE : Sky Atlantic HD
+http://149.56.31.188:25461/live/ChrisW/4317/2705.ts
+#EXTINF:0,DE : Sky Krimi
+http://149.56.31.188:25461/live/ChrisW/4317/2704.ts
+#EXTINF:0,DE : Sky Nostalgie
+http://149.56.31.188:25461/live/ChrisW/4317/2703.ts
+#EXTINF:0,DE : sky sport austria
+http://149.56.31.188:25461/live/ChrisW/4317/2702.ts
+#EXTINF:0,DE : Sport1  HD
+http://149.56.31.188:25461/live/ChrisW/4317/2701.ts
+#EXTINF:0,DE : Syfy
+http://149.56.31.188:25461/live/ChrisW/4317/2700.ts
+#EXTINF:0,DE : TNT Comedy
+http://149.56.31.188:25461/live/ChrisW/4317/2699.ts
+#EXTINF:0,DE : TNT Film TCM
+http://149.56.31.188:25461/live/ChrisW/4317/2698.ts
+#EXTINF:0,DE : TNT Glitz HD
+http://149.56.31.188:25461/live/ChrisW/4317/2697.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 10 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2696.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2695.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2694.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2693.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2692.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 6 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2691.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 7 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2690.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 8 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2689.ts
+#EXTINF:0,DE | Sky Germany BUNDESLIGA 9 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2688.ts
+#EXTINF:0,DE | Sky Germany Sport 10 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2687.ts
+#EXTINF:0,DE | Sky Germany Sport 11 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2686.ts
+#EXTINF:0,DE | Sky Germany Sport 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2685.ts
+#EXTINF:0,DE | Sky Germany Sport 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2684.ts
+#EXTINF:0,DE | Sky Germany Sport 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2683.ts
+#EXTINF:0,DE | Sky Germany Sport 6 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2682.ts
+#EXTINF:0,DE | Sky Germany Sport 7 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2681.ts
+#EXTINF:0,DE | Sky Germany Sport 8 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2680.ts
+#EXTINF:0,DE | Sky Germany Sport 9 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2679.ts
+#EXTINF:0,DE VIP: 13th Street HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2564.ts
+#EXTINF:0,DE VIP: A&E HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2565.ts
+#EXTINF:0,DE VIP: Animal Planet HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2566.ts
+#EXTINF:0,DE VIP: AXN HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2567.ts
+#EXTINF:0,DE VIP: Discovery HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2568.ts
+#EXTINF:0,DE VIP: Disney Channel HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2569.ts
+#EXTINF:0,DE VIP: Disney Cinemagic HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2570.ts
+#EXTINF:0,DE VIP: FOX HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2571.ts
+#EXTINF:0,DE VIP: History HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2572.ts
+#EXTINF:0,DE VIP: MGM HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2573.ts
+#EXTINF:0,DE VIP: N-TV HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2574.ts
+#EXTINF:0,DE VIP: Nat Geo Wild HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2575.ts
+#EXTINF:0,DE VIP: NatGeo HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2576.ts
+#EXTINF:0,DE VIP: National Geographic HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2577.ts
+#EXTINF:0,DE VIP: PRO 7 HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2578.ts
+#EXTINF:0,DE VIP: ProSieben MAXX HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2579.ts
+#EXTINF:0,DE VIP: RTL 2 HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2580.ts
+#EXTINF:0,DE VIP: RTL HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2581.ts
+#EXTINF:0,DE VIP: RTL NITRO HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2582.ts
+#EXTINF:0,DE VIP: SAT.1 HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2583.ts
+#EXTINF:0,DE VIP: sixx HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2584.ts
+#EXTINF:0,DE VIP: Sky Action HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2585.ts
+#EXTINF:0,DE VIP: Sky Atlantic HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2586.ts
+#EXTINF:0,DE VIP: Sky Cinema HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2587.ts
+#EXTINF:0,DE VIP: Sky Hits HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2588.ts
+#EXTINF:0,DE VIP: SUPER RTL HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2589.ts
+#EXTINF:0,DE VIP: SyFy HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2590.ts
+#EXTINF:0,DE VIP: TNT Serie HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2591.ts
+#EXTINF:0,DE VIP: VOX HD 1080P
+http://149.56.31.188:25461/live/ChrisW/4317/2592.ts
+#EXTINF:0,DE: 13th Street
+http://149.56.31.188:25461/live/ChrisW/4317/2678.ts
+#EXTINF:0,DE: 3sat
+http://149.56.31.188:25461/live/ChrisW/4317/2593.ts
+#EXTINF:0,DE: 3SAT HD
+http://149.56.31.188:25461/live/ChrisW/4317/2594.ts
+#EXTINF:0,DE: ARD
+http://149.56.31.188:25461/live/ChrisW/4317/2677.ts
+#EXTINF:0,DE: Arte
+http://149.56.31.188:25461/live/ChrisW/4317/2595.ts
+#EXTINF:0,DE: AXN HD Germany
+http://149.56.31.188:25461/live/ChrisW/4317/2676.ts
+#EXTINF:0,DE: Boomerang
+http://149.56.31.188:25461/live/ChrisW/4317/2675.ts
+#EXTINF:0,DE: Bundesliga 1
+http://149.56.31.188:25461/live/ChrisW/4317/2674.ts
+#EXTINF:0,DE: Cartoon Network Germany
+http://149.56.31.188:25461/live/ChrisW/4317/2673.ts
+#EXTINF:0,DE: Classica
+http://149.56.31.188:25461/live/ChrisW/4317/2672.ts
+#EXTINF:0,DE: DAS ERSTE HD
+http://149.56.31.188:25461/live/ChrisW/4317/2596.ts
+#EXTINF:0,DE: Deluxe Music HD
+http://149.56.31.188:25461/live/ChrisW/4317/2671.ts
+#EXTINF:0,DE: Discovery HD
+http://149.56.31.188:25461/live/ChrisW/4317/2670.ts
+#EXTINF:0,DE: Disney Channel HD Germany
+http://149.56.31.188:25461/live/ChrisW/4317/2669.ts
+#EXTINF:0,DE: Disney Cinemagic HD
+http://149.56.31.188:25461/live/ChrisW/4317/2668.ts
+#EXTINF:0,DE: Disney Junior
+http://149.56.31.188:25461/live/ChrisW/4317/2667.ts
+#EXTINF:0,DE: Disney XD Deutschland
+http://149.56.31.188:25461/live/ChrisW/4317/2666.ts
+#EXTINF:0,DE: Kabel 1
+http://149.56.31.188:25461/live/ChrisW/4317/2665.ts
+#EXTINF:0,DE: Kabel Eins
+http://149.56.31.188:25461/live/ChrisW/4317/2597.ts
+#EXTINF:0,DE: Kika
+http://149.56.31.188:25461/live/ChrisW/4317/2664.ts
+#EXTINF:0,DE: MGM HD
+http://149.56.31.188:25461/live/ChrisW/4317/2663.ts
+#EXTINF:0,DE: Muenchen TV
+http://149.56.31.188:25461/live/ChrisW/4317/2662.ts
+#EXTINF:0,DE: N24
+http://149.56.31.188:25461/live/ChrisW/4317/2661.ts
+#EXTINF:0,DE: NatGeo Wild HD Germany
+http://149.56.31.188:25461/live/ChrisW/4317/2660.ts
+#EXTINF:0,DE: National Geographic HD Germany
+http://149.56.31.188:25461/live/ChrisW/4317/2659.ts
+#EXTINF:0,DE: Nickelodeon
+http://149.56.31.188:25461/live/ChrisW/4317/2658.ts
+#EXTINF:0,DE: Orf 1
+http://149.56.31.188:25461/live/ChrisW/4317/2657.ts
+#EXTINF:0,DE: Orf 2
+http://149.56.31.188:25461/live/ChrisW/4317/2656.ts
+#EXTINF:0,DE: PHOENIX
+http://149.56.31.188:25461/live/ChrisW/4317/2598.ts
+#EXTINF:0,DE: Pro7
+http://149.56.31.188:25461/live/ChrisW/4317/2655.ts
+#EXTINF:0,DE: RTL
+http://149.56.31.188:25461/live/ChrisW/4317/2654.ts
+#EXTINF:0,DE: RTL NITRO
+http://149.56.31.188:25461/live/ChrisW/4317/2653.ts
+#EXTINF:0,DE: Sat 1
+http://149.56.31.188:25461/live/ChrisW/4317/2652.ts
+#EXTINF:0,DE: sat 1 emotions
+http://149.56.31.188:25461/live/ChrisW/4317/2651.ts
+#EXTINF:0,DE: Sat 1 Gold
+http://149.56.31.188:25461/live/ChrisW/4317/2599.ts
+#EXTINF:0,DE: SERVUS TV HD
+http://149.56.31.188:25461/live/ChrisW/4317/2600.ts
+#EXTINF:0,DE: Sky Action HD
+http://149.56.31.188:25461/live/ChrisW/4317/2650.ts
+#EXTINF:0,DE: SKY ATLANTIC HD
+http://149.56.31.188:25461/live/ChrisW/4317/2649.ts
+#EXTINF:0,DE: Sky Bundesliga 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2648.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2647.ts
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2646.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2645.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2644.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2643.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2642.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2641.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2640.ts
+#EXTINF:0,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2639.ts
+#EXTINF:0,DE: Sky Cinema  1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2638.ts
+#EXTINF:0,DE: SKY CINEMA  24
+http://149.56.31.188:25461/live/ChrisW/4317/2637.ts
+#EXTINF:0,DE: Sky Cinema HD
+http://149.56.31.188:25461/live/ChrisW/4317/2636.ts
+#EXTINF:0,DE: Sky Comedy HD
+http://149.56.31.188:25461/live/ChrisW/4317/2635.ts
+#EXTINF:0,DE: Sky Disney HD
+http://149.56.31.188:25461/live/ChrisW/4317/2634.ts
+#EXTINF:0,DE: Sky DMAX HD
+http://149.56.31.188:25461/live/ChrisW/4317/2633.ts
+#EXTINF:0,DE: Sky Emotion HD
+http://149.56.31.188:25461/live/ChrisW/4317/2632.ts
+#EXTINF:0,DE: Sky Hits HD
+http://149.56.31.188:25461/live/ChrisW/4317/2631.ts
+#EXTINF:0,DE: SKY SELECT 1
+http://149.56.31.188:25461/live/ChrisW/4317/2630.ts
+#EXTINF:0,DE: SKY SELECT 2
+http://149.56.31.188:25461/live/ChrisW/4317/2629.ts
+#EXTINF:0,DE: SKY SELECT 3
+http://149.56.31.188:25461/live/ChrisW/4317/2628.ts
+#EXTINF:0,DE: SKY SELECT 4
+http://149.56.31.188:25461/live/ChrisW/4317/2627.ts
+#EXTINF:0,DE: SKY SELECT 5
+http://149.56.31.188:25461/live/ChrisW/4317/2626.ts
+#EXTINF:0,DE: SKY SELECT 6
+http://149.56.31.188:25461/live/ChrisW/4317/2625.ts
+#EXTINF:0,DE: Sky Select 7
+http://149.56.31.188:25461/live/ChrisW/4317/2624.ts
+#EXTINF:0,DE: Sky Select 8
+http://149.56.31.188:25461/live/ChrisW/4317/2623.ts
+#EXTINF:0,DE: Sky Sport 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2622.ts
+#EXTINF:0,DE: Sky Sport 10 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2621.ts
+#EXTINF:0,DE: Sky Sport 11 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2620.ts
+#EXTINF:0,DE: Sky Sport 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/2619.ts
+#EXTINF:0,DE: Sky Sport 3 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2618.ts
+#EXTINF:0,DE: Sky Sport 4 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2617.ts
+#EXTINF:0,DE: Sky Sport 5 HD  ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2616.ts
+#EXTINF:0,DE: Sky Sport 6 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2615.ts
+#EXTINF:0,DE: Sky Sport 7 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2614.ts
+#EXTINF:0,DE: Sky Sport 8 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2613.ts
+#EXTINF:0,DE: Sky Sport 9 HD ( During Games only )
+http://149.56.31.188:25461/live/ChrisW/4317/2612.ts
+#EXTINF:0,DE: Sky Sport News HD
+http://149.56.31.188:25461/live/ChrisW/4317/2611.ts
+#EXTINF:0,DE: Sky TNT Serie HD
+http://149.56.31.188:25461/live/ChrisW/4317/2610.ts
+#EXTINF:0,DE: Sky Universal HD
+http://149.56.31.188:25461/live/ChrisW/4317/2609.ts
+#EXTINF:0,DE: SUPER RTL HD
+http://149.56.31.188:25461/live/ChrisW/4317/2608.ts
+#EXTINF:0,DE: TNT Serie
+http://149.56.31.188:25461/live/ChrisW/4317/2607.ts
+#EXTINF:0,DE: VIVA
+http://149.56.31.188:25461/live/ChrisW/4317/2601.ts
+#EXTINF:0,DE: VOX
+http://149.56.31.188:25461/live/ChrisW/4317/2606.ts
+#EXTINF:0,DE: WDR HD DE
+http://149.56.31.188:25461/live/ChrisW/4317/2602.ts
+#EXTINF:0,DE: ZDF
+http://149.56.31.188:25461/live/ChrisW/4317/2605.ts
+#EXTINF:0,DE: ZDF NEO HD
+http://149.56.31.188:25461/live/ChrisW/4317/2603.ts
+#EXTINF:0,GR : TV Mytilini
+http://149.56.31.188:25461/live/ChrisW/4317/3254.ts
+#EXTINF:0,GR: 4E
+http://149.56.31.188:25461/live/ChrisW/4317/3266.ts
+#EXTINF:0,GR: 4E Star
+http://149.56.31.188:25461/live/ChrisW/4317/3267.ts
+#EXTINF:0,GR: AB Channel
+http://149.56.31.188:25461/live/ChrisW/4317/3268.ts
+#EXTINF:0,GR: ACTION 24
+http://149.56.31.188:25461/live/ChrisW/4317/3269.ts
+#EXTINF:0,GR: AIGAIO TV
+http://149.56.31.188:25461/live/ChrisW/4317/3270.ts
+#EXTINF:0,GR: Alpha
+http://149.56.31.188:25461/live/ChrisW/4317/3271.ts
+#EXTINF:0,GR: ANT1
+http://149.56.31.188:25461/live/ChrisW/4317/3272.ts
+#EXTINF:0,GR: Ant1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3273.ts
+#EXTINF:0,GR: Apeiro TV
+http://149.56.31.188:25461/live/ChrisW/4317/3274.ts
+#EXTINF:0,GR: APT
+http://149.56.31.188:25461/live/ChrisW/4317/3275.ts
+#EXTINF:0,GR: Art
+http://149.56.31.188:25461/live/ChrisW/4317/3276.ts
+#EXTINF:0,GR: Astra
+http://149.56.31.188:25461/live/ChrisW/4317/3277.ts
+#EXTINF:0,GR: Axeloos TV
+http://149.56.31.188:25461/live/ChrisW/4317/3278.ts
+#EXTINF:0,GR: BLUE SKY
+http://149.56.31.188:25461/live/ChrisW/4317/3279.ts
+#EXTINF:0,GR: Boyah
+http://149.56.31.188:25461/live/ChrisW/4317/3280.ts
+#EXTINF:0,GR: Channel 9
+http://149.56.31.188:25461/live/ChrisW/4317/3281.ts
+#EXTINF:0,GR: DIAVATA TV
+http://149.56.31.188:25461/live/ChrisW/4317/3282.ts
+#EXTINF:0,GR: DIKTYO
+http://149.56.31.188:25461/live/ChrisW/4317/3283.ts
+#EXTINF:0,GR: E
+http://149.56.31.188:25461/live/ChrisW/4317/3284.ts
+#EXTINF:0,GR: Ellinikosfm TV
+http://149.56.31.188:25461/live/ChrisW/4317/3285.ts
+#EXTINF:0,GR: Ept 1
+http://149.56.31.188:25461/live/ChrisW/4317/3286.ts
+#EXTINF:0,GR: Ept 2
+http://149.56.31.188:25461/live/ChrisW/4317/3287.ts
+#EXTINF:0,GR: ERT 1
+http://149.56.31.188:25461/live/ChrisW/4317/3288.ts
+#EXTINF:0,GR: Ert HD
+http://149.56.31.188:25461/live/ChrisW/4317/3289.ts
+#EXTINF:0,GR: ERT2
+http://149.56.31.188:25461/live/ChrisW/4317/3290.ts
+#EXTINF:0,GR: Euronews
+http://149.56.31.188:25461/live/ChrisW/4317/3291.ts
+#EXTINF:0,GR: Eurosport 1
+http://149.56.31.188:25461/live/ChrisW/4317/3292.ts
+#EXTINF:0,GR: Eurosport 2
+http://149.56.31.188:25461/live/ChrisW/4317/3293.ts
+#EXTINF:0,GR: EXTRA
+http://149.56.31.188:25461/live/ChrisW/4317/3294.ts
+#EXTINF:0,GR: Extra Channel
+http://149.56.31.188:25461/live/ChrisW/4317/3295.ts
+#EXTINF:0,GR: High TV
+http://149.56.31.188:25461/live/ChrisW/4317/3296.ts
+#EXTINF:0,GR: Hpeiros TV1
+http://149.56.31.188:25461/live/ChrisW/4317/3297.ts
+#EXTINF:0,GR: JAYZEE
+http://149.56.31.188:25461/live/ChrisW/4317/3298.ts
+#EXTINF:0,GR: Kontra Channel
+http://149.56.31.188:25461/live/ChrisW/4317/3299.ts
+#EXTINF:0,GR: KONTRA TV
+http://149.56.31.188:25461/live/ChrisW/4317/3300.ts
+#EXTINF:0,GR: Krhth TV
+http://149.56.31.188:25461/live/ChrisW/4317/3301.ts
+#EXTINF:0,GR: KRITI TV
+http://149.56.31.188:25461/live/ChrisW/4317/3302.ts
+#EXTINF:0,GR: Lepanto
+http://149.56.31.188:25461/live/ChrisW/4317/3303.ts
+#EXTINF:0,GR: Mad TV
+http://149.56.31.188:25461/live/ChrisW/4317/3304.ts
+#EXTINF:0,GR: Makedonia
+http://149.56.31.188:25461/live/ChrisW/4317/3305.ts
+#EXTINF:0,GR: Makedonia TV
+http://149.56.31.188:25461/live/ChrisW/4317/3306.ts
+#EXTINF:0,GR: Makedonia TV Delay
+http://149.56.31.188:25461/live/ChrisW/4317/3307.ts
+#EXTINF:0,GR: Makeleio Web Tv
+http://149.56.31.188:25461/live/ChrisW/4317/3308.ts
+#EXTINF:0,GR: Mega
+http://149.56.31.188:25461/live/ChrisW/4317/3309.ts
+#EXTINF:0,GR: MESSINIA TV
+http://149.56.31.188:25461/live/ChrisW/4317/3310.ts
+#EXTINF:0,GR: MTVeece
+http://149.56.31.188:25461/live/ChrisW/4317/3311.ts
+#EXTINF:0,GR: Nat Geo
+http://149.56.31.188:25461/live/ChrisW/4317/3312.ts
+#EXTINF:0,GR: NEA
+http://149.56.31.188:25461/live/ChrisW/4317/3313.ts
+#EXTINF:0,GR: Nea Tv
+http://149.56.31.188:25461/live/ChrisW/4317/3314.ts
+#EXTINF:0,GR: New TV
+http://149.56.31.188:25461/live/ChrisW/4317/3315.ts
+#EXTINF:0,GR: Nickelodeon
+http://149.56.31.188:25461/live/ChrisW/4317/3316.ts
+#EXTINF:0,GR: NOVA
+http://149.56.31.188:25461/live/ChrisW/4317/3317.ts
+#EXTINF:0,GR: OMEGA
+http://149.56.31.188:25461/live/ChrisW/4317/3318.ts
+#EXTINF:0,GR: Omega TV
+http://149.56.31.188:25461/live/ChrisW/4317/3319.ts
+#EXTINF:0,GR: Rik
+http://149.56.31.188:25461/live/ChrisW/4317/3320.ts
+#EXTINF:0,GR: SAMIAKI
+http://149.56.31.188:25461/live/ChrisW/4317/3321.ts
+#EXTINF:0,GR: SBC
+http://149.56.31.188:25461/live/ChrisW/4317/3322.ts
+#EXTINF:0,GR: Sigma
+http://149.56.31.188:25461/live/ChrisW/4317/3323.ts
+#EXTINF:0,GR: Skai
+http://149.56.31.188:25461/live/ChrisW/4317/3324.ts
+#EXTINF:0,GR: Smile
+http://149.56.31.188:25461/live/ChrisW/4317/3325.ts
+#EXTINF:0,GR: Star
+http://149.56.31.188:25461/live/ChrisW/4317/3326.ts
+#EXTINF:0,GR: Star TV
+http://149.56.31.188:25461/live/ChrisW/4317/3327.ts
+#EXTINF:0,GR: Start TV
+http://149.56.31.188:25461/live/ChrisW/4317/3328.ts
+#EXTINF:0,GR: Thema TV
+http://149.56.31.188:25461/live/ChrisW/4317/3329.ts
+#EXTINF:0,GR: Thraki TV
+http://149.56.31.188:25461/live/ChrisW/4317/3330.ts
+#EXTINF:0,GR: TILESPORT
+http://149.56.31.188:25461/live/ChrisW/4317/3331.ts
+#EXTINF:0,GR: TRT
+http://149.56.31.188:25461/live/ChrisW/4317/3332.ts
+#EXTINF:0,GR: TV 1000
+http://149.56.31.188:25461/live/ChrisW/4317/3333.ts
+#EXTINF:0,GR: TV Gold
+http://149.56.31.188:25461/live/ChrisW/4317/3334.ts
+#EXTINF:0,GR: TV1 Siros
+http://149.56.31.188:25461/live/ChrisW/4317/3335.ts
+#EXTINF:0,GR: Tv100
+http://149.56.31.188:25461/live/ChrisW/4317/3336.ts
+#EXTINF:0,GR: Vergina TV
+http://149.56.31.188:25461/live/ChrisW/4317/3337.ts
+#EXTINF:0,GR: VOULI
+http://149.56.31.188:25461/live/ChrisW/4317/3338.ts
+#EXTINF:0,GR: Vouli TV
+http://149.56.31.188:25461/live/ChrisW/4317/3339.ts
+#EXTINF:0,GR: ZOUGL@
+http://149.56.31.188:25461/live/ChrisW/4317/3340.ts
+#EXTINF:0,VIP GR: OTE CINEMA 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3265.ts
+#EXTINF:0,VIP GR: OTE CINEMA 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3264.ts
+#EXTINF:0,VIP GR: OTE CINEMA 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3263.ts
+#EXTINF:0,VIP GR: OTE SPORT 1 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3262.ts
+#EXTINF:0,VIP GR: OTE SPORT 2 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3261.ts
+#EXTINF:0,VIP GR: OTE SPORT 3 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3260.ts
+#EXTINF:0,VIP GR: OTE SPORT 4 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3259.ts
+#EXTINF:0,VIP GR: OTE SPORT 5 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3258.ts
+#EXTINF:0,VIP GR: OTE SPORT 6 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3257.ts
+#EXTINF:0,VIP GR: OTE SPORT 7 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3256.ts
+#EXTINF:0,VIP GR: OTE SPORT 8 HD
+http://149.56.31.188:25461/live/ChrisW/4317/3255.ts
+#EXTINF:0,DE: ZEE ONE
+http://149.56.31.188:25461/live/ChrisW/4317/2604.ts
+#EXTINF:0,24/7: MavTV
+http://149.56.31.188:25461/live/ChrisW/4317/3369.ts
+#EXTINF:0,24/7: LucasOilRacing.tv
+http://149.56.31.188:25461/live/ChrisW/4317/3427.ts
+#EXTINF:0,24/7: IMCA.tv
+http://149.56.31.188:25461/live/ChrisW/4317/3415.ts
+#EXTINF:0,24/7: CBS Sports Network
+http://149.56.31.188:25461/live/ChrisW/4317/3412.ts
+#EXTINF:0,24/7: NBC Sports Network
+http://149.56.31.188:25461/live/ChrisW/4317/3413.ts
+#EXTINF:0,24/7: FansChoice.tv
+http://149.56.31.188:25461/live/ChrisW/4317/3416.ts
+#EXTINF:0,24/7: Fox Sports 1
+http://149.56.31.188:25461/live/ChrisW/4317/3414.ts
+#EXTINF:0,24/7: Fox Sports 2
+http://149.56.31.188:25461/live/ChrisW/4317/3422.ts
+#EXTINF:0,PPV: SpeedShiftTV; 4/2 @ Terre Haute
+http://149.56.31.188:25461/live/ChrisW/4317/3417.ts
+#EXTINF:0,PPV: SpeedShiftTV; 4/7 & 4/8 @ Kokomo
+http://149.56.31.188:25461/live/ChrisW/4317/3418.ts
+#EXTINF:0,PPV: DerbyNationTV; 4/8 @ Evansville
+http://149.56.31.188:25461/live/ChrisW/4317/3419.ts
+#EXTINF:0,PPV: DirtVision; 4/14 & 4/15 @ Texas
+http://149.56.31.188:25461/live/ChrisW/4317/3420.ts
+#EXTINF:0,PPV: Speed51 @ 5/21 & 22; Bristol
+http://149.56.31.188:25461/live/ChrisW/4317/3411.ts
+#EXTINF:0,Days of Thunder (1990)
+http://149.56.31.188:25461/movie/ChrisW/4317/3679.mp4
+#EXTINF:0,Rush
+http://149.56.31.188:25461/movie/ChrisW/4317/3421.mp4
+#EXTINF:0,Speed Racer (2008)
+http://149.56.31.188:25461/movie/ChrisW/4317/3681.mp4
+#EXTINF:0,Senna (2009)
+http://149.56.31.188:25461/movie/ChrisW/4317/3680.avi
+#EXTINF:0,Talladega Nights (2006)
+http://149.56.31.188:25461/movie/ChrisW/4317/3682.mp4
+#EXTINF:0,Speed Racer S01E01
+http://149.56.31.188:25461/movie/ChrisW/4317/3675.mkv
+#EXTINF:0,Speed Racer S01E02
+http://149.56.31.188:25461/movie/ChrisW/4317/3676.mkv
+#EXTINF:0,Speed Racer S01E03
+http://149.56.31.188:25461/movie/ChrisW/4317/3677.mkv
+#EXTINF:0,Speed Racer S01E04
+http://149.56.31.188:25461/movie/ChrisW/4317/3678.mkv
+#EXTINF:0,Buck Wild S01E03
+http://149.56.31.188:25461/movie/ChrisW/4317/3674.mp4
+#EXTINF:0,Buck Wild S01E04
+http://149.56.31.188:25461/movie/ChrisW/4317/3673.mp4
+#EXTINF:0,Prelude to the Nationals : 09-03-16 : Boone Speedway
+http://149.56.31.188:25461/movie/ChrisW/4317/3683.mp4
+#EXTINF:0,BET (CA)
+http://149.56.31.188:25461/live/ChrisW/4317/613.ts
