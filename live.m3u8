@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0,24/7 WALKING DEAD
-http://149.56.31.188:25461/live/ChrisW/4317/3539.ts
+#EXTINF:0,CNN
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/668.ts
 #EXTINF:0,24/7 GAME OF THRONES
 http://149.56.31.188:25461/live/ChrisW/4317/3540.ts
 #EXTINF:0,24/7 FAMILY GUY
