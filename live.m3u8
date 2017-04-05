@@ -88,3 +88,5 @@ http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/670.ts
 http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/671.ts
 #EXTINF:0,A&E
 http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/672.ts
+#EXTINF:0,TEST
+https://www.dropbox.com/s/h92bjemoc2otb4v/20161127_105633.mp4?dl=0
