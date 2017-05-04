@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,A&E Network
+#EXTINF:0,#EXTINF:0,tvg-id="I265.10035.percdata.com" tvg-name="A&E" tvg-logo="http://www.4kfreetv1.com/logostb/aetv.png" group-title="USA",A&E
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/672.ts
 #EXTINF:0,Animal Planet
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/671.ts
