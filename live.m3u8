@@ -7,6 +7,8 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/671.ts
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/628.ts
 #EXTINF:0,BET
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/630.ts
+#EXTINF:0,BOX NATION
+plugin://plugin.video.f4mtester/?streamtype=TSDOWNLOADER&amp;url=http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2191.ts
 #EXTINF:0,CARTOON NETWORK
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/670.ts
 #EXTINF:0,CBS NEWS
