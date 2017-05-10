@@ -24,8 +24,7 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/627.ts
 #EXTINF:0,CW
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/666.ts
 #EXTINF:0,ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zeebra.tv:8000/live/ali/ali/2612.ts
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/621.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ndasat.pro:8000/live/aminstars/skypeexch/1136.ts
 #EXTINF:0,The Discovery Channel
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/652.ts
 #EXTINF:0,DIY
