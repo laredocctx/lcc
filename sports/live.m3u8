@@ -52,3 +52,45 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/231.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1451.png" group-title="Sports",Ultimate Events & Sports 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/288.ts
+#EXTINF:-1 tvg-id="10179" tvg-name="ESPN US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/549.png" group-title="Sports",ESPN US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/129.ts
+#EXTINF:-1 tvg-id="45654" tvg-name="ESPNU HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/567.png" group-title="Sports",ESPNU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/138.ts
+#EXTINF:-1 tvg-id="16485" tvg-name="ESPNews US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1213.png" group-title="Sports",ESPNews US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/239.ts
+#EXTINF:-1 tvg-id="12444" tvg-name="ESPN 2 US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1215.png" group-title="Sports",ESPN 2 US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/240.ts
+#EXTINF:-1 tvg-id="20643" tvg-name="SKY Sports News" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/54.png" group-title="Sports",SKY Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/31.ts
+#EXTINF:-1 tvg-id="11182" tvg-name="TSN 1" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3297.png" group-title="Sports",TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/375.ts
+#EXTINF:-1 tvg-id="18990" tvg-name="TSN 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3302.png" group-title="Sports",TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/376.ts
+#EXTINF:-1 tvg-id="90118" tvg-name="TSN 3" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3307.png" group-title="Sports",TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/377.ts
+#EXTINF:-1 tvg-id="90122" tvg-name="TSN 4" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3312.png" group-title="Sports",TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/378.ts
+#EXTINF:-1 tvg-id="90124" tvg-name="TSN 5" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3317.png" group-title="Sports",TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/379.ts
+#EXTINF:-1 tvg-id="82547" tvg-name="Fox Sports 1 US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/46.png" group-title="Sports",Fox Sports 1 US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/28.ts
+#EXTINF:-1 tvg-id="33178" tvg-name="Fox Sports 2 US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/673.png" group-title="Sports",Fox Sports 2 US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/168.ts
+#EXTINF:-1 tvg-id="62081" tvg-name="MLB Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/40.png" group-title="Sports",MLB Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/22.ts
+#EXTINF:-1 tvg-id="34710" tvg-name="NFL Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/591.png" group-title="Sports",NFL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/149.ts
+#EXTINF:-1 tvg-id="83162" tvg-name="UFC Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3257.png" group-title="Sports",UFC Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/367.ts
+#EXTINF:-1 tvg-id="32281" tvg-name="NBA TV HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1207.png" group-title="Sports",NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/236.ts
+#EXTINF:-1 tvg-id="58690" tvg-name="NHL Network USA HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/41.png" group-title="Sports",NHL Network USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/23.ts
+#EXTINF:-1 tvg-id="16365" tvg-name="CBS Sports Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1219.png" group-title="Sports",CBS Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sport Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/2502.png" group-title="Sports",NBC Sport Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/335.ts
+#EXTINF:-1 tvg-id="91306" tvg-name="WWE Network" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3530.png" group-title="Sports",WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAV tv" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3242.png" group-title="Sports",MAV tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/0105195719641/0105195719641/366.ts
