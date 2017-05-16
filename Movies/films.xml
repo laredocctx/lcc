@@ -1,373 +1,614 @@
+#######################################################################################################################################
+<poster>Bob</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+<dir>
+<name>[COLORcyan]Click For New Kids Movies[/COLOR]</name>
+<link>http://norestrictions.noobsandnerds.com/main/kidsnewrelease.xml</link>
+<thumbnail>http://www.norestrictions.club/norestrictions.club/arb/pics/kidsnew.jpg</thumbnail>
+</dir>
+
+<dir>
+<item>
+<title>[COLORred]R E C O M M E N D E D[/COLOR]</title>
+<link>message(Thank You For Supporting Bob.)</link>
+<thumbnail>http://www.norestrictions.club/norestrictions.club/arb/pics/RM.jpg</thumbnail>
+</item>
+</dir>
 
 <item>
-<title>The Fate Of The Furious (2017)</title>
-<link>http://185.176.192.21/vids/the_fate_of_the_furious_2017_hd-ts_x264_ac3-cpg___58faecb203ad6.mp4</link>
-<thumbnail>http://cdn.sockshare.net/VGJyczu.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/VGJyczu.jpg</fanart>
+	<title>Get Out (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt5052448</imdb>
+		<title>Get Out</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink></sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/Ae58bf7Yj6OPzwKerPgXSnxCJdh.jpg</fanart>
 </item>
 
 <item>
-<title>Guardians Of The Galaxy Vol. (2017)</title>
-<link>http://185.176.192.21/vids/guardians.of.the.galaxy.vol.2.2017.hdcam.700mb.x264-dirg___59051641374ee.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_SX300.jpg</fanart>
+	<title>Kong: Skull Island (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3731562</imdb>
+		<title>Kong: Skull Island</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>https://openload.co/embed/73rn-7N0vDI/Kong_Skull_Island_%282017%29_1080p_KORSUB_HDRip_x264.AAC2.0-STUTTERSHIT.mt.%5BMoviesTea.Com%5D.mp4
+</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/5wBbdNb0NdGiZQJYoKHRv6VbiOr.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pGwChWiAY1bdoxL79sXmaFBlYJH.jpg</fanart>
 </item>
 
 <item>
-<title>Smurfs: The Lost Village  (2017)</title>
-<link>http://185.176.192.22/vids/smurfs_the_lost_village_2017_cam_-_avc_-_aac_-h-c_subs_-_ictv_lottery___58ebeda227396.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMTg1NjgyMTYzM15BMl5BanBnXkFtZTgwMzIxNDc4MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMTg1NjgyMTYzM15BMl5BanBnXkFtZTgwMzIxNDc4MDI@._V1_SX300.jpg</fanart>
+	<title>Ghost in the Shell (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1219827</imdb>
+		<title>Ghost in the Shell</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>http://uptobox.com/k6k59h1fr9q7</sublink>
+< sublink>https://openload.co/f/ljhz5lD5qQ0/G-T-S.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lsRhmB7m36pEX0UHpkpJSE48BW5.jpg</fanart>
 </item>
 
 <item>
-<title>The Boss Baby (2017)</title>
-<link>http://185.176.192.20/vids/the_boss_baby_2017_720p_hd-ts_x264_ac3-cpg___58f4c5b1111d2.mp4</link>
-<thumbnail>http://cdn.sockshare.net/iOdw6PY.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/iOdw6PY.jpg</fanart>
+	<title>xXx: Return of Xander Cage (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1293847</imdb>
+		<title>xXx: Return of Xander Cage</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>http://uptobox.com/tco7rwtxpz03</sublink>
+< sublink>https://openload.co/f/2F0Uwd1etpA/T-R-E-X.2017.720p.WEB-DL.H264.AC3-EVO.mkv</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/yNsdyNbQqaKN0TQxkHMws2KLTJ6.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/6AewnVY9zBgVQEuCufLvsufeRcH.jpg</fanart>
 </item>
 
 <item>
-<title>I Am Not Your Negro (2017)</title>
-<link>http://185.176.192.21/vids/i.am.not.your.negro.2016.docu.brrip.xvid.mp3-rarbg___590a52e14c4a1.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMjEyNzIzMTk3Ml5BMl5BanBnXkFtZTgwNDE1Nzc1MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMjEyNzIzMTk3Ml5BMl5BanBnXkFtZTgwNDE1Nzc1MDI@._V1_SX300.jpg</fanart>
+	<title>Logan (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3315342</imdb>
+		<title>Logan</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink>http://uptobox.com/f39xjzzzp454</sublink>
+<sublink>http://uptobox.com/qc0xqojfg7nu</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/45Y1G5FEgttPAwjTYic6czC9xCn.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/5pAGnkFYSsFJ99ZxDIYnhQbQFXs.jpg</fanart>
+</item>
+
+<dir>
+<item>
+<title>[COLORgold]HD - R E L E A S E S[/COLOR]</title>
+<link>message(Thank You For Supporting Bob.)</link>
+<thumbnail>http://www.norestrictions.club/norestrictions.club/arb/pics/HD.jpg</thumbnail>
+</item>
+</dir>
+
+< item>
+	<title>Guardians of the Galaxy Vol. 2 (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3896198</imdb>
+		<title>Guardians of the Galaxy Vol. 2</title>
+		<year>2017</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/aJn9XeesqsrSLKcHfHP4u5985hn.jpg</fanart>
+</item>
+
+< item>
+	<title>T2 Trainspotting (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt2763304</imdb>
+		<title>T2 Trainspotting</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink></sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/A84pxL5z86KbV9u8GAK2mVOoXK.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/7TcnUsDLy6jBNDQZZKfRMlVrd6b.jpg</fanart>
 </item>
 
 <item>
-<title>Gifted (2017)</title>
-<link>http://185.176.192.20/vids/gifted.2017.1080p.hc.webrip.x264.aac2.0-stuttershit___590a73b115482.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMjQ2NDU3NDE0M15BMl5BanBnXkFtZTgwMjA3OTg0MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMjQ2NDU3NDE0M15BMl5BanBnXkFtZTgwMjA3OTg0MDI@._V1_SX300.jpg</fanart>
+	<title>Fist Fight (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3401882</imdb>
+		<title>Fist Fight</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink>http://uptobox.com/nrm6sj16l6wp</sublink>
+<sublink>https://openload.co/f/Cl3Tdo8WurM/Fist.Fight.2017.1080p.BluRay.x264-DRONES.mkv</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jKUgfAl26MMRxJhUCouggCaO8Px.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/kIWWulkzc3kELHJx84l3JNeZmzz.jpg</fanart>
 </item>
 
 <item>
-<title>The Circle  (2017)</title>
-<link>http://185.176.192.21/vids/the_circle_2017_russian_camrip_ac3___590ab0a1d78e8.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMjY2OTM2Njc3Ml5BMl5BanBnXkFtZTgwNDgzODU3MTI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMjY2OTM2Njc3Ml5BMl5BanBnXkFtZTgwNDgzODU3MTI@._V1_SX300.jpg</fanart>
+	<title>Gifted (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4481414</imdb>
+		<title>Gifted</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>https://openload.co/f/Cp5f9pMGMvw/y-G-i-f-t-e-d.2017.720p.HC.HDRip.X264.AC3-EVO.mkv</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/2l1rACWEktbcxKGMPqvP5d905qC.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/whCgeQbPp4rmgawvye63Ku4hzbN.jpg</fanart>
 </item>
 
 <item>
-<title>Free Fire  (2017)</title>
-<link>http://185.176.192.22/vids/free_fire_2017_hdcam_x264-cpg___59051af1f1522.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BOWZjMDVhMDgtMTljZC00NmM0LWE1ODYtNGZAhY66E(��@@�
-�_ϩP��,�T�iP����AhY��,�,E,�`@���_
-PϩT�i��,�P��FmMGRhZTc3MTg2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BOWZjMDVhMDgtMTljZC00NmM0LWE1ODYtNGZmMGRhZTc3MTg2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SX300.jpg</fanart>
+	<title>Ghost in the Shell (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1219827</imdb>
+		<title>Ghost in the Shell</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>http://uptobox.com/k6k59h1fr9q7</sublink>
+< sublink>https://openload.co/f/ljhz5lD5qQ0/G-T-S.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/lsRhmB7m36pEX0UHpkpJSE48BW5.jpg</fanart>
 </item>
 
 <item>
-<title>Before I Fall  (2017)</title>
-<link>http://185.176.192.21/vids/before.i.fall.2017.hdcam.700mb.x264-dirg___58f133a152c6c.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BNDYwOTY0MDI2OV5BMl5BanBnXkFtZTgwOTE5NzM2MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BNDYwOTY0MDI2OV5BMl5BanBnXkFtZTgwOTE5NzM2MDI@._V1_SX300.jpg</fanart>
+	<title>The Comedian (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1967614</imdb>
+		<title>The Comedian</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink>http://openload.co/f/I8w8pVUh6-Y</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/myPiGA2cBNxZLvcrGxQdsWTyR1s.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/zgSY6xiIlC7Okh4PmoSqUOdQEOh.jpg</fanart>
 </item>
 
 <item>
-<title>The Belko Experiment   (2017)</title>
-<link>http://185.176.192.20/vids/the.belko.experiment.2017.hdcam.700mb.x264-dirg___58ef6cf1775eb.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_SX300.jpg</fanart>
+	<title>Their Finest (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1661275</imdb>
+		<title>Their Finest</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink>http://openload.co/f/ixROi03vKqs<sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/tF0dhJfxzOjvkybJVfNPuuj5ClH.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/uousshudWOwQrDmAI23oCGpKD7m.jpg</fanart>
 </item>
 
 <item>
-<title>Going In Style    (2017)</title>
-<link>http://185.176.192.20/vids/going.in.style.2017.hdcam.x264.aac-nogrp___58f849b140867.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMTc5Mzg3NjI4OF5BMl5BanBnXkFtZTgwNzA3Mzg4MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMTc5Mzg3NjI4OF5BMl5BanBnXkFtZTgwNzA3Mzg4MDI@._V1_SX300.jpg</fanart>
+	<title>Colossal (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4680182</imdb>
+		<title>Colossal</title>
+		<year>2016</year>
+	</meta>
+	<link>
+< sublink>https://openload.co/f/Dbt5h7Zz1oM/C-o-l-o-s-s-al.2016.720p.WEBRip.READNFO.DD2.0.x264-BDP.mkv</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/atsNc2HVaQVxcgStYKtp9K6XZUb.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/jcCVu9A4SOn9Y3ZI3pbYNSaUSlP.jpg</fanart>
+</item>
+
+
+<item>
+	<title>Get Out (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt5052448</imdb>
+		<title>Get Out</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink></sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/Ae58bf7Yj6OPzwKerPgXSnxCJdh.jpg</fanart>
 </item>
 
 <item>
-<title>Boyka: Undisputed    (2017)</title>
-<link>http://185.176.192.21/vids/boyka.undisputed.2016.720p.webrip.xvid.mp3-fgt___58ec7591aa629.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMjE1YmJiZjMtN2M3Zi00ZjA4LTllYjgtNGQ3MTE5NWJkMWJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTg0MzgwODA@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMjE1YmJiZjMtN2M3Zi00ZjA4LTllYjgtNGQ3MTE5NWJkMWJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTg0MzgwODA@._V1_SX300.jpg</fanart>
+	<title>The Resurrection of Gavin Stone (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4902904</imdb>
+		<title>The Resurrection of Gavin Stone</title>
+		<year>2016</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/u5JWpKe1sGaWtpbA2xcN4Lxgkuc.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/8iwVdGKuzErJCHAfVvyL3iWkbud.jpg</fanart>
 </item>
 
 <item>
-<title>Leap!   (2017)</title>
-<link>http://185.176.192.21/vids/ballerina.2016.1080p.bluray.h264.aac-rarbg___58ed27b1693fc.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BZjEzMmFlNWUtYTFhOC00ZDMxLTllZmItZjc3ODMwNTk2ZmNlXkEyXkFqcGdeQXVyNTY2ODgzODg@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BZjEzMmFlNWUtYTFhOC00ZDMxLTllZmItZjc3ODMwNTk2ZmNlXkEyXkFqcGdeQXVyNTY2ODgzODg@._V1_SX300.jpg</fanart>
+	<title>Rings (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt0498381</imdb>
+		<title>Rings</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>http://uptobox.com/r1e7x2kn84mq</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/bbxtz5V0vvnTDA2qWbiiRC77Ok9.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/biN2sqExViEh8IYSJrXlNKjpjxx.jpg</fanart>
 </item>
 
 <item>
-<title>The Void  (2017)</title>
-<link>http://185.176.192.20/vids/the.void.2016.1080p.web-dl.dd5.1.h264-fgt___58e7b2d1e4af8.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BNzU0MzgxMjAtYjU0NC00ZWYyLTljZWUtNTRkNzBhZTYwYzY4XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BNzU0MzgxMjAtYjU0NC00ZWYyLTljZWUtNTRkNzBhZTYwYzY4XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_SX300.jpg</fanart>
+	<title>Gold (2016)</title>
+	<meta>
+		<content>movie</content>
+<exclude_scrapers>moviexk</exclude_scrapers>
+		<imdb>tt1800302</imdb>
+		<title>Gold</title>
+		<year>2016</year>
+	</meta>
+	<link>
+< sublink>http://openload.co/f/_CiE6votLCo</sublink>
+		<sublink>search< /sublink>
+		<sublink>searchsd</sublink>
+</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/8hYbkJjLzL8q70TkxsnIqbgNAiF.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dw1tRR2pnF18QwXTG3GrLOYXPhQ.jpg</fanart>
 </item>
 
 <item>
-<title>Salt And Fire  (2017)</title>
-<link>http://185.176.192.20/vids/salt.and.fire.2016.1080p.web-dl.dd5.1.h264-fgt___58e40e0147933.mp4</link>
-<thumbnail>http://cdn.sockshare.net/I517XgA.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/I517XgA.jpg</fanart>
+	<title>Logan (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3315342</imdb>
+		<title>Logan</title>
+		<year>2017</year>
+	</meta>
+	<link>
+<sublink>http://uptobox.com/f39xjzzzp454</sublink>
+<sublink>http://uptobox.com/qc0xqojfg7nu</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/45Y1G5FEgttPAwjTYic6czC9xCn.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/5pAGnkFYSsFJ99ZxDIYnhQbQFXs.jpg</fanart>
 </item>
 
 <item>
-<title>Ghost In The Shell   (2017)</title>
-<link>http://185.176.192.22/vids/ghost.in.the.shell.2017.1080p.korsub.hdrip.x264.aac2.0-stuttershit___590a8671a9b0c.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SX300.jpg</fanart>
+	<title>Personal Shopper (2016)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4714782</imdb>
+		<title>Personal Shopper</title>
+		<year>2016</year>
+	</meta>
+	<link>
+< sublink>http://openload.co/f/-1RqF7UjXIo</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jDOWYDmJvGkVkVHf7Ru66gy6ry8.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/yEHFlVcniqsgWmPwVs9eIp0BEe0.jpg</fanart>
 </item>
 
 <item>
-<title>A Cure For Wellness   (2017)</title>
-<link>http://185.176.192.20/vids/a_cure_for_wellness_2017_hd-ts_x264_ac3-cpg___58df4b41e5bd2.mp4</link>
-<thumbnail>http://cdn.sockshare.net/ZFKfobe.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/ZFKfobe.jpg</fanart>
+<title>La La Land (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3783958</imdb>
+<title>La La Land</title>
+<year>2016</year>
+</meta>
+<link>
+< sublink>https://openload.co/f/fUw7XWulEOg/M-a-n.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/uLJszweSoc6vPhGvyqcvABprsPT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ek6hPzj3aNsW0ss1WO11ZtyK86f.jpg</fanart>
+</item>
+
+
+<item>
+	<title>Kong: Skull Island (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3731562</imdb>
+		<title>Kong: Skull Island</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>https://openload.co/embed/73rn-7N0vDI/Kong_Skull_Island_%282017%29_1080p_KORSUB_HDRip_x264.AAC2.0-STUTTERSHIT.mt.%5BMoviesTea.Com%5D.mp4
+</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/5wBbdNb0NdGiZQJYoKHRv6VbiOr.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/pGwChWiAY1bdoxL79sXmaFBlYJH.jpg</fanart>
 </item>
 
 <item>
-<title>Chips  (2017)</title>
-<link>http://185.176.192.21/vids/chips.2017.hdcam-matine___58de1131c926b.mp4</link>
-<thumbnail>http://cdn.sockshare.net/VqzM1HB.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/VqzM1HB.jpg</fanart>
+	<title>Boyka: Undisputed IV (2016)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3344680</imdb>
+<scrapertitle>Boyka: Undisputed</scrapertitle>
+		<title>Boyka: Undisputed IV</title>
+		<year>2016</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/ubR8Oc1jnvnM9tJLyKEGRhqNeO0.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/5dLLiR8IUT7T0r5HVcvRlItNWTn.jpg</fanart>
 </item>
 
 <item>
-<title>Power Rangers (2017)</title>
-<link>http://185.176.192.22/vids/power_rangers_2017_hd-ts_x264_ac3-cpg___58e12e112b124.mp4</link>
-<thumbnail>http://cdn.sockshare.net/IYcoLqX.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/IYcoLqX.jpg</fanart>
+	<title>Aftermath (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4581576</imdb>
+		<title>Aftermath</title>
+		<year>2017</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/25oWTCGqIik4gUTMidx3L8DI4Bt.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/9HcXzYUnnwyFu9WSEM2IOxd2VhC.jpg</fanart>
 </item>
 
 <item>
-<title>Life (2017)</title>
-<link>http://185.176.192.20/vids/life_2017_hdcam_eng_x264-unique___58dd1d71c08a0.mp4</link>
-<thumbnail>http://cdn.sockshare.net/aekUxlG.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/aekUxlG.jpg</fanart>
+	<title>Mine (2016)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3707104</imdb>
+		<title>Mine</title>
+		<year>2016</year>
+	</meta>
+	<link>
+< sublink>https://openload.co/f/lLCFyOQnEc8/M.2016.BDRip.XviD.AC3-EVO.avi</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kd3mUSpIFyN1YaifsZrDt68o0FG.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/dEJryRu1avfAiRF2jZ90Iq14TPP.jpg</fanart>
 </item>
 
 <item>
-<title>Atomica (2017)</title>
-<link>http://185.176.192.21/vids/atomica.2017.hdrip.xvid.ac3-evo___58d25de13dd49.mp4</link>
-<thumbnail>http://cdn.sockshare.net/sCchw7Q.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/sCchw7Q.jpg</fanart>
+	<title>Sleepless (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt2072233</imdb>
+		<title>Sleepless</title>
+		<year>2017</year>
+	</meta>
+	<link>
+< sublink>http://openload.co/f/RblUDQEq6dI</sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/7xs95EFwrp0SaZxzhyNUygIFx1f.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2kh3udxp4uiiwN1fLJB5AP2nNI0.jpg</fanart>
 </item>
 
 <item>
-<title>Going In Style    (2017)</title>
-<link>http://185.176.192.20/vids/going.in.style.2017.hdcam.x264.aac-nogrp___58f849b140867.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMTc5Mzg3NjI4OF5BMl5BanBnXkFtZTgwNzA3Mzg4MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMTc5Mzg3NjI4OF5BMl5BanBnXkFtZTgwNzA3Mzg4MDI@._V1_SX300.jpg</fanart>
+	<title>The Founder (2016)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4276820</imdb>
+		<title>The Founder</title>
+		<year>2016</year>
+	</meta>
+	<link>
+< sublink>http://openload.co/f/12ITIqZKwg0</sublink>
+<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/opcuOaMAJbWbCEUloOQraeKu8vD.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/qPZpmZKO2N73IeHMuyck116ZpiO.jpg</fanart>
 </item>
 
 <item>
-<title>Boyka: Undisputed    (2017)</title>
-<link>http://185.176.192.21/vids/boyka.undisputed.2016.720p.webrip.xvid.mp3-fgt___58ec7591aa629.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMjE1YmJiZjMtN2M3Zi00ZjA4LTllYjgtNGQ3MTE5NWJkMWJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTg0MzgwODA@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMjE1YmJiZjMtN2M3Zi00ZjA4LTllYjgtNGQ3MTE5NWJkMWJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTg0MzgwODA@._V1_SX300.jpg</fanart>
+<title>Hidden Figures (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt4846340</imdb>
+<title>Hidden Figures</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6cbIDZLfwUTmttXTmNi8Mp3Rnmg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kkUlAvfTWUdnD3hWvPbo6797H9W.jpg</fanart>
+</item>
+
+
+<item>
+	<title>The Space Between Us (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3922818</imdb>
+		<title>The Space Between Us</title>
+		<year>2017</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/kwJuEkzMhsKxmu1r6X4U1jZovfj.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/2h8TCzqYWO95mjqMQE3D9zwhzHO.jpg</fanart>
 </item>
 
 <item>
-<title>Leap!   (2017)</title>
-<link>http://185.176.192.21/vids/ballerina.2016.1080p.bluray.h264.aac-rarbg___58ed27b1693fc.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BZjEzMmFlNWUtYTFhOC00ZDMxLTllZmItZjc3ODMwNTk2ZmNlXkEyXkFqcGdeQXVyNTY2ODgzODg@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BZjEzMmFlNWUtYTFhOC00ZDMxLTllZmItZjc3ODMwNTk2ZmNlXkEyXkFqcGdeQXVyNTY2ODgzODg@._V1_SX300.jpg</fanart>
+	<title>Split (2017)</title>
+	<meta>
+		<content>movie</content>
+<exclude_scrapers>bobby,watchitvideos</exclude_scrapers>
+		<imdb>tt4972582</imdb>
+		<title>Split</title>
+		<year>2016</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/rXMWOZiCt6eMX22jWuTOSdQ98bY.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/fTagLdJGuyj1c3Zhov4Ah8xcN1z.jpg</fanart>
 </item>
 
 <item>
-<title>The Void  (2017)</title>
-<link>http://185.176.192.20/vids/the.void.2016.1080p.web-dl.dd5.1.h264-fgt___58e7b2d1e4af8.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BNzU0MzgxMjAtYjU0NC00ZWYyLTljZWUtNTRkNzBhZTYwYzY4XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BNzU0MzgxMjAtYjU0NC00ZWYyLTljZWUtNTRkNzBhZTYwYzY4XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_SX300.jpg</fanart>
+	<title>Rogue One: A Star Wars Story (2016)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt3748528</imdb>
+		<title>Rogue One: A Star Wars Story</title>
+		<year>2016</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/qjiskwlV1qQzRCjpV0cL9pEMF9a.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/tZjVVIYXACV4IIIhXeIM59ytqwS.jpg</fanart>
 </item>
 
 <item>
-<title>Salt And Fire  (2017)</title>
-<link>http://185.176.192.20/vids/salt.and.fire.2016.1080p.web-dl.dd5.1.h264-fgt___58e40e0147933.mp4</link>
-<thumbnail>http://cdn.sockshare.net/I517XgA.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/I517XgA.jpg</fanart>
+	<title>The Great Wall (2016) </title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt2034800</imdb>
+		<title>The Great Wall</title>
+		<year>2016</year>
+	</meta>
+	<link>
+< sublink></sublink>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/hm0Z5tpRlSzPO97U5e2Q32Y0Xrb.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/yESCAoZkaxZ2AMiHojl9jYYd9zD.jpg</fanart>
 </item>
 
 <item>
-<title>Ghost In The Shell   (2017)</title>
-<link>http://185.176.192.22/vids/ghost.in.the.shell.2017.1080p.korsub.hdrip.x264.aac2.0-stuttershit___590a8671a9b0c.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SX300.jpg</fanart>
+	<title>Resident Evil: The Final Chapter (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt2592614</imdb>
+		<title>Resident Evil: The Final Chapter</title>
+		<year>2016</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/7XlaaMzQUz5EqTY0m07hn3PbGu7.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/eRdcFDoWnZ5hia7ptUOOvyPDlE0.jpg</fanart>
 </item>
 
 <item>
-<title>A Cure For Wellness   (2017)</title>
-<link>http://185.176.192.20/vids/a_cure_for_wellness_2017_hd-ts_x264_ac3-cpg___58df4b41e5bd2.mp4</link>
-<thumbnail>http://cdn.sockshare.net/ZFKfobe.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/ZFKfobe.jpg</fanart>
+	<title>Why Him? (2016)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4501244</imdb>
+		<title>Why Him?</title>
+		<year>2016</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://image.tmdb.org/t/p/w500/jXDV4Y98kxZcpmnr2JV6CB8OEGr.jpg</thumbnail>
+	<fanart>http://image.tmdb.org/t/p/original/bob0KKKBe54zlNwRzRI3nvAtYlo.jpg</fanart>
 </item>
 
 <item>
-<title>Chips  (2017)</title>
-<link>http://185.176.192.21/vids/chips.2017.hdcam-matine___58de1131c926b.mp4</link>
-<thumbnail>http://cdn.sockshare.net/VqzM1HB.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/VqzM1HB.jpg</fanart>
+<title>Patriots Day (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt4572514</imdb>
+<title>Patriots Day</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w640/oqNMEdFQsFBwLNjTk9yaKRNB83D.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tiBL4PeaCPKGBz3qO4dJP2KzKop.jpg</fanart>
 </item>
 
-<item>
-<title>Power Rangers (2017)</title>
-<link>http://185.176.192.22/vids/power_rangers_2017_hd-ts_x264_ac3-cpg___58e12e112b124.mp4</link>
-<thumbnail>http://cdn.sockshare.net/IYcoLqX.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/IYcoLqX.jpg</fanart>
-</item>
 
-<item>
-<title>Life (2017)</title>
-<link>http://185.176.192.20/vids/life_2017_hdcam_eng_x264-unique___58dd1d71c08a0.mp4</link>
-<thumbnail>http://cdn.sockshare.net/aekUxlG.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/aekUxlG.jpg</fanart>
-</item>
-
-<item>
-<title>Atomica (2017)</title>
-<link>http://185.176.192.21/vids/atomica.2017.hdrip.xvid.ac3-evo___58d25de13dd49.mp4</link>
-<thumbnail>http://cdn.sockshare.net/sCchw7Q.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/sCchw7Q.jpg</fanart>
-</item>
-
-<item>
-<title>A United Kingdom (2017)</title>
-<link>http://185.176.192.40/vids/a.united.kingdom.2016.1080p.bluray.h264.aac-rarbg___58d10c6172a78.mp4</link>
-<thumbnail>http://cdn.sockshare.net/hHcjl8G.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/hHcjl8G.jpg</fanart>
-</item>
-
-<item>
-<title>Beauty And The Beast  (2017)</title>
-<link>http://185.176.192.21/vids/beauty_and_the_beast_2017_hd-ts_x264-cpg___58d61a218b482.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_SX300.jpg</fanart>
-</item>
-
-<item>
-<title>Rock Dog  (2017)</title>
-<link>http://185.176.192.40/vids/rock.dog.2016.1080p.bluray.x264-_yts.ag___590f02e1b8c37.mp4</link>
-<thumbnail>http://cdn.sockshare.net/xZ8m2nR.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/xZ8m2nR.jpg</fanart>
-</item>
-
-<item>
-<title>T2 Trainspotting   (2017)</title>
-<link>http://185.176.192.21/vids/t2.trainspotting.2017.cam.xvid-etrg___58cb0181c4886.mp4</link>
-<thumbnail>http://cdn.sockshare.net/pTTcLi6.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/pTTcLi6.jpg</fanart>
-</item>
-
-<item>
-<title>The Shack   (2017)</title>
-<link>http://185.176.192.21/vids/the.shack.2017.nologo.eng.hdcam.x264___58ca1721e5fe4.mp4</link>
-<thumbnail>http://cdn.sockshare.net/G4H2LEA.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/G4H2LEA.jpg</fanart>
-</item>
-
-<item>
-<title>Brimstone   (2017)</title>
-<link>http://185.176.192.107/vids/brimstone.2016.1080p.web-dl.dd5.1.h264-fgt___58c3c14184147.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BYjA3ODUwNjMtOGY0MC00NmFkLTlhNjEtOGI1YzVjY2IxZTU0L2ltYWdlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BYjA3ODUwNjMtOGY0MC00NmFkLTlhNjEtOGI1YzVjY2IxZTU0L2ltYWdlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg</fanart>
-</item>
-
-<item>
-<title>Kong: Skull Island   (2017)</title>
-<link>http://185.176.192.21/vids/kong.skull.island.2017.1080p.korsub.hdrip.x264.aac2.0-stuttershit___58e81ea14fb98.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMTUwMzI5ODEwNF5BMl5BanBnXkFtZTgwNjAzNjI2MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMTUwMzI5ODEwNF5BMl5BanBnXkFtZTgwNjAzNjI2MDI@._V1_SX300.jpg</fanart>
-</item>
-
-<item>
-<title>The Other Half   (2017)</title>
-<link>http://185.176.192.107/vids/the.other.half.2016.1080p.web-dl.dd5.1.h264-fgt___58c2f7b12809f.mp4</link>
-<thumbnail>http://cdn.sockshare.net/C9Hbxxm.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/C9Hbxxm.jpg</fanart>
-</item>
-
-<item>
-<title>Quarries    (2017)</title>
-<link>http://185.176.192.40/vids/quarries.2016.1080p.web-dl.aac2.0.h264-fgt___58c2e9a200a3f.mp4</link>
-<thumbnail>http://cdn.sockshare.net/n96RfFH.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/n96RfFH.jpg</fanart>
-</item>
-
-<item>
-<title>The Space Between Us    (2017)</title>
-<link>http://185.176.192.22/vids/the.space.between.us.2017.1080p.web-dl.aac2.0.h264-fgt___590a81c1c9706.mp4</link>
-<thumbnail>http://cdn.sockshare.net/KetaNMK.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/KetaNMK.jpg</fanart>
-</item>
-
-<item>
-<title>Get Out   (2017)</title>
-<link>http://185.176.192.20/vids/get.out.2017.1080p.hc.webrip.x264.aac2.0-stuttershit___58fa8a41d4f3a.mp4</link>
-<thumbnail>http://cdn.sockshare.net/TjXAkMJ.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/TjXAkMJ.jpg</fanart>
-</item>
-
-<item>
-<title>The Bye Bye Man   (2017)</title>
-<link>http://185.176.192.21/vids/the.bye.bye.man.2017.1080p.web-dl.dd5.1.h264-fgt___58dab2b204ca7.mp4</link>
-<thumbnail>http://cdn.sockshare.net/dnTzofU.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/dnTzofU.jpg</fanart>
-</item>
-
-<item>
-<title>Logan   (2017)</title>
-<link>http://185.176.192.22/vids/logan.2017.1080p.korsub.hdrip.x264.aac2.0-stuttershit___58f0d5e1486f6.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMjI1MjkzMjczMV5BMl5BanBnXkFtZTgwNDk4NjYyMTI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMjI1MjkzMjczMV5BMl5BanBnXkFtZTgwNDk4NjYyMTI@._V1_SX300.jpg</fanart>
-</item>
-
-<item>
-<title>Max 2: White House Hero  (2017)</title>
-<link>http://185.176.192.40/vids/max.2.white.house.hero.2017.1080p.bluray.x264-_yts.ag___591339016582f.mp4</link>
-<thumbnail>http://cdn.sockshare.net/max-2-white-house-hero-2017-77656.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/max-2-white-house-hero-2017-77656.jpg</fanart>
-</item>
-
-<item>
-<title>Fallen  (2017)</title>
-<link>http://185.176.192.26/vids/fallen.2016.dvdrip.xvid.ac3-evo___58bac3b1a8cf0.mp4</link>
-<thumbnail>http://cdn.sockshare.net/D1VSLkT.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/D1VSLkT.jpg</fanart>
-</item>
-
-<item>
-<title>The Assignment   (2017)</title>
-<link>http://185.176.192.107/vids/the.assignment.2016.1080p.web-dl.dd5.1.h264-fgt___58b984f2179b3.mp4</link>
-<thumbnail>http://cdn.sockshare.net/33OStYc.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/33OStYc.jpg</fanart>
-</item>
-
-<item>
-<title>Wolves   (2017)</title>
-<link>http://185.176.192.107/vids/wolves.2016.1080p.web-dl.dd5.1.h264-fgt___58ba4e819124c.mp4</link>
-<thumbnail>http://cdn.sockshare.net/3cBmKar.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/3cBmKar.jpg</fanart>
-</item>
-
-<item>
-<title>Catfight    (2017)</title>
-<link>http://185.176.192.20/vids/catfight.2016.1080p.web-dl.aac2.0.h264-fgt___58b984f21745f.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BNTM4Nzg2MTI1NV5BMl5BanBnXkFtZTgwNjIwODcyMTI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BNTM4Nzg2MTI1NV5BMl5BanBnXkFtZTgwNjIwODcyMTI@._V1_SX300.jpg</fanart>
-</item>
-
-<item>
-<title>The Guardians     (2017)</title>
-<link>http://185.176.192.20/vids/the.guardians.2017.russian.1080p.web-dl.h264.dd5.1-fgt___58f768b1a4ca0.mp4</link>
-<thumbnail>http://cdn.sockshare.net/Qios85M.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/Qios85M.jpg</fanart>
-</item>
-
-<item>
-<title>Collide     (2017)</title>
-<link>http://185.176.192.26/vids/collide.2016.1080p.bluray.x264-rovers___5865fc91e0fab.mp4</link>
-<thumbnail>http://cdn.sockshare.net/MV5BNjRhMGI3ZGItZTMzMS00NzdmLWI1MzMtNjk0ZmY5ZjMyZDdkL2ltYWdlXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BNjRhMGI3ZGItZTMzMS00NzdmLWI1MzMtNjk0ZmY5ZjMyZDdkL2ltYWdlXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_SX300.jpg</fanart>
-</item>
-
-<item>
-<title>Fist Fight     (2017)</title>
-<link>http://uptobox.com/nrm6sj16l6wp</link>
-<thumbnail>http://cdn.sockshare.net/MV5BMTg0NzkyMjE5NF5BMl5BanBnXkFtZTgwMDE5NTg3MDI@._V1_SX300.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/MV5BMTg0NzkyMjE5NF5BMl5BanBnXkFtZTgwMDE5NTg3MDI@._V1_SX300.jpg</fanart>
-</item>
+<dir>
+<name>More Releases</name>
+<link>http://www.norestrictions.club/norestrictions.club/main/Release%20Archive.xml</link>
+<thumbnail>http://www.norestrictions.club/norestrictions.club/arb/pics/Phonto-tmp.jpg</thumbnail>
+</dir>
