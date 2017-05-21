@@ -26,7 +26,7 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/627.ts
 #EXTINF:0,CW
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/666.ts
 #EXTINF:0,ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ndasat.pro:8000/live/aminstars/skypeexch/1136.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/H04570X51231G/H04570X51231G/129.ts 
 #EXTINF:0,The Discovery Channel
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/652.ts
 #EXTINF:0,DIY
