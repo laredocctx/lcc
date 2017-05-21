@@ -1,4 +1,17 @@
 <item>
+<title> </title>
+<meta>
+<content>movie</content>
+<imdb>tt</imdb>
+<title>Sacrilege </title>
+<year>2017</year>
+</meta>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://alphareborn.offshorepastebin.com/arb/images/DrStream/MainImages/drstreamfanart.png</fanart>
+</item>
+
+<item>
 <title>The Fate Of The Furious (2017)</title>
 <link>http://uptobox.com/rnbjcrbxz0j2</link>
 <thumbnail>http://cdn.sockshare.net/VGJyczu.jpg</thumbnail>
@@ -28,9 +41,17 @@
 
 <item>
 <title>The LEGO Batman Movie (2017)</title>
-<link>http://uptobox.com/zejppco3bo9o</link>
-<thumbnail>http://cdn.sockshare.net/iOdw6PY.jpg</thumbnail>
-<fanart>http://cdn.sockshare.net/iOdw6PY.jpg</fanart>
+<meta>
+<tmdb_data></tmdb_data>
+<content>movie</content>
+<imdb>tt4116284</imdb>
+<title>The LEGO Batman Movie</title>
+<year>2017</year>
+</meta>
+<link>http://uptobox.com/zejppco3bo9o
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xz19G9wDghFsT06fumyevXGkHWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gbO4tWvMC0oLbNvHP9Zth3eUeAA.jpg</fanart>	
 </item>
 
 <item>
