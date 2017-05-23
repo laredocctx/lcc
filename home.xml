@@ -80,6 +80,6 @@
 <title>USA</title>
 <link>ignoreme</link>
 <thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/live.php?type=m3u;output=ts</externallink>
+<externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/live.m3u8</externallink>
 <fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
 </item>
