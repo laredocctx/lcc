@@ -72,7 +72,7 @@
 <title>LATINO</title>
 <link>ignoreme</link>
 <thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/latino/live.m3u8</externallink>
+<externallink>://raw.githubusercontent.com/laredocctx/lcc/master/latino</externallink>
 <fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
 </item>
 
@@ -80,6 +80,6 @@
 <title>USA</title>
 <link>ignoreme</link>
 <thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/live.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/get.php?type=m3u;output=ts</externallink>
 <fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
 </item>
