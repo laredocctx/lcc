@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="19247" tvg-name="Discovery en Español" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1333.png" group-title="Science",Discovery en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/263.ts
+#EXTINF:-1 tvg-id="65940" tvg-name="Discovery Theater" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/29.png" group-title="Science",Discovery Theater
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/13.ts
+#EXTINF:-1 tvg-id="66488" tvg-name="Discovery World" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1493.png" group-title="Science",Discovery World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/290.ts
+#EXTINF:-1 tvg-id="59582" tvg-name="Discovery Home & Health Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/44.png" group-title="Entertainments",Discovery Home & Health Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/119.png" group-title="Entertainments",H2 Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/51.ts
+#EXTINF:-1 tvg-id="40137" tvg-name="History Channel Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/219.png" group-title="Entertainments",History Channel Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/98.ts
+#EXTINF:-1 tvg-id="25068" tvg-name="National Geographic Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/217.png" group-title="Culture",National Geographic Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/97.ts
+#EXTINF:-1 tvg-id="67590" tvg-name="Nat Geo Wild Latino America" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/35.png" group-title="Culture",Nat Geo Wild Latino America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/18.ts
+#EXTINF:-1 tvg-id="18649" tvg-name="Animal Planet Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/121.png" group-title="Culture",Animal Planet Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/52.ts
+#EXTINF:-1 tvg-id="37747" tvg-name="ESPN Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/819.png" group-title="Sports",ESPN Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/182.ts
+#EXTINF:-1 tvg-id="67765" tvg-name="ESPN 2 Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/123.png" group-title="Sports",ESPN 2 Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/53.ts
+#EXTINF:-1 tvg-id="73833" tvg-name="ESPN 3 Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/125.png" group-title="Sports",ESPN 3 Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/54.ts
+#EXTINF:-1 tvg-id="30262" tvg-name="Fox Sports Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/831.png" group-title="Sports",Fox Sports Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/185.ts
+#EXTINF:-1 tvg-id="71328" tvg-name="Fox Sports 2 Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/215.png" group-title="Sports",Fox Sports 2 Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/96.ts
+#EXTINF:-1 tvg-id="47374" tvg-name="Fox Sports 3 Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/127.png" group-title="Sports",Fox Sports 3 Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/55.ts
+#EXTINF:-1 tvg-id="91995" tvg-name="F1 Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/969.png" group-title="Sports",F1 Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/217.ts
+#EXTINF:-1 tvg-id="83162" tvg-name="UFC Network Latinoamerica HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/625.png" group-title="Sports",UFC Network Latinoamerica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/159.ts
+#EXTINF:-1 tvg-id="76943" tvg-name="Bein Sports en Español HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1239.png" group-title="Sports",Bein Sports en Español HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3695.png" group-title="Sports",Claro Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="TDN Mexico" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/635.png" group-title="Sports",TDN Mexico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/161.ts
+#EXTINF:-1 tvg-id="" tvg-name="Univision TDN" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/869.png" group-title="Sports",Univision TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="GolTV" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3529.png" group-title="Sports",GolTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://50.97.142.130/hls2/amlst:30001_ios/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DXTV" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/2854.png" group-title="Sports",DXTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="61033" tvg-name="Golf Channel Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/877.png" group-title="Sports",Golf Channel Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/204.ts
+#EXTINF:-1 tvg-id="75176" tvg-name="Univision Deportes HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3207.png" group-title="Sports",Univision Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/364.ts
+#EXTINF:-1 tvg-id="89128" tvg-name="Trace Sport Stars" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/863.png" group-title="Sports",Trace Sport Stars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Norte" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/42.png" group-title="Kids",Disney Channel Norte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/24.ts
+#EXTINF:-1 tvg-id="16563" tvg-name="Disney XD Norte" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/255.png" group-title="Kids",Disney XD Norte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/111.ts
+#EXTINF:-1 tvg-id="61311" tvg-name="Disney Junior Norte" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/843.png" group-title="Kids",Disney Junior Norte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/191.ts
+#EXTINF:-1 tvg-id="16707" tvg-name="Nickelodeon Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/817.png" group-title="Kids",Nickelodeon Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/181.ts
+#EXTINF:-1 tvg-id="60295" tvg-name="Nick Jr Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3337.png" group-title="Kids",Nick Jr Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/381.ts
+#EXTINF:-1 tvg-id="45955" tvg-name="Discovery Kids America Latina" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/131.png" group-title="Kids",Discovery Kids America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="Once Niños" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3699.png" group-title="Kids",Once Niños
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/429.ts
+#EXTINF:-1 tvg-id="55719" tvg-name="Boomerang Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3332.png" group-title="Kids",Boomerang Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/380.ts
+#EXTINF:-1 tvg-id="16141" tvg-name="Cartoon Network Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/133.png" group-title="Kids",Cartoon Network Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/137.png" group-title="Kids",ZooMoo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/58.ts
+#EXTINF:-1 tvg-id="56036" tvg-name="Baby TV Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/139.png" group-title="Kids",Baby TV Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/59.ts
+#EXTINF:-1 tvg-id="60755" tvg-name="CBeebies Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/609.png" group-title="Kids",CBeebies Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/153.ts
+#EXTINF:-1 tvg-id="19385" tvg-name="Canal Sony" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/837.png" group-title="Entertainments",Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/188.ts
+#EXTINF:-1 tvg-id="62091" tvg-name="BBC Entertainment Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/805.png" group-title="Entertainments",BBC Entertainment Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/177.ts
+#EXTINF:-1 tvg-id="16521" tvg-name="Unicable" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1393.png" group-title="Entertainments",Unicable
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/267.ts
+#EXTINF:-1 tvg-id="16213" tvg-name="Warner Channel Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/839.png" group-title="Entertainments",Warner Channel Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/189.ts
+#EXTINF:-1 tvg-id="30259" tvg-name="E! Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/141.png" group-title="Entertainments",E! Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/60.ts
+#EXTINF:-1 tvg-id="46442" tvg-name="FX Latino" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/143.png" group-title="Entertainments",FX Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/61.ts
+#EXTINF:-1 tvg-id="69971" tvg-name="Universal Channel America Latina" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/209.png" group-title="Cinema",Universal Channel America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/93.ts
+#EXTINF:-1 tvg-id="15688" tvg-name="Fox Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/821.png" group-title="Entertainments",Fox Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/183.ts
+#EXTINF:-1 tvg-id="56727" tvg-name="Syfy Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/145.png" group-title="Entertainments",Syfy Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/43.png" group-title="Entertainments",A&E Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/25.ts
+#EXTINF:-1 tvg-id="25793" tvg-name="Investigation Discovery Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/147.png" group-title="Science",Investigation Discovery Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/63.ts
+#EXTINF:-1 tvg-id="73822" tvg-name="TLC Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/149.png" group-title="Entertainments",TLC Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/64.ts
+#EXTINF:-1 tvg-id="72534" tvg-name="AXN Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/833.png" group-title="Entertainments",AXN Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/186.ts
+#EXTINF:-1 tvg-id="16574" tvg-name="Eurochannel" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/939.png" group-title="Entertainments",Eurochannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/211.ts
+#EXTINF:-1 tvg-id="83262" tvg-name="MundoFox" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/151.png" group-title="Entertainments",MundoFox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/153.png" group-title="Entertainments",TNT Series Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/66.ts
+#EXTINF:-1 tvg-id="45910" tvg-name="Elgourmet" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/613.png" group-title="Culture",Elgourmet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa Club TV" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/861.png" group-title="Entertainments",Casa Club TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/199.ts
+#EXTINF:-1 tvg-id="17457" tvg-name="Mas Chic" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3696.png" group-title="Entertainments",Mas Chic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/426.ts
+#EXTINF:-1 tvg-id="75073" tvg-name="TBS America Latina" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/155.png" group-title="Entertainments",TBS America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/67.ts
+#EXTINF:-1 tvg-id="24459" tvg-name="Glitz Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/859.png" group-title="Entertainments",Glitz Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/198.ts
+#EXTINF:-1 tvg-id="49263" tvg-name="FOX Life" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/157.png" group-title="Entertainments",FOX Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/68.ts
+#EXTINF:-1 tvg-id="55980" tvg-name="Distrito Comedia" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/879.png" group-title="Entertainments",Distrito Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/205.ts
+#EXTINF:-1 tvg-id="74528" tvg-name="Comedy Central Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/617.png" group-title="Entertainments",Comedy Central Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/156.ts
+#EXTINF:-1 tvg-id="68223" tvg-name="Tru TV America Latina" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/159.png" group-title="Entertainments",Tru TV America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/69.ts
+#EXTINF:-1 tvg-id="63328" tvg-name="Efekto TV" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/619.png" group-title="Entertainments",Efekto TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/157.ts
+#EXTINF:-1 tvg-id="99620" tvg-name="Multimedios Plus" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/845.png" group-title="Entertainments",Multimedios Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/192.ts
+#EXTINF:-1 tvg-id="89214" tvg-name="Lifetime Latinoamerica" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/161.png" group-title="Entertainments",Lifetime Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/70.ts
+#EXTINF:-1 tvg-id="59014" tvg-name="WOBI" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3692.png" group-title="Business",WOBI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/422.ts
+#EXTINF:-1 tvg-id="27773" tvg-name="CNN en Español" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/213.png" group-title="Information",CNN en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/95.ts
+#EXTINF:-1 tvg-id="87311" tvg-name="El Financiero Bloomberg" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1391.png" group-title="Business",El Financiero Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv66.tv/live/X29415W31084P/X29415W31084P/266.ts
