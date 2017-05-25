@@ -6,7 +6,7 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/665.ts
 #EXTINF:-1 tvg-id="" tvg-name="ABC (LOS ANGELES)" tvg-logo="http://www.4kfreetv1.com/logostb/abc" group-title="USA",ABC (LOS ANGELES)
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/3341.ts
 #EXTINF:-1 tvg-id="I11.10759.percdata.com" tvg-name="CBS (BUFFALO)" tvg-logo="http://www.4kfreetv1.com/logostb/cbs" group-title="USA",CBS (BUFFALO)
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/2837.ts
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/669.ts
 #EXTINF:-1 tvg-id="I11.10759.percdata.com" tvg-name="CBS (LANCASTER)" tvg-logo="http://www.4kfreetv1.com/logostb/cbs" group-title="USA",CBS (LANCASTER)
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1312.ts
 #EXTINF:-1 tvg-id="I33.26636.percdata.com" tvg-name="CW" tvg-logo="http://www.4kfreetv1.com/logostb/cw.png" group-title="USA",CW
@@ -24,13 +24,13 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/630.ts
 #EXTINF:-1 tvg-id="I237.10057.percdata.com" tvg-name="BRAVO" tvg-logo="http://www.4kfreetv1.com/logostb/bravo.png" group-title="USA",BRAVO
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/250.ts
 #EXTINF:-1 tvg-id="I249.10149.percdata.com" tvg-name="COMEDY CENTRAL" tvg-logo="http://www.4kfreetv1.com/logostb/comedy.png" group-title="USA",COMEDY CENTRAL
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/627.ts
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/667.ts
 #EXTINF:-1 tvg-id="I232.30156.percdata.com" tvg-name="COOKING CHANNEL" tvg-logo="http://www.4kfreetv1.com/logostb/cook" group-title="USA",COOKING CHANNEL
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/2991.ts
 #EXTINF:-1 tvg-id="I571.61469.percdata.com" tvg-name="CRIME INVESTIGATION" tvg-logo="http://www.4kfreetv1.com/logostb/crime.png" group-title="USA",CRIME INVESTIGATION
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/352.ts
 #EXTINF:-1 tvg-id="I286.16617.percdata.com" tvg-name="DESTINATION AMERICA" tvg-logo="http://www.4kfreetv1.com/logostb/deam" group-title="USA",DESTINATION AMERICA
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/3342.ts
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/621.ts
 #EXTINF:-1 tvg-id="I278.11150.percdata.com" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.4kfreetv1.com/logostb/dsc.png" group-title="USA",DISCOVERY CHANNEL
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/652.ts
 #EXTINF:-1 tvg-id="I294.16618.percdata.com" tvg-name="SCI" tvg-logo="http://www.4kfreetv1.com/logostb/sci.png" group-title="USA",SCI
