@@ -115,5 +115,5 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/276.ts
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/644.ts
 #EXTINF:-1 tvg-id="I519.59948.percdata.com" tvg-name="ACTION MAX" tvg-logo="http://www.4kfreetv1.com/logostb/acmax.png" group-title="USA",ACTION MAX
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/244.ts
-#EXTINF:-1 tvg-id="I506.59839.percdata.com" tvg-name="HBO" tvg-logo="http://www.4kfreetv1.com/logostb/hboc.png" group-title="USA",HBO COMEDY
+#EXTINF:-1 tvg-id="I506.59839.percdata.com" tvg-name="HBO" tvg-logo="http://www.4kfreetv1.com/logostb/hbo.png" group-title="USA",HBO
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/634.ts
