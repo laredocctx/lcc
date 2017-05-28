@@ -117,3 +117,6 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/644.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/244.ts
 #EXTINF:-1 tvg-id="I506.59839.percdata.com" tvg-name="HBO" tvg-logo="http://www.4kfreetv1.com/logostb/hbo.png" group-title="USA",HBO 
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts
+#EXTINF:-1 tvg-id="I515.10120.percdata.com" tvg-name="CINEMAX" tvg-logo="http://www.4kfreetv1.com/logostb/cinemax" group-title="USA",CINEMAX
+#EXTINF:-1 tvg-id="I515.10120.percdata.com" tvg-name="CINEMAX" tvg-logo="http://www.4kfreetv1.com/logostb/cinemax" group-title="USA",CINEMAX
+<desc_image><![CDATA[http://www.4kfreetv1.com/logostb/nbc]]></desc_image><category_id>0</category_id><stream_url><![CDATA[http://149.56.31.188/live/Julie/52817/2836.ts]]></stream_url></channel><channel><title>Rk9YKDEwODApIFsxNjowMCAtIDIwOjMwXSArIDE2OS43IG1pbiAgIE5BU0NBUiBSYWNpbmc=</title><description>WzE2OjAwXSBOQVNDQVIgUmFjaW5nCiggS3lsZSBCdXNjaCBsb29rcyB0byBjYXJyeSB0aGUgbW9tZW50dW0gZnJvbSBsYXN0IHdlZWsncyB2aWN0b3J5IGF0IHRoZSBBbGwtU3RhciBSYWNlIGludG8gdGhlIENvY2EtQ29sYSA2MDAsIHRoZSBsb25nZXN0IHJhY2Ugb24gdGhlIE5BU0NBUiBzY2hlZHVsZS4gVGhlIGxhc3QgZHJpdmVyIHRvIGNvbXBsZXRlIHRoZSBBbGwtU3Rhci82MDAgc3dlZXAgd2FzIEt5bGUncyBvbGRlciBicm90aGVyIEt1cnQsIGluIDIwMTAuKQpbMjA6MzBdIEZveCA0IE5ld3MgYXQgOQooICkK</description>
