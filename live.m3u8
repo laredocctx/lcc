@@ -54,7 +54,7 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/635.ts
 #EXTINF:-1 tvg-id="I266.16834.percdata.com" tvg-name="FYI" tvg-logo="http://www.4kfreetv1.com/logostb/fyi.png" group-title="USA",FYI
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/643.ts
 #EXTINF:-1 tvg-id="I312.11221.percdata.com" tvg-name="HALLMARK" tvg-logo="http://www.4kfreetv1.com/logostb/hall.png" group-title="USA",HALLMARK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/288.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://hlsprx-2.herokuapp.com/hls/00caceb4b495292e3180e259af7fc77a/1496056009/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3233302f7032702f31383534333231633466346166663337393031393831306164613963366334612d3432373838382e7473.ts
 #EXTINF:-1 tvg-id="I229.49788.percdata.com" tvg-name="HGTV" tvg-logo="http://www.4kfreetv1.com/logostb/hgtv.png" group-title="USA",HGTV
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/297.ts
 #EXTINF:-1 tvg-id="I269.14771.percdata.com" tvg-name="HISTORY" tvg-logo="http://www.4kfreetv1.com/logostb/history.png" group-title="USA",HISTORY
