@@ -20,9 +20,25 @@ http://theplayersklub.host:2095/enigma2.php?username=leetv&password=leetv1&type=
 ]]>
 </playlist_url>
 </channel>
+  
 </item>
- 
 <epg><tvgurl>http://4kfreetv1.com/xmltv.xml</tvgurl> <tvgshift>2</tvgshift> </epg> <epgitem> <title>USA | Fox Sports 1 HD</title> <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/80/FS1_New_Logo.png</thumbnail> <info>Find live sports scores, sports news, videos, professional sports rumors, game stats, team standings, team schedules, fantasy games at FOX</info> <link>http://theplayersklub.host/live/leetv/leetv1/630.ts</link> </epgitem> <item><title>GLOBAL TORONTO</title><link>http://theplayersklub.host/live/leetv/leetv1/630.ts</link></item>
+<channel>
+<title>
+RGlzY292ZXJ5U2NpZW5jZSBmcmVlIFswMjowMCAtIDAzOjAwXSArIDIwLjcgbWluICAgRXh0cmVtZSBFbmdpbmVlcmluZw==
+</title>
+<description>
+WzAyOjAwXSBFeHRyZW1lIEVuZ2luZWVyaW5nCiggVGhlIFBhbmFtYSBDYW5hbCBpcyBiZWluZyB3aWRlbmVkIHRvIGFjY29tbW9kYXRlIG1vZGVybiBzaGlwcywgYnV0IHRoZSB0aHJlYXQgb2YgY2F0YXN0cm9waGUgaGFuZ3Mgb3ZlciB0aGlzIHByZWNhcmlvdXMgZW5kZWF2b3VyKG4pKQpbMDM6MDBdIFN0cmlwIHRoZSBDaXR5CiggVXNpbmcgQ0dJIHRvIHN0cmlwIGl0IG9mIGl0cyBzdGVlbCBhbmQgY29uY3JldGUsIGV4cGxvcmUgdGhlIGluZnJhc3RydWN0dXJlIHRoYXQga2VlcHMgTmV3IE9ybGVhbnMgc2FmZSBmcm9tIHBvdGVudGlhbCAzMGZ0IHdhdmVzIGFuZCB0cm9waWNhbCBjeWNsb25lcyhuKSkK
+</description>
+<desc_image>
+<![CDATA[ ]]></desc_image>
+<category_id>1</category_id>
+<stream_url>
+<![CDATA[
+http://theplayersklub.host:2095/live/leetv/leetv1/651.ts
+]]>
+</stream_url>
+</channel>
 
 
 
