@@ -1,7 +1,7 @@
 <item>
 <title>test </title>
 <link>http://theplayersklub.host/live/leetv/leetv1/630.ts</link>
-<epg>http://4kfreetv1.com/xmltv.xml</epg>
+<description>http://4kfreetv1.com/xmltv.xml</description>
 <thumbnail></thumbnail><fanart>http://alphareborn.offshorepastebin.com/arb/images/DrStream/MainImages/drstreamfanart.png</fanart>
 </item>
   
@@ -22,7 +22,7 @@ http://theplayersklub.host:2095/enigma2.php?username=leetv&password=leetv1&type=
 </channel>
 </item>
  
-<epg><tvgurl>http://4kfreetv1.com/xmltv.xml</tvgurl> <tvgshift>2</tvgshift> </epg> <epgitem> <title>USA | Fox Sports 1 HD</title> <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/80/FS1_New_Logo.png</thumbnail> <info>Find live sports scores, sports news, videos, professional sports rumors, game stats, team standings, team schedules, fantasy games at FOX</info> <link>some url</link> </epgitem> <item><title>GLOBAL TORONTO</title><link>http://theplayersklub.host/live/leetv/leetv1/630.ts</link></item>
+<epg><tvgurl>http://4kfreetv1.com/xmltv.xml</tvgurl> <tvgshift>2</tvgshift> </epg> <epgitem> <title>USA | Fox Sports 1 HD</title> <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/80/FS1_New_Logo.png</thumbnail> <info>Find live sports scores, sports news, videos, professional sports rumors, game stats, team standings, team schedules, fantasy games at FOX</info> <link>http://theplayersklub.host/live/leetv/leetv1/630.ts</link> </epgitem> <item><title>GLOBAL TORONTO</title><link>http://theplayersklub.host/live/leetv/leetv1/630.ts</link></item>
 
 
 
