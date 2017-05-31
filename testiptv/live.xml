@@ -1,9 +1,9 @@
 <item>
 <title>test </title>
 <link>http://theplayersklub.host/live/leetv/leetv1/630.ts</link>
-<epg>http://4kfreetv1.com/xmltv.xml
+<epg>http://4kfreetv1.com/xmltv.xml</epg>
 <thumbnail></thumbnail><fanart>http://alphareborn.offshorepastebin.com/arb/images/DrStream/MainImages/drstreamfanart.png</fanart>
-<item/>
+</item>
   
 <item>
 <playlist_name>Live [ Example ]</playlist_name>
