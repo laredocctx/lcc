@@ -9,4 +9,23 @@
 <link></link>
 <thumbnail></thumbnail><fanart>http://alphareborn.offshorepastebin.com/arb/images/DrStream/MainImages/drstreamfanart.png</fanart>
 <item/>
+  
+<item>
+<playlist_name>Live [ Example ]</playlist_name>
+<category>
+<category_id>1</category_id><category_title>Live [ Example ]</category_title>
+</category>
+<channel>
+<title>QWxs</title>
+<description>TGl2ZSBTdHJlYW1zIENhdGVnb3J5IFsgQUxMIF0=</description>
+<category_id>0</category_id>
+<playlist_url>
+<![CDATA[
+http://theplayersklub.host:2095/enigma2.php?username=leetv&password=leetv1&type=get_live_streams&cat_id=0
+]]>
+</playlist_url>
+</channel>
+</item>
+
+
 
