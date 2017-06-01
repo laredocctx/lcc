@@ -11,9 +11,13 @@
 <item/>
 
 <item>
-<tvg id="I8.11458.percdata.com"> 
-<tvg name="NBC (BUFFALO)">
-<tvg logo="http://www.4kfreetv1.com/logostb/nbc"> 
-<group title="USA",NBC (BUFFALO)http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/662.ts>
+	<channel id="I202.10142.percdata.com">
+		<display-name>CNN</display-name>
+		<display-name>202 CNN</display-name>
+		<display-name>202</display-name>
+		<display-name>Cable News Network</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+  <link>http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts</link>
 <item/>
 
