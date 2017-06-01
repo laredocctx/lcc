@@ -4,7 +4,8 @@
 <tvgshift>-1</tvgshift>
 </epg>
 <epgitem><title>CNN</title>
-  <tvg id="I8.11458.percdata.com"> 
+<description></description>
+<channel id="I8.11458.percdata.com"> 
 <link>http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts</link>
 <epgitem/>
 <item/>
