@@ -1,10 +1,10 @@
-<item>
-<title>test </title>
-<externallink>http://theplayersklub.host/live/leetv/leetv1/630.ts</externallink>
-<description>http://4kfreetv1.com/xmltv.xml</description>
-<thumbnail></thumbnail><fanart>http://alphareborn.offshorepastebin.com/arb/images/DrStream/MainImages/drstreamfanart.png</fanart>
-</item>
-  
+<epg><tvgurl>http://4kfreetv1.com/xmltv.xml</tvgurl>
+<tvgshift>-1</tvgshift>
+</epg>
+<epgitem><title>CBS</title>
+<link>http://theplayersklub.host:2095/enigma2.php?username=leetv&password=leetv1&type=get_live_streams&cat_id=1</link>
+</epgitem>
+
 <item>
 <playlist_name>Live [ Example ]</playlist_name>
 <category>
