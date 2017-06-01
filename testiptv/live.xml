@@ -17,7 +17,11 @@
 <display-name>202</display-name>
 <display-name>Cable News Network</display-name>
 <display-name>Satellite</display-name>
-</channel>
+<channel/>
 <link>http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts</link>
+<epg>
+<tvgurl>http://4kfreetv1.com/xmltv.xml</tvgurl>
+<tvgshift>-1</tvgshift>
+</epg>
 <item/>
 
