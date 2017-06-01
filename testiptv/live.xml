@@ -4,7 +4,7 @@
 <tvgshift>-1</tvgshift>
 </epg>
 <epgitem><title>CBS (BUFFALO)</title>
-<link>http://theplayersklub.host:2095/enigma2.php?username=leetv&password=leetv1&type=get_live_streams&cat_id=1</link>
+<link>http://theplayersklub.host:2095/live/leetv/leetv1/672.ts</link>
 </epgitem>
 </item>
 
