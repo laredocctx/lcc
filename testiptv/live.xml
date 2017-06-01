@@ -1,5 +1,6 @@
 <item>
-<epg><tvgurl>http://4kfreetv1.com/xmltv.xml</tvgurl>
+<epg>
+<tvgurl>http://4kfreetv1.com/xmltv.xml</tvgurl>
 <tvgshift>-1</tvgshift>
 </epg>
 <epgitem><title>CBS</title>
