@@ -6,8 +6,7 @@
 <epgitem><title>CNN</title>
 <link>http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts</link>
 </epgitem>
-</item>
-
+<channelitem>
 <channel>
 <programme start="20170520220000 +0000" stop="201705202300008 +0000" channel="I4.10402.percdata.com">
 <title lang="en">Fox 4 News at 5</title>
@@ -19,6 +18,7 @@
 </programme>
 <programme start="20170520230000 +0000" stop="20170521020000 +0000" channel="I4.10402.percdata.com">
 <channel/>
+<item>
 
 <item>
 <playlist_name>Live [ Example ]</playlist_name>
