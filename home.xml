@@ -88,8 +88,8 @@
 
     <item>
         <title>test</title>
-        <link>https://github.com/laredocctx/lcc/raw/master/testiptv/live.xml>
-</link>
+        <externallink>https://github.com/laredocctx/lcc/raw/master/testiptv/live.xml>
+</externallink>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Poker</genre>
         <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
@@ -100,7 +100,7 @@
     
     <item>
         <title>test</title>         
-        <link><!http://theplayersklub.host:2095/live/leetv/leetv1/672.ts>swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
+        <link>https://github.com/laredocctx/lcc/raw/master/testiptv/live.xml</link>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
