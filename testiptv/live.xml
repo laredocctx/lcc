@@ -5,9 +5,10 @@
 </epg>
 <epgitem><title>CNN</title>
 <description></description>
-<channel id="I8.11458.percdata.com"> 
+<channel id="I8.11458.percdata.com">
+</channel>
 <link>http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts</link>
-<epgitem/>
+</epgitem>
 <item/>
 
 <item>
