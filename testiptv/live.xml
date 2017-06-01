@@ -6,9 +6,9 @@
 <epgitem><title>CNN</title>
 <link>http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts</link>
 </epgitem>
-<channel>
+<channel id="I202.10142.percdata.com">
 <programme start="20170520220000 +0000" stop="201705202300008 +0000" channel="I4.10402.percdata.com">
-<title lang="en">Fox 4 News at 5</title>
+<title lang="en">CNN</title>
 <category lang="en">News</category>
 <category lang="en">Series</category>
 <episode-num system="dd_progid">SH00642409.0000</episode-num>
