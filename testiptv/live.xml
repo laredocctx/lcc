@@ -19,36 +19,10 @@
 <channel/>
 <item/>
 
-<playlist_name>Live [ Example ]</playlist_name>
-<category>
-<category_id>1</category_id><category_title>Live [ Example ]</category_title>
-</category>
-<channel>
-<title>QWxs</title>
-<description>TGl2ZSBTdHJlYW1zIENhdGVnb3J5IFsgQUxMIF0=</description>
-<category_id>0</category_id>
-<playlist_url>
-<![CDATA[
-http://theplayersklub.host:2095/enigma2.php?username=leetv&password=leetv1&type=get_live_streams&cat_id=0
-]]>
-</playlist_url>
-</channel>
-  
 <item>
-<title>
-RGlzY292ZXJ5U2NpZW5jZSBmcmVlIFswMjowMCAtIDAzOjAwXSArIDIwLjcgbWluICAgRXh0cmVtZSBFbmdpbmVlcmluZw==
-</title>
-<description>
-WzAyOjAwXSBFeHRyZW1lIEVuZ2luZWVyaW5nCiggVGhlIFBhbmFtYSBDYW5hbCBpcyBiZWluZyB3aWRlbmVkIHRvIGFjY29tbW9kYXRlIG1vZGVybiBzaGlwcywgYnV0IHRoZSB0aHJlYXQgb2YgY2F0YXN0cm9waGUgaGFuZ3Mgb3ZlciB0aGlzIHByZWNhcmlvdXMgZW5kZWF2b3VyKG4pKQpbMDM6MDBdIFN0cmlwIHRoZSBDaXR5CiggVXNpbmcgQ0dJIHRvIHN0cmlwIGl0IG9mIGl0cyBzdGVlbCBhbmQgY29uY3JldGUsIGV4cGxvcmUgdGhlIGluZnJhc3RydWN0dXJlIHRoYXQga2VlcHMgTmV3IE9ybGVhbnMgc2FmZSBmcm9tIHBvdGVudGlhbCAzMGZ0IHdhdmVzIGFuZCB0cm9waWNhbCBjeWNsb25lcyhuKSkK
-</description>
-<desc_image>
-<![CDATA[ ]]></desc_image>
-<category_id>1</category_id>
-<link>
-<![CDATA[
-http://theplayersklub.host:2095/live/leetv/leetv1/651.ts
-]]>
-</link>
-</item>
-
+<tvg id="I8.11458.percdata.com"> 
+<tvg name="NBC (BUFFALO)">
+<tvg logo="http://www.4kfreetv1.com/logostb/nbc"> 
+<group title="USA",NBC (BUFFALO)http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/662.ts>
+<item/>
 
