@@ -88,6 +88,7 @@
 
     <item>
         <title>test</title>
+	 <link>ignoreme</link>
         <externallink>https://github.com/laredocctx/lcc/raw/master/testiptv/live.m>
 </externallink>
         <thumbnail>http://channel.png</thumbnail>
