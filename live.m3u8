@@ -7,14 +7,10 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/665.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/3341.ts
 #EXTINF:-1 tvg-id="I11.10759.percdata.com" tvg-name="CBS (BUFFALO)" tvg-logo="http://www.4kfreetv1.com/logostb/cbs" group-title="USA",CBS (BUFFALO)
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts
-#EXTINF:-1 tvg-id="I11.10759.percdata.com" tvg-name="CBS (LANCASTER)" tvg-logo="http://www.4kfreetv1.com/logostb/cbs" group-title="USA",CBS (LANCASTER)
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1312.ts
 #EXTINF:-1 tvg-id="I33.26636.percdata.com" tvg-name="CW" tvg-logo="http://www.4kfreetv1.com/logostb/cw.png" group-title="USA",CW
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/666.ts
 #EXTINF:-1 tvg-id="I265.10035.percdata.com" tvg-name="A&E" tvg-logo="http://www.4kfreetv1.com/logostb/aetv.png" group-title="USA",A&E
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
-#EXTINF:-1 tvg-id="I254.10021.percdata.com" tvg-name="AMC" tvg-logo="http://www.4kfreetv1.com/logostb/amc.png" group-title="USA",AMC
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/245.ts
 #EXTINF:-1 tvg-id="I282.16331.percdata.com" tvg-name="ANIMAL PLANET" tvg-logo="http://www.4kfreetv1.com/logostb/apl.png" group-title="USA",ANIMAL PLANET
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/671.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBC-America" tvg-logo="https://www.dropbox.com/s/lessirbzbhh46p8/bbca.png?dl=1" group-title="USA",BBC-America
@@ -25,10 +21,6 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/630.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/250.ts
 #EXTINF:-1 tvg-id="I249.10149.percdata.com" tvg-name="COMEDY CENTRAL" tvg-logo="http://www.4kfreetv1.com/logostb/comedy.png" group-title="USA",COMEDY CENTRAL
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/667.ts
-#EXTINF:-1 tvg-id="I232.30156.percdata.com" tvg-name="COOKING CHANNEL" tvg-logo="http://www.4kfreetv1.com/logostb/cook" group-title="USA",COOKING CHANNEL
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/2991.ts
-#EXTINF:-1 tvg-id="I571.61469.percdata.com" tvg-name="CRIME INVESTIGATION" tvg-logo="http://www.4kfreetv1.com/logostb/crime.png" group-title="USA",CRIME INVESTIGATION
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/352.ts
 #EXTINF:-1 tvg-id="I286.16617.percdata.com" tvg-name="DESTINATION AMERICA" tvg-logo="http://www.4kfreetv1.com/logostb/deam" group-title="USA",DESTINATION AMERICA
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/621.ts
 #EXTINF:-1 tvg-id="I278.11150.percdata.com" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.4kfreetv1.com/logostb/dsc.png" group-title="USA",DISCOVERY CHANNEL
@@ -40,11 +32,9 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/646.ts
 #EXTINF:-1 tvg-id="I230.18544.percdata.com" tvg-name="DIY" tvg-logo="http://www.4kfreetv1.com/logostb/diy.png" group-title="USA",DIY
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/650.ts
 #EXTINF:-1 tvg-id="I236.10989.percdata.com" tvg-name="E!" tvg-logo="http://www.4kfreetv1.com/logostb/e!.png" group-title="USA",E!
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/268.ts
-#EXTINF:-1 tvg-id="I341.84172.percdata.com" tvg-name="EL RAY NETWORK" tvg-logo="http://www.4kfreetv1.com/logostb/elray.png" group-title="USA",EL RAY NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/4081.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/655.ts
 #EXTINF:-1 tvg-id="I231.12574.percdata.com" tvg-name="FOOD NETWORK" tvg-logo="http://www.4kfreetv1.com/logostb/food.png" group-title="USA",FOOD NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/273.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
 #EXTINF:-1 tvg-id="I311.10093.percdata.com" tvg-name="FREEFORM" tvg-logo="http://www.4kfreetv1.com/logostb/free.png" group-title="USA",FREEFORM
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/2501.ts
 #EXTINF:-1 tvg-id="I248.14321.percdata.com" tvg-name="FX" tvg-logo="http://www.4kfreetv1.com/logostb/fx.png" group-title="USA",FX
@@ -53,22 +43,14 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/664.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/635.ts
 #EXTINF:-1 tvg-id="I266.16834.percdata.com" tvg-name="FYI" tvg-logo="http://www.4kfreetv1.com/logostb/fyi.png" group-title="USA",FYI
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/643.ts
-#EXTINF:-1 tvg-id="I312.11221.percdata.com" tvg-name="HALLMARK" tvg-logo="http://www.4kfreetv1.com/logostb/hall.png" group-title="USA",HALLMARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://hlsprx-2.herokuapp.com/live/00caceb4b495292e3180e259af7fc77a/1496056009/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3233302f7032702f31383534333231633466346166663337393031393831306164613963366334612d3432373838382e7473.ts
-#EXTINF:-1 tvg-id="I229.49788.percdata.com" tvg-name="HGTV" tvg-logo="http://www.4kfreetv1.com/logostb/hgtv.png" group-title="USA",HGTV
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/297.ts
 #EXTINF:-1 tvg-id="I269.14771.percdata.com" tvg-name="HISTORY" tvg-logo="http://www.4kfreetv1.com/logostb/history.png" group-title="USA",HISTORY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/300.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/633.ts
 #EXTINF:-1 tvg-id="I285.16615.percdata.com" tvg-name="ID" tvg-logo="http://www.4kfreetv1.com/logostb/ID.png" group-title="USA",ID
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/641.ts
 #EXTINF:-1 tvg-id="I252.10918.percdata.com" tvg-name="LIFETIME" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1e/Lifetime_2013.png/revision/latest/scale-to-width-down/200?cb=20150531221814" group-title="USA",LIFETIME
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/663.ts
-#EXTINF:-1 tvg-id="I276.24959.percdata.com" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://www.4kfreetv1.com/logostb/natg.png" group-title="USA",NATIONAL GEOGRAPHIC
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/308.ts
-#EXTINF:-1 tvg-id="I283.66804.percdata.com" tvg-name="NAT GEO WILD" tvg-logo="http://www.4kfreetv1.com/logostb/ngw" group-title="USA",NAT GEO WILD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/311.ts
-#EXTINF:-1 tvg-id="I283.66804.percdata.com" tvg-name="NAT GEO WILD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="USA",NAT GEO WILD (2)
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/310.ts
+#EXTINF:-1 tvg-id="I252.10918.percdata.com" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="http://www.4kfreetv1.com/logostb/lmn.png" group-title="USA",LIFETIME MOVIE NETWORK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/649.ts
 #EXTINF:-1 tvg-id="I241.11163.percdata.com" tvg-name="SPIKE" tvg-logo="http://www.4kfreetv1.com/logostb/spike.png" group-title="USA",SPIKE
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/659.ts
 #EXTINF:-1 tvg-id="I244.11097.percdata.com" tvg-name="SYFY" tvg-logo="http://www.4kfreetv1.com/logostb/syfy" group-title="USA",SYFY
@@ -79,44 +61,39 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/657.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/338.ts
 #EXTINF:-1 tvg-id="I245.11164.percdata.com" tvg-name="TNT" tvg-logo="http://www.4kfreetv1.com/logostb/tnt.png" group-title="USA",TNT
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/656.ts
-#EXTINF:-1 tvg-id="I298.21883.percdata.com" tvg-name="BOOMERANG" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.M72e8f90a0ea7d369aeec74710d434249H0&pid=15.1&P=0&w=237&h=180" group-title="USA",BOOMERANG
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/348.ts
 #EXTINF:-1 tvg-id="I296.12131.percdata.com" tvg-name="CARTOON NETWORK" tvg-logo="http://www.4kfreetv1.com/logostb/toon.png" group-title="USA",CARTOON NETWORK
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/670.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (CA)" tvg-logo="http://www.4kfreetv1.com/logostb/toon.png" group-title="CANADA",Cartoon Network (CA)
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/610.ts
-#EXTINF:-1 tvg-id="I290.10171.percdata.com" tvg-name="DISNEY NETWORK" tvg-logo="http://www.4kfreetv1.com/logostb/disn.png" group-title="USA",DISNEY NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/265.ts
-#EXTINF:-1 tvg-id="I289.74796.percdata.com" tvg-name="DJCH" tvg-logo="http://www.4kfreetv1.com/logostb/djch.png" group-title="USA",DJCH
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/355.ts
-#EXTINF:-1 tvg-id="I292.18279.percdata.com" tvg-name="DISNEY  XD" tvg-logo="http://www.4kfreetv1.com/logostb/DXD.png" group-title="USA",DISNEY  XD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/356.ts
 #EXTINF:-1 tvg-id="I299.11006.percdata.com" tvg-name="NICKELODEON" tvg-logo="http://www.4kfreetv1.com/logostb/nik.png" group-title="USA",NICKELODEON
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/318.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon   +1" tvg-logo="http://www.4kfreetv1.com/logostb/nik.png" group-title="UK",Nickelodeon   +1
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS  (UK)" tvg-logo="http://www.4kfreetv1.com/logostb/nik.png" group-title="UK",NICKTOONS  (UK)
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/721.ts
-#EXTINF:-1 tvg-id="I301.19211.percdata.com" tvg-name="NICJR" tvg-logo="http://www.4kfreetv1.com/logostb/nicjr.png" group-title="USA",NICJR
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/319.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr  +1" tvg-logo="http://www.4kfreetv1.com/logostb/nicjr.png" group-title="UK",Nick Jr  +1
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/627.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/783.ts
 #EXTINF:-1 tvg-id="I13.10436.percdata.com" tvg-name="PBS" tvg-logo="http://www.4kfreetv1.com/logostb/pbs.png" group-title="USA",PBS
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/322.ts
-#EXTINF:-1 tvg-id="I355.10139.percdata.com" tvg-name="CNBC" tvg-logo="http://www.4kfreetv1.com/logostb/cnbc.png" group-title="USA",CNBC
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/255.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/660.ts
 #EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="http://www.4kfreetv1.com/logostb/msnbc.png" group-title="USA",MSNBC
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/640.ts
 #EXTINF:-1 tvg-id="I202.10142.percdata.com" tvg-name="CNN" tvg-logo="http://www.4kfreetv1.com/logostb/cnn.png" group-title="USA",CNN
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/668.ts
 #EXTINF:-1 tvg-id="I360.16374.percdata.com" tvg-name="FOX NEWS CHANNEL" tvg-logo="http://www.4kfreetv1.com/logostb/fnc.png" group-title="USA",FOX NEWS CHANNEL
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/276.ts
-#EXTINF:-1 tvg-id="I515.10120.percdata.com" tvg-name="CINEMAX" tvg-logo="http://www.4kfreetv1.com/logostb/cinemax" group-title="USA",CINEMAX
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/644.ts
-#EXTINF:-1 tvg-id="I519.59948.percdata.com" tvg-name="ACTION MAX" tvg-logo="http://www.4kfreetv1.com/logostb/acmax.png" group-title="USA",ACTION MAX
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/244.ts
 #EXTINF:-1 tvg-id="I506.59839.percdata.com" tvg-name="HBO" tvg-logo="http://www.4kfreetv1.com/logostb/hbo.png" group-title="USA",HBO 
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts
-#EXTINF:-1 tvg-id="I515.10120.percdata.com" tvg-name="CINEMAX" tvg-logo="http://www.4kfreetv1.com/logostb/cinemax" group-title="USA",CINEMAX
-#EXTINF:-1 tvg-id="I515.10120.percdata.com" tvg-name="CINEMAX" tvg-logo="http://www.4kfreetv1.com/logostb/cinemax" group-title="USA",CINEMAX
-<desc_image><![CDATA[http://www.4kfreetv1.com/logostb/nbc]]></desc_image><category_id>0</category_id><stream_url><![CDATA[http://149.56.31.188/live/Julie/52817/2836.ts]]></stream_url></channel><channel><title>Rk9YKDEwODApIFsxNjowMCAtIDIwOjMwXSArIDE2OS43IG1pbiAgIE5BU0NBUiBSYWNpbmc=</title><description>WzE2OjAwXSBOQVNDQVIgUmFjaW5nCiggS3lsZSBCdXNjaCBsb29rcyB0byBjYXJyeSB0aGUgbW9tZW50dW0gZnJvbSBsYXN0IHdlZWsncyB2aWN0b3J5IGF0IHRoZSBBbGwtU3RhciBSYWNlIGludG8gdGhlIENvY2EtQ29sYSA2MDAsIHRoZSBsb25nZXN0IHJhY2Ugb24gdGhlIE5BU0NBUiBzY2hlZHVsZS4gVGhlIGxhc3QgZHJpdmVyIHRvIGNvbXBsZXRlIHRoZSBBbGwtU3Rhci82MDAgc3dlZXAgd2FzIEt5bGUncyBvbGRlciBicm90aGVyIEt1cnQsIGluIDIwMTAuKQpbMjA6MzBdIEZveCA0IE5ld3MgYXQgOQooICkK</description>
+#EXTINF:-1 tvg-id="I219.82547.percdata.com" tvg-name="FOX SPORTS  1" tvg-logo="http://www.4kfreetv1.com/logostb/fox1" group-title="SPORTS",FOX SPORTS  1
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts
+#EXTINF:-1 tvg-id="I506.59839.percdata.com" tvg-name="HBO COMEDY" tvg-logo="http://www.4kfreetv1.com/logostb/hboc.png" group-title="USA",HBO COMEDY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/624.ts
+#EXTINF:-1 tvg-id="I507.16585.percdata.com" tvg-name="HBOF" tvg-logo="http://www.4kfreetv1.com/logostb/HBOF" group-title="USA",HBOF
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/623.ts
+#EXTINF:-1 tvg-id="I503.10243.percdata.com" tvg-name="HBOSIG" tvg-logo="http://www.4kfreetv1.com/logostb/HBOSIG" group-title="USA",HBOSIG
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/642.ts
+#EXTINF:-1 tvg-id="I213.62079.percdata.com" tvg-name="MLB NETWORK" tvg-logo="http://www.4kfreetv1.com/logostb/mlb" group-title="SPORTS",MLB NETWORK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/719.ts
+#EXTINF:-1 tvg-id="I216.32281.percdata.com" tvg-name="NBA TV" tvg-logo="http://www.4kfreetv1.com/logostb/nbatv" group-title="SPORTS",NBA TV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/639.ts
+#EXTINF:-1 tvg-id="I212.45399.percdata.com" tvg-name="NFL Network" tvg-logo="http://www.4kfreetv1.com/logostb/nfl" group-title="SPORTS",NFL Network
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/632.ts
+#EXTINF:-1 tvg-id="I545.11115.percdata.com" tvg-name="SHOWTIME" tvg-logo="http://www.4kfreetv1.com/logostb/showtime" group-title="USA",SHOWTIME
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/638.ts
+#EXTINF:-1 tvg-id="I531.67236.percdata.com" tvg-name="STARZ CINEMA" tvg-logo="http://www.4kfreetv1.com/logostb/starzcin" group-title="USA",STARZ CINEMA
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/636.ts
+#EXTINF:-1 tvg-id="I246.10153.percdata.com" tvg-name="TRU TV" tvg-logo="http://www.4kfreetv1.com/logostb/trutv.png" group-title="USA",TRU TV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/648.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="http://www.4kfreetv1.com/logostb/wwe" group-title="SPORTS",WWE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/631.ts
