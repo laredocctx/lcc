@@ -65,8 +65,17 @@
 <link>ignoreme</link>
 <thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/Movies/films.xml</externallink>
+<fanart>.jpg</fanart>
+</item>
+
+<item>
+<title>Movies/TV shows Temporary</title>
+<link>ignoreme</link>
+<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
+<externallink>http://freetvforall.esy.es/temp.m3u</externallink>
 <fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
 </item>
+
 
 <item>
 <title>LATINO</title>
