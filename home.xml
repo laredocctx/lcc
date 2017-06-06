@@ -3,86 +3,12 @@
 
 <title>WARNING!! THIS IS A RESTRICTED AREA YOU DON'T BELONG HERE, AND YOU HAVE BEEN CAUGHT TRYING TO SNOOP ON OUR CONTENT, PLEASE REFRAIN FROM DOING SO </title>
 
-
-<item>
-<title>Live TV server 1 UK IPTV (ONLINE)</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/server1.m3u</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Live TV server 2 UK IPTV (ONLINE)</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/server2.m3u</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Live TV server 3 World IPTV(ONLINE)</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/server3.m3u</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Live TV server 4 World IPTV(ONLINE)</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/server4.m3u</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Live TV server 5 UK+USA IPTV (ONLINE)</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/server5.m3u</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Live Sports</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/live%20sport.xml</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Non F4M Live tv </title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/Live-TV.xml</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
 <item>
 <title>Movies 2017 by LRDCC</title>
 <link>ignoreme</link>
 <thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/Movies/films.xml</externallink>
 <fanart>.jpg</fanart>
-</item>
-
-<item>
-<title>Movies/TV MIXED LANGUAGES! BETA</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>http://freetvforall.esy.es/temp.m3u</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
-</item>
-
-
-<item>
-<title>LATINO</title>
-<link>ignoreme</link>
-<thumbnail>http://laredocordcutters.com/addons/plugin.video.lcciptv/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/laredocctx/lcc/master/latino/live.m3u8</externallink>
-<fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -101,31 +27,5 @@
 <fanart>http://laredocordcutters.com/files/images/fanart.jpg</fanart>
 </item>
 
-
-
-    <item>
-        <title>test</title>
-	 <link>ignoreme</link>
-        <externallink>https://github.com/laredocctx/lcc/raw/master/testiptv/live.m>
-</externallink>
-        <thumbnail>http://channel.png</thumbnail>
-        <genre>Poker</genre>
-        <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-        <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
-    </item>
-    
-    <item>
-        <title>test</title>         
-        <link>https://github.com/laredocctx/lcc/raw/master/testiptv/live.m3u8</link>
-        <thumbnail>http://header_logo.gif</thumbnail>
-    </item>
-	
-    <item>
-        <title>test</title>         
-        <link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-english" swfVfy=true live=true</link>
-        <thumbnail>http://some/place.jpg</thumbnail>
-	</item>
 
 
