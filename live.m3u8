@@ -97,6 +97,4 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/636.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/648.ts
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="http://www.4kfreetv1.com/logostb/wwe" group-title="SPORTS",WWE
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/631.ts
-#EXTINF:-1 tvg-id="I506.59839.percdata.com" epg-id="124" tvg-name="HBO"
-channel-id="http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts" tvg-logo="http://www.4kfreetv1.com/logostb/hbo.png" group-title="USA",HBO 
-url-epg="http://www.4kfreetv1.com/xmltv.xml"
+#EXTINF:-1 channel-id="I506.59839.percdata.com" epg-id="124" tvg-name="hbo" pay="1" channel-id="hbo" tvg-logo="http://www.4kfreetv1.com/logostb/hbo.png" group-title="USA",HBO url-epg="http://www.4kfreetv1.com/xmltv.xml" tvg-shift="+1",test
